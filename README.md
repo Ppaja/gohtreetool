@@ -1,5 +1,7 @@
 ### Visual GoH dc research tree editor
 
+Inside the mod folder is the current version of the mod, you can just modify it for a american, fin etc tree. If you have a question ask me ^^
+
 ## Usage
 1. **Select the Correct Research File**: 
    Open the `sc.py` script and modify the line to select the correct research file for the nation you want to edit. For example:
