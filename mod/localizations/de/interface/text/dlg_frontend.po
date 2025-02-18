@@ -1,0 +1,6680 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cta - Gates of Hell (dlg_frontend)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2021-04-27 17:57+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Language: de\n"
+
+msgctxt "main_menu2/dynamic_campaign/region_hint_west"
+msgid "Western Europe - (Liberation Maps)"
+msgstr "Westeuropa - (Liberation Karten)"
+
+msgctxt "options/keys/actions/lock_ammo"
+msgid "Toggle ammo switching"
+msgstr "Munitionswechsel umschalten"
+
+msgctxt "options/keys/actions/lock_ammo#desc"
+msgid "Toggle whether a vehicle can or cannot automatically switch its cannon shell type depending on its target. Automatic ammo switching is ON by default."
+msgstr "Schaltet um, ob ein Fahrzeug seinen Granattyp in Abhängigkeit von seinem Ziel automatisch wechseln kann oder nicht. Der automatische Munitionswechsel ist standardmäßig eingeschaltet."
+
+msgctxt "options/keys/interface/toggle_objectives"
+msgid "Objectives"
+msgstr "Ziele"
+
+msgctxt "options/timeout/text"
+msgid "Previous settings will be restored in %1% sec."
+msgstr "Die ursprünglichen Einstellungen werden in %1% Sek. wiederhergestellt."
+
+msgctxt "options/workshop/no_workshop_items2"
+msgid "Steam is in offline mode or Steam Cloud is disabled."
+msgstr "Entweder läuft Steam im Offlinemodus oder Steam Cloud ist deaktiviert."
+
+msgctxt "options/keys/control_manual/special_action"
+msgid "Toggle throwing weapon"
+msgstr "Wurfgeschoss auswählen"
+
+msgctxt "options/game/msg_cloud_reset"
+msgid "Delete stored profile data in Steam Cloud?"
+msgstr "In Steam Cloud gespeicherte Profildaten löschen?"
+
+msgctxt "options/game/camera_shakes"
+msgid "Enable Screen Shake"
+msgstr "Bildschirmerschütterung aktivieren"
+
+msgctxt "options/game/camera_shakes#desc"
+msgid "Enable the screen to shake when explosions happen near the screen"
+msgstr "Aktivieren Sie, dass der Bildschirm wackelt, wenn Explosionen in der Nähe des Bildschirms stattfinden"
+
+msgctxt "options/keys/keymap/key_x"
+msgid "X"
+msgstr "X"
+
+msgctxt "options/video/resolution/depth#/16"
+msgid "16-bit"
+msgstr "16-bit"
+
+msgctxt "options/title"
+msgid "Options"
+msgstr "Optionen"
+
+msgctxt "options/keys/keymap/key_f5"
+msgid "F5"
+msgstr "F5"
+
+msgctxt "options/video/feature_level/dx11.0"
+msgid "DX11"
+msgstr "DX11"
+
+msgctxt "options/timeout/question"
+msgid "Do you want to keep these settings?"
+msgstr "Möchten Sie diese Einstellungen übernehmen?"
+
+msgctxt "options/keys/groups/select_5"
+msgid "Select squad 5"
+msgstr "Trupp 5 auswählen"
+
+msgctxt "options/video/filmgrain"
+msgid "Film grain"
+msgstr "Filmkörnung"
+
+msgctxt "options/video/preset#/medium"
+msgid "Medium"
+msgstr "Mittel"
+
+#| msgctxt "options/video/resolution/depth#desc"
+#| msgid ""
+#| "Screen color depth (bits per pixel). Lowering this setting can improve game "
+#| "performance. For better results, change screen resolution, color depth and "
+#| "texture quality proportionally."
+msgctxt "options/video/resolution/depth#desc"
+msgid ""
+"<c(bcb8b1)>Screen color depth (bits per pixel). Lowering this setting can "
+"improve game performance. For better results, change screen resolution, color "
+"depth and texture quality proportionally."
+msgstr "<c(bcb8b1)>Bildschirm-Farbtiefe (Bits pro Pixel). Senken Sie diese Einstellung, um die Leistung des Spiels zu verbessern. Ändern Sie Bildschirmauflösung, Farbtiefe und Texturqualität proportional, um bessere Ergebnisse zu erzielen."
+
+#| msgctxt "options/keys/interface/pause#desc"
+#| msgid "Pause game. (Singleplayer only)"
+msgctxt "options/keys/interface/pause#desc"
+msgid "<c(bcb8b1)>Pause game."
+msgstr "<c(bcb8b1)>Spiel pausieren."
+
+#| msgctxt "options/keys/actions#desc"
+#| msgid "Key assignments for unit actions in rts mode."
+msgctxt "options/keys/actions#desc"
+msgid "<c(bcb8b1)>Key assignments for unit actions in rts mode."
+msgstr "<c(bcb8b1)>Tastenbelegung für Einheitenaktionen im Echtzeitstrategiemodus."
+
+msgctxt "options/keys/keymap/key_q"
+msgid "Q"
+msgstr "Q"
+
+msgctxt "options/keys/keymap/key_stop"
+msgid "STOP"
+msgstr "STOP"
+
+msgctxt "main_menu2/skirmish/training_game_desc"
+msgid "Basic introduction to the online experience"
+msgstr "Grundlegende Einführung in die Online-Erfahrung"
+
+#| msgctxt "options/btn_apply"
+#| msgid "<s(21)>APPLY"
+msgctxt "options/btn_apply"
+msgid "<f(pobeda)s(27)b>APPLY"
+msgstr "<f(pobeda)s(27)b>ANWENDEN"
+
+msgctxt "options/keys/control_manual/toggle_prone"
+msgid "Stand/prone"
+msgstr "Aufstehen/Hinlegen"
+
+#| msgctxt "user_statistics/profile/hud"
+#| msgid "HUD"
+msgctxt "options/video/hdr"
+msgid "HDR"
+msgstr "HDR"
+
+msgctxt "options/video/hdr#desc"
+msgid "HDR adjusts the intenstity of the tone on the screen in real time."
+msgstr "Der HDR-Modus verbessert die Bildintensität der Anzeige in Echtzeit."
+
+msgctxt "options/video/grass"
+msgid "Grass"
+msgstr "Gras"
+
+msgctxt "options/video/preset#/custom"
+msgid "Custom (for advanced users)"
+msgstr "Benutzerdefiniert (für erfahrene User)"
+
+#| msgctxt "options/audio/volume#desc"
+#| msgid "Volumes of effects, voices and music in the game."
+msgctxt "options/audio/volume#desc"
+msgid "<c(bcb8b1)>Volumes of effects, voices and music in the game."
+msgstr "<c(bcb8b1)>Lautstärke der Effekte, Sprecher und Musik des Spiels."
+
+msgctxt "user_statistics/leaderboards2/column/rank"
+msgid "Rank"
+msgstr "Rang"
+
+msgctxt "options/timeout/mod_warning"
+msgid "Mod settings will be applied the next time the game is started."
+msgstr "Mod-Einstellungen werden nach dem nächsten Start des Spiels übernommen."
+
+#| msgctxt "options/keys/interface/screenshot#desc"
+#| msgid ""
+#| "Take a screenshot. Screenshots are saved in the screenshots subfolder of "
+#| "the main game folder."
+msgctxt "options/keys/interface/screenshot#desc"
+msgid ""
+"<c(bcb8b1)>Take a screenshot. Screenshots are saved in the screenshots "
+"subfolder of the main game folder."
+msgstr "<c(bcb8b1)>Machen Sie einen Screenshot. Screenshots werden im Hauptordner des Spiels unter \"Screenshots\" gespeichert."
+
+#| msgctxt "options/btn_cancel"
+#| msgid "<s(21)>CANCEL"
+msgctxt "options/btn_cancel"
+msgid "<f(pobeda)s(27)b>CANCEL"
+msgstr "<f(pobeda)s(27)b>ABBRECHEN"
+
+msgctxt "options/video/current_mode"
+msgid "Current mode"
+msgstr "Aktueller Modus"
+
+msgctxt "main_menu2/library/weapons/health_damage"
+msgid "Health Damage#%.1f HP"
+msgstr "Gesundheitsschaden#%.1f TP"
+
+msgctxt "user_statistics/profile/logos"
+msgid "BADGES"
+msgstr "ABZEICHEN"
+
+#| msgctxt "options/video/glow#desc"
+#| msgid "Enables glow. May reduce performance."
+msgctxt "options/video/glow#desc"
+msgid "<c(bcb8b1)>Enables glow. May reduce performance."
+msgstr "<c(bcb8b1)>Aktiviert einen Glow-Effekt. Verringert unter Umständen die Leistung."
+
+#| msgctxt "options/keys/btn_keys_reset"
+#| msgid "<s(21)>RESET TO DEFAULT"
+msgctxt "options/keys/btn_keys_reset"
+msgid "<f(pobeda)s(27)b>RESET TO DEFAULT"
+msgstr "<f(pobeda)s(27)b>STANDARDBELEGUNG"
+
+msgctxt "options/timeout/texture_warning"
+msgid "Texture settings will be applied the next time the game is started."
+msgstr "Textureinstellungen werden nach dem nächsten Start des Spiels übernommen."
+
+msgctxt "entity_info/vehicle/body"
+msgid "Hull"
+msgstr "Wanne"
+
+msgctxt "options/game/auto_load_last_profile"
+msgid "Autoload last profile"
+msgstr "Letztes Profil autom. laden"
+
+#| msgctxt "options/video/current_mode#desc"
+#| msgid ""
+#| "Current video mode. To change this setting, see the Resolution option below."
+msgctxt "options/video/current_mode#desc"
+msgid ""
+"<c(bcb8b1)>Current video mode. To change this setting, see the Resolution "
+"option below."
+msgstr "<c(bcb8b1)>Aktueller Grafikmodus. Wählen Sie die Option „Auflösung“, um diese Einstellung zu ändern."
+
+msgctxt "options/audio/rate#/22_khz"
+msgid "22 KHz"
+msgstr "22 KHz"
+
+msgctxt "options/btn_browse_hint"
+msgid "Expand"
+msgstr "Ausklappen"
+
+msgctxt "entity_info/human/perk_format"
+msgid "%1%<x(50)>%2%"
+msgstr "%1%<x(50)>%2%"
+
+#| msgctxt "options/multiplayer_warning"
+#| msgid ""
+#| "\n"
+#| "\n"
+#| "<c(red)>Multiplayer has been initialized, some options are disabled. Leave "
+#| "Battle menu to change all options."
+msgctxt "options/multiplayer_warning"
+msgid ""
+"\n"
+"\n"
+"<c(145 38 38)>Multiplayer has been initialized, some options are disabled. "
+"Leave Battle menu to change all options."
+msgstr "\n\n<c(145 38 38)>Der Multiplayer-Modus wurde gestartet, einige Optionen sind deaktiviert. Verlassen Sie das Gefechtsmenü, um alle Optionen zu ändern."
+
+msgctxt "options/game/multiplayer"
+msgid "Multiplayer"
+msgstr "Multiplayer"
+
+msgctxt "main_menu2/library/soldiers/perks/mechanic/all"
+msgid "Full"
+msgstr "Voll"
+
+msgctxt "options/video/resolution/depth#/32"
+msgid "32-bit"
+msgstr "32-bit"
+
+#| msgctxt "options/keys/interface/toggle_map#desc"
+#| msgid "Toggles map on or off."
+msgctxt "options/keys/interface/toggle_map#desc"
+msgid "<c(bcb8b1)>Toggles map on or off."
+msgstr "<c(bcb8b1)>Blenden Sie die Karte ein/aus."
+
+msgctxt "options/video/title"
+msgid "<f(pobeda)s(27)b>VIDEO"
+msgstr "<f(pobeda)s(27)b>VIDEO"
+
+msgctxt "options/game/invert_mouse_wheel"
+msgid "Invert mouse wheel"
+msgstr "Mausrad spiegeln"
+
+#| msgctxt "options/game/manual_mode"
+#| msgid "Direct Control Mode"
+msgctxt "options/game/manual_mode"
+msgid "Preferred Direct Control Mode"
+msgstr "Direktsteuerungsmodus bevorzugt"
+
+#| msgctxt "options/game/manual_mode#desc"
+#| msgid ""
+#| "Set the default \"Direct Control\" mode for starting games. \"Advanced "
+#| "Direct Control\" allows first and third person, \"Classic Direct Control\" "
+#| "is a \"Men of War\"-Style Top-Down control and \"No Direct Control\" "
+#| "disables the feature to control units individually."
+msgctxt "options/game/manual_mode#desc"
+msgid ""
+"<c(bcb8b1)>Set the default \"Direct Control\" mode for starting games. \"Third "
+"Person\" allows selected units to be controlled in third person, \"Classic "
+"Direct Control\" is a \"Men of War\"-Style Top-Down control and \"No Direct "
+"Control\" disables the feature to control units individually."
+msgstr "<c(bcb8b1)>Legen Sie den standardmäßigen „Direktsteuerungsmodus“ fest. „3. Person“ erlaubt die Steuerung der ausgewählten Einheiten aus der Sicht einer 3. Person, „Klassische Direktsteuerung“ ist eine „Men of War“-typische Steuerung aus der Strategie-Perspektive und „Keine Direktsteuerung“ deaktiviert die Mechanik, Einheiten individuell zu steuern."
+
+msgctxt "options/game/manual_mode#/tpc_mode"
+msgid "Third person Control"
+msgstr "3.-Person-Steuerung"
+
+msgctxt "options/game/manual_mode#/dc_mode"
+msgid "Classic Direct Control"
+msgstr "Klassische Direktsteuerung"
+
+msgctxt "options/game/manual_mode#/rts_mode"
+msgid "No Direct Control"
+msgstr "Keine Direktsteuerung"
+
+msgctxt "options/game/threat_markers"
+msgid "Enemy markers"
+msgstr "Feindmarker"
+
+msgctxt "options/keys/keymap/key_f12"
+msgid "F12"
+msgstr "F12"
+
+msgctxt "user_profile2/rank"
+msgid "RANK #%1%"
+msgstr "RANG #%1%"
+
+msgctxt "options/video/adapter"
+msgid "Video card"
+msgstr "Grafikkarte"
+
+#| msgctxt "options/video/adapter#desc"
+#| msgid "Current video card."
+msgctxt "options/video/adapter#desc"
+msgid "<c(bcb8b1)>Current video card."
+msgstr "<c(bcb8b1)>Aktuelle Grafikkarte."
+
+msgctxt "options/video/feature_level/dx10.0"
+msgid "DX10"
+msgstr "DX10"
+
+msgctxt "main_menu2/singleplayer/save_load_game/save_info/mods"
+msgid "Mods"
+msgstr "Mods"
+
+msgctxt "main_menu2/singleplayer/save_load_game/save_info/mods#none"
+msgid "None"
+msgstr "Keine"
+
+msgctxt "main_menu2/singleplayer/save_load_game/save_info/hardcore"
+msgid "Hardcore Realism"
+msgstr "Hardcore Realismus"
+
+msgctxt "main_menu2/singleplayer/save_load_game/btn_load"
+msgid "LOAD"
+msgstr "LADEN"
+
+#| msgctxt "options/game/camera_speed_third_person#desc"
+#| msgid "Changes the speed at which the cursor moves."
+msgctxt "options/game/camera_speed_third_person#desc"
+msgid "<c(bcb8b1)>Changes the speed at which the cursor moves."
+msgstr "<c(bcb8b1)>Bestimmt die Geschwindigkeit der Zeigerbewegung."
+
+#| msgctxt "options/video/detail#desc"
+#| msgid ""
+#| "Texture quality. If you have performance issues, try to lower this setting. "
+#| "For better results, change screen resolution, color depth and texture "
+#| "quality proportionally."
+msgctxt "options/video/detail#desc"
+msgid ""
+"<c(bcb8b1)>Texture quality. If you have performance issues, try to lower this "
+"setting. For better results, change screen resolution, color depth and texture "
+"quality proportionally."
+msgstr "<c(bcb8b1)>Texturqualität. Treten Probleme mit der Leistung des Spiels auf, sollten Sie diese Einstellung senken. Ändern Sie Bildschirmauflösung, Farbtiefe und Texturqualität proportional, um bessere Ergebnisse zu erzielen."
+
+msgctxt "options/video/resolution#/desktop"
+msgid "Use desktop settings"
+msgstr "Desktop-Einstellungen verwenden"
+
+msgctxt "options/video/antialiasing#/3x"
+msgid "3x"
+msgstr "3x"
+
+msgctxt "main_menu2/market/rarity/uncommon"
+msgid "Uncommon"
+msgstr "Ungewöhnlich"
+
+msgctxt "options/video/feature_level/dx10.1"
+msgid "DX10.1"
+msgstr "DX10.1"
+
+msgctxt "save_load_replay/completion_save_suffix"
+msgid "completed"
+msgstr "erfolgreich"
+
+msgctxt "options/keys/actions/attack_ground#desc"
+msgid "Choose a spot to cover."
+msgstr "Wählen Sie ein Gebiet aus, das Sie unter Feuer nehmen möchten."
+
+msgctxt "options/video/water_quality"
+msgid "Water quality"
+msgstr "Wasserqualität"
+
+msgctxt "options/audio/volume"
+msgid "Volume"
+msgstr "Lautstärke"
+
+#| msgctxt "missions/save_load"
+#| msgid "<f(danger_cyr)s(21)>Load"
+msgctxt "button/single_load"
+msgid "<f(pobeda)s(27)b>Load"
+msgstr "<f(pobeda)s(27)b>Laden"
+
+msgctxt "options/video/feature_level/dx11.1"
+msgid "DX11.1"
+msgstr "DX11.1"
+
+msgctxt "options/video/window_mode#/windowed"
+msgid "Windowed"
+msgstr "Fenster"
+
+msgctxt "user_statistics/ranked/stat/max_vehicles"
+msgid "Highest vehicle kills"
+msgstr "Höchste Anzahl an zerstörten Fahrzeugen"
+
+msgctxt "options/game/aiming"
+msgid "Auto aiming"
+msgstr "Autom. Zielen"
+
+msgctxt "options/mp/ip_del"
+msgid "<s(27)f(pobeda)b>Remove"
+msgstr "<s(27)f(pobeda)b>Entfernen"
+
+msgctxt "options/video/display_hz"
+msgid "Hz"
+msgstr "Hz"
+
+msgctxt "options/audio/rate#/44_khz"
+msgid "44 KHz"
+msgstr "44 KHZ"
+
+msgctxt "options/video/preset#/low"
+msgid "Low"
+msgstr "Niedrig"
+
+msgctxt "options/video/resolution"
+msgid "Resolution"
+msgstr "Auflösung"
+
+msgctxt "options/video/resolution/refresh"
+msgid "Refresh rate"
+msgstr "Bildwiederholrate"
+
+msgctxt "main_menu2/library/soldiers/perks/duration"
+msgid " (Duration %.fs)"
+msgstr " (Dauer %.fs)"
+
+msgctxt "main_menu2/singleplayer/down"
+msgid "DOWN"
+msgstr "RUNTER"
+
+msgctxt "options/video/water_reflection#/real"
+msgid "Ultra"
+msgstr "Sehr hoch"
+
+msgctxt "options/keys/multiplayer"
+msgid "MULTIPLAYER  CONTROLS"
+msgstr "MULTIPLAYER-STEUERUNG"
+
+msgctxt "options/keys/control_manual/squadmember9"
+msgid "Select squad member 9"
+msgstr "Truppmitglied 9 auswählen"
+
+#| msgctxt "options/game/selection_circle/start_radius#desc"
+#| msgid "Size with which the circle will start."
+msgctxt "options/game/selection_circle/start_radius#desc"
+msgid "<c(bcb8b1)>Size with which the circle will start."
+msgstr "<c(bcb8b1)>Startgröße des Kreises."
+
+#| msgctxt "options/video/resolution/refresh#desc"
+#| msgid "Refresh rate (Hz). Higher settings reduces screen flicker."
+msgctxt "options/video/resolution/refresh#desc"
+msgid "<c(bcb8b1)>Refresh rate (Hz). Higher settings reduces screen flicker."
+msgstr "<c(bcb8b1)>Bildwiederholrate (Hz). Höhere Einstellungen verringern das Bildschirmflimmern."
+
+msgctxt "options/keys/interface/screenshot"
+msgid "Screenshot"
+msgstr "Screenshot"
+
+msgctxt "options/keys/title"
+msgid "<f(pobeda)s(27)b>CONTROLS"
+msgstr "<f(pobeda)s(27)b>STEUERUNG"
+
+msgctxt "options/video/resolution/depth"
+msgid "Color depth"
+msgstr "Farbtiefe"
+
+msgctxt "options/keys/control_manual/weapon8#desc"
+msgid "Weapon 8"
+msgstr "Waffe 8"
+
+msgctxt "options/mp/ip_add"
+msgid "<s(27)f(pobeda)b>Add"
+msgstr "<s(27)f(pobeda)b>Hinzufügen"
+
+#| msgctxt "options/keys/actions/examine#desc"
+#| msgid "Examine a corpse, vehicle, or some other container."
+msgctxt "options/keys/actions/examine#desc"
+msgid "c(bcb8b1)>Examine a corpse, vehicle, or some other container."
+msgstr "<c(bcb8b1)>Untersuchen Sie einen Gefallenen, ein Fahrzeug oder einen anderen Behälter."
+
+msgctxt "options/video/detail#/detail_high"
+msgid "Ultra (32GB RAM)"
+msgstr "Sehr hoch (32GB RAM)"
+
+msgctxt "options/video/antialiasing#/9x"
+msgid "9x"
+msgstr "9x"
+
+#| msgctxt "options/keys/groups/select_5"
+#| msgid "Select squad 5"
+msgctxt "options/keys/groups/dismiss_squad"
+msgid "Separate squad"
+msgstr "Trupp aufteilen"
+
+msgctxt "options/keys/groups/dismiss_squad#desc"
+msgid "Separate selected squad into individual soldiers."
+msgstr "Teilen Sie den ausgewählten Trupp in einzelne Soldaten auf."
+
+msgctxt "options/keys/keymap/key_backspace"
+msgid "BACKSPACE"
+msgstr "BACKSPACE"
+
+msgctxt "options/game/global_chat"
+msgid "Global chat"
+msgstr "Allgemeiner Chat"
+
+msgctxt "options/video/resolution#desc"
+msgid ""
+"Screen resolution (pixels). Lowering this setting can improve game "
+"performance. For better results, change screen resolution, color depth and "
+"texture quality proportionally."
+msgstr "Bildschirmauflösung (Pixel). Senken Sie diese Einstellung, um die Leistung des Spiels zu verbessern. Ändern Sie Bildschirmauflösung, Farbtiefe und Texturqualität proportional, um bessere Ergebnisse zu erzielen."
+
+msgctxt "options/keys/control_manual/toggle_crouch"
+msgid "Crouch"
+msgstr "Hocke"
+
+msgctxt "options/video/preset#desc"
+msgid ""
+"Enable one of standard video settings presets. Choose \"Custom\" for advanced "
+"video settings configuration."
+msgstr "Aktiviert eine der Standardvorgaben der Grafikeinstellungen. Wählen Sie „Benutzerdefiniert\" für fortgeschrittene Grafikeinstellungen."
+
+msgctxt "options/workshop/property/status"
+msgid "Status:"
+msgstr "Status:"
+
+msgctxt "options/workshop/status/installed"
+msgid "Installed"
+msgstr "Installiert"
+
+msgctxt "options/keys/keymap/key_k"
+msgid "K"
+msgstr "K"
+
+msgctxt "options/keys/interface/stuff_highlight"
+msgid "Highlight items"
+msgstr "Gegenstände hervorheben"
+
+#| msgctxt "options/keys/interface/stuff_highlight#desc"
+#| msgid "Highlight objects on the ground."
+msgctxt "options/keys/interface/stuff_highlight#desc"
+msgid "Highlight collectable items on the ground."
+msgstr "Heben Sie Sammelgegenstände auf dem Boden hervor."
+
+msgctxt "options/video/shadow"
+msgid "Shadows"
+msgstr "Schatten"
+
+msgctxt "options/video/antialiasing#/14x"
+msgid "14x"
+msgstr "14x"
+
+msgctxt "options/video/detail#/detail_above_medium"
+msgid "High"
+msgstr "Hoch"
+
+msgctxt "options/keys/control_manual/weapon7"
+msgid "Weapon 7"
+msgstr "Waffe 7"
+
+msgctxt "user_statistics/faction/row/kdveh"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "options/mp/gameenum"
+msgid "Game IP list"
+msgstr "Spiele-IP-Liste"
+
+msgctxt "options/game/multiplayer/notification_chatwheel/attackhere"
+msgid "Secure this area!"
+msgstr "Bereich sichern!"
+
+msgctxt "main_menu2/breadcrumbs/page_credits"
+msgid "CREDITS"
+msgstr "CREDITS"
+
+msgctxt "main_menu2/breadcrumbs/page_extras"
+msgid "EXTRAS"
+msgstr "EXTRAS"
+
+msgctxt "main_menu2/breadcrumbs/page_workshop"
+msgid "WORKSHOP"
+msgstr "WORKSHOP"
+
+msgctxt "main_menu2/singleplayer/save_load_game/save_info/fog_of_war"
+msgid "Fog of War"
+msgstr "Nebel des Krieges"
+
+msgctxt "main_menu2/singleplayer/save_load_game/save_info/version#wrong"
+msgid "<c(red)>%1%"
+msgstr "<c(red)>%1%"
+
+msgctxt "options/video/detail#/detail_above_low"
+msgid "Low"
+msgstr "Niedrig"
+
+msgctxt "user_statistics/leaderboards/top10"
+msgid "Top 10"
+msgstr "Top 10"
+
+msgctxt "options/video/preset"
+msgid "Graphics setting"
+msgstr "Grafikeinstellungen"
+
+msgctxt "options/keys/interface"
+msgid "INTERFACE  CONTROLS"
+msgstr "STEUERUNG DER BENUTZEROBERFLÄCHE"
+
+msgctxt "user_profile2/online"
+msgid "%1% in-game"
+msgstr "%1% im Spiel"
+
+msgctxt "options/video/bumptype#/bump"
+msgid "High"
+msgstr "Hoch"
+
+msgctxt "options/video/shadow#/none"
+msgid "Off"
+msgstr "Aus"
+
+msgctxt "options/video/model_quality"
+msgid "Model quality"
+msgstr "Modellqualität"
+
+msgctxt "options/video/preset#/min"
+msgid "Minimum"
+msgstr "Minimum"
+
+msgctxt "options/video/preset#/high"
+msgid "High"
+msgstr "Hoch"
+
+msgctxt "options/video/filtering#desc"
+msgid ""
+"Texture filtering type. At higher settings, textures will look sharper and "
+"more detailed from far away, but this can also reduce performance."
+msgstr "Art des Texturfilters. Je höher die Einstellung, desto schärfer und detaillierter wirken Texturen aus der Ferne. Dies kann sich allerdings negativ auf die Leistung des Spiels auswirken."
+
+msgctxt "options/keys/keymap/key_numpadstar"
+msgid "NUM *"
+msgstr "ZIFF *"
+
+msgctxt "options/video/shadow#/medium"
+msgid "Medium"
+msgstr "Mittel"
+
+msgctxt "main_menu2/breadcrumbs/page_session_training"
+msgid "SESSION (TRAINING)"
+msgstr "SITZUNG (TRAINING)"
+
+msgctxt "options/video/preset#/ultra"
+msgid "Ultra"
+msgstr "Sehr hoch"
+
+msgctxt "options/keys/control_manual/left"
+msgid "Left"
+msgstr "Links"
+
+msgctxt "options/game/rts_style_selection"
+msgid "Disable squad selection"
+msgstr "Einheitenauswahl deaktivieren"
+
+msgctxt "game/free"
+msgid "<c(788060)e(shadow)>Free Version</c>"
+msgstr "<c(788060)e(shadow)>Gratisversion</c>"
+
+msgctxt "options/video/window_mode"
+msgid "Display mode"
+msgstr "Anzeigemodus"
+
+msgctxt "main_menu2/market/rarity/2"
+msgid "Uncommon"
+msgstr "Ungewöhnlich"
+
+msgctxt "main_menu2/singleplayer/save_load_replay/hint/results"
+msgid "Show game result screen"
+msgstr "Blenden Sie das Spielergebnis ein"
+
+msgctxt "options/video/shadow#/low"
+msgid "Low"
+msgstr "Niedrig"
+
+msgctxt "options/video/window_mode#desc"
+msgid "Game display mode.\n"
+msgstr "Spielanzeigemodus.\n"
+
+msgctxt "options/mods/installed"
+msgid "Deactivated:"
+msgstr "Deaktiviert:"
+
+msgctxt "app_news/date"
+msgid "<s(8)c(225 225 225)>%1%"
+msgstr "<s(8)c(225 225 225)>%1%"
+
+msgctxt "options/video/detail"
+msgid "Texture detail"
+msgstr "Texturdetails"
+
+msgctxt "replay_game/txt_mission"
+msgid "Mission"
+msgstr "Mission"
+
+msgctxt "options/video/window_mode#/fullscreen"
+msgid "Fullscreen"
+msgstr "Vollbild"
+
+msgctxt "user_statistics/ranked/stat/total_lostveh"
+msgid "Total Vehicles lost"
+msgstr "Gesamt verlorene Fahrzeuge"
+
+msgctxt "options/keys/with_noalt"
+msgid "Ignore ALT pressing"
+msgstr "ALT ignorieren"
+
+msgctxt "options/audio/volume/master"
+msgid "Master"
+msgstr "Gesamt"
+
+msgctxt "user_profile/rank"
+msgid "<c(25 25 25)>%1% of %2%"
+msgstr "<c(25 25 25)>%1% von %2%"
+
+msgctxt "options/keys/groups/select_1"
+msgid "Select squad 1"
+msgstr "Trupp 1 auswählen"
+
+msgctxt "options/video/window_mode#/windowed_fullscreen"
+msgid "Windowed borderless foreground"
+msgstr "Fenster, im Vordergrund ohne Rand"
+
+msgctxt "entity_info/vehicle/armor_vehicle"
+msgid "Armor<x(55)>: %1%"
+msgstr "Panzerung<x(55)>: %1%"
+
+msgctxt "options/keys/actions/attack"
+msgid "Attack"
+msgstr "Angreifen"
+
+msgctxt "user_profile/na"
+msgid "<c(25 25 25)>n/a"
+msgstr "<c(25 25 25)>nicht verfügbar"
+
+msgctxt "user_statistics/leaderboards/column/winratio"
+msgid "<x.>%0.0f%"
+msgstr "<x.>%0.0f%"
+
+msgctxt "options/video/window_mode#/windowed_borderless"
+msgid "Windowed borderless background"
+msgstr "Fenster, im Hintergrund ohne Rand"
+
+msgctxt "options/keys/keymap/key_numpad0"
+msgid "NUM 0"
+msgstr "ZIFF 0"
+
+msgctxt "main_menu2/library/vehicles/gun/range"
+msgid "Range#<x(%i)>%.f m"
+msgstr "Reichweite#<x(%i)>%.f m"
+
+msgctxt "main_menu2/multiplayer/state/online_rookie"
+msgid ""
+"You must have at least %1% training game or %2% unranked games played to "
+"unlock this mode."
+msgstr "Sie müssen mindestens %1% Trainingsspiel oder %2% Nicht-Ranglistenspiele gespielt haben, um diesen Modus freizuschalten."
+
+msgctxt "options/video/glow"
+msgid "Glow"
+msgstr "Glow"
+
+msgctxt "options/video/adapter_change_confirm"
+msgid "You must restart the game to apply adapter change. Continue?"
+msgstr "Für diese Änderung ist ein Neustart des Spiels nötig. Fortfahren?"
+
+msgctxt "options/video/detail#/detail_low"
+msgid "Minimum"
+msgstr "Minimum"
+
+msgctxt "main_menu2/singleplayer/save_load_replay/btn_save"
+msgid "SAVE"
+msgstr "SPEICHERN"
+
+#| msgctxt "options/keys/change_key_warning"
+#| msgid "Redefinition warning"
+msgctxt "options/keys/change_key_warning"
+msgid "<s(27)f(pobeda)b>Redefinition warning"
+msgstr "<s(27)f(pobeda)b>Konfigurationswarnung"
+
+#| msgctxt "options/audio/rate"
+#| msgid "Mixing rate"
+msgctxt "options/audio/rate"
+msgid "Sampling rate"
+msgstr "Sampling-Rate"
+
+msgctxt "options/game/bcap/preset"
+msgid "Preset"
+msgstr "Voreinstellung"
+
+msgctxt "options/game/multiplayer/gameenum#desc"
+msgid ""
+"List of IP addresses outside of your LAN at which to search for games. If any "
+"games are found at these IPs, they will be automatically displayed on the LAN "
+"screen."
+msgstr "Liste der IP-Adressen außerhalb Ihres LANs, die nach Spielen durchsucht werden. Unter diesen IP-Adressen gefundene Spiele werden automatisch im LAN-Bildschirm angezeigt."
+
+msgctxt "options/video/detail#/detail_medium"
+msgid "Medium"
+msgstr "Mittel"
+
+msgctxt "options/keys/interface/toggle_map_control#desc"
+msgid "Toggles the mini-map options panel."
+msgstr "Blenden Sie das Minimap-Menü ein/aus."
+
+msgctxt "main_menu2/breadcrumbs/page_skirmish"
+msgid "SKIRMISH"
+msgstr "EINZELGEFECHT"
+
+msgctxt "options/video/softintersection#desc"
+msgid "Enables soft particles. May reduce performance."
+msgstr "Aktiviert weiche Partikel. Verringert unter Umständen die Leistung."
+
+msgctxt "options/video/shadow#desc"
+msgid ""
+"Shadow complexity. Lowering this setting or turning shadows off can improve "
+"game performance."
+msgstr "Schattenkomplexität. Senken Sie diese Einstellung oder schalten Sie die Schatten aus, um die Leistung des Spiels zu verbessern. 'Ultra' sollte nur auf sehr leistungsstarken Grafikkarten verwendet werden."
+
+msgctxt "main_menu2/singleplayer/save_load_replay/btn_load"
+msgid "LOAD"
+msgstr "LADEN"
+
+msgctxt "main_menu2/breadcrumbs/page_market"
+msgid "MARKET"
+msgstr "MARKT"
+
+msgctxt "options/video/bumptype#/none"
+msgid "Off"
+msgstr "Aus"
+
+msgctxt "change_profile"
+msgid "<s(8)f(arial_hq)>change profile"
+msgstr "<s(8)f(arial_hq)>Profil wechseln"
+
+msgctxt "main_menu2/library/weapons/reload_time"
+msgid "Reload Time#%.f s"
+msgstr "Nachladezeit#%.f s"
+
+msgctxt "options/video/shadow#/high"
+msgid "High"
+msgstr "Hoch"
+
+msgctxt "options/video/shadow#/ultra"
+msgid "Ultra"
+msgstr "Ultra"
+
+#| msgctxt "starting_game"
+#| msgid "Starting game..."
+msgctxt "starting_game"
+msgid "<f(roboto_mono)>Starting game..."
+msgstr "<f(roboto_mono)>Spiel wird gestartet ..."
+
+msgctxt "options/video/water_reflection"
+msgid "Water shader"
+msgstr "Wassershader"
+
+msgctxt "main_menu2/market/filter/modifier"
+msgid "XP Boost"
+msgstr "EP-Schub"
+
+msgctxt "options/video/water_reflection#desc"
+msgid "Type of water shader. 'Ultra' may significantly decrease performance."
+msgstr "Art des Wassershaders. Die Einstellung 'Sehr hoch' kann die Leistung stark beeinträchtigen."
+
+msgctxt "options/keys/multiplayer/toggle_microphone#desc"
+msgid "Toggle your microphone on/off."
+msgstr "Stellen Sie Ihr Mikrofon an oder aus."
+
+msgctxt "user_statistics/ranked/row/bot_gameswon"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "options/game/multiplayer/message_chatwheel/0"
+msgid "Fall back!"
+msgstr "Zurückziehen!"
+
+msgctxt "options/video/water_reflection#/none"
+msgid "Low"
+msgstr "Niedrig"
+
+msgctxt "options/video/water_reflection#/fake"
+msgid "Medium"
+msgstr "Mittel"
+
+msgctxt "button/buy"
+msgid "Buy"
+msgstr "Kaufen"
+
+msgctxt "options/video/water_quality#desc"
+msgid "Type of water quality. 'Ultra' may significantly decrease performance."
+msgstr "Die Qualität der Wasserdarstellung. Die Einstellung „Sehr hoch\" kann die Leistung stark beeinträchtigen."
+
+msgctxt "options/video/water_quality#/low"
+msgid "Low"
+msgstr "Niedrig"
+
+msgctxt "options/video/water_quality#/medium"
+msgid "Medium"
+msgstr "Mittel"
+
+msgctxt "main_menu2/market/filter/currency"
+msgid "Currency"
+msgstr "Währung"
+
+msgctxt "options/mp/gameenum#desc"
+msgid ""
+"List of IP addresses outside of your LAN at which to search for games. If any "
+"games are found at these IPs, they will be automatically displayed on the LAN "
+"screen."
+msgstr "Liste der IP-Adressen außerhalb Ihres LANs, die nach Spielen durchsucht werden. Unter diesen IP-Adressen gefundene Spiele werden automatisch im LAN-Bildschirm angezeigt."
+
+msgctxt "options/mp/bandwidth#desc"
+msgid "Content download speed (%)"
+msgstr "Downloadgeschwindigkeit (%)"
+
+msgctxt "options/video/water_quality#/high"
+msgid "High"
+msgstr "Hoch"
+
+msgctxt "options/keys/keymap/key_at"
+msgid "AT"
+msgstr "@"
+
+msgctxt "options/keys/keymap/ctrl"
+msgid "CTRL"
+msgstr "STRG"
+
+msgctxt "options/video/water_quality#/ultra"
+msgid "Ultra"
+msgstr "Sehr hoch"
+
+msgctxt "options/video/full_screen"
+msgid "Full screen"
+msgstr "Vollbild"
+
+msgctxt "options/keys/keymap/mouse4"
+msgid "MOUSE 5"
+msgstr "MAUS 5"
+
+msgctxt "options/video/full_screen#desc"
+msgid "Determines whether the game should run in full screen or not."
+msgstr "Schaltet den Vollbildmodus des Spiels ein/aus."
+
+msgctxt "options/game/btn_cloud_reset"
+msgid "<s(21)>RESET STEAM CLOUD"
+msgstr "<s(21)>STEAM CLOUD ZURÜCKSETZEN"
+
+msgctxt "options/game/aiming#desc"
+msgid "Toggles automatic aiming in \"Direct Control\" mode."
+msgstr "Aktiviert bei \"Direktsteuerungsmodus\" das automatische Zielen."
+
+msgctxt "options/video/vertical_sync"
+msgid "Vertical sync"
+msgstr "Vertical Sync"
+
+msgctxt "options/game/auto_load_last_profile#desc"
+msgid ""
+"The game will always begin with the most recent profile used. To change the "
+"current profile, select \"Profile\" from the Main Menu."
+msgstr "Das Spiel startet immer mit dem aktuellsten Profil. Möchten Sie das aktuelle Profil wechseln, wählen Sie im Hauptmenü die Option \"Profil\"."
+
+#| msgctxt "statusbar/style"
+#| msgid "<f(impact)s(21)c(FFFFFF)>"
+msgctxt "statusbar/style"
+msgid "<f(roboto_mono)s(18)c(FFFFFF)>"
+msgstr "<f(roboto_mono)s(18)c(FFFFFF)>"
+
+msgctxt "options/video/vertical_sync#desc"
+msgid ""
+"Wait for the screen to refresh before the next frame is drawn. Checking this "
+"can remove flickering, but may also reduce performance."
+msgstr "Warten Sie mit der Aktualisierung der Bilddaten bis zum Abschluss des Bildaufbaus. Diese Option verringert das Flimmern des Bildschirms, wirkt sich aber negativ auf die Leistung aus."
+
+msgctxt "options/video/filtering"
+msgid "Texture filtering"
+msgstr "Texturfilter"
+
+msgctxt "options/video/antialiasing#/2x"
+msgid "2x"
+msgstr "2x"
+
+msgctxt "user_statistics/ranked/stat/total_gameswon"
+msgid "Total Games won"
+msgstr "Gesamt gewonnene Spiele"
+
+msgctxt "options/video/filtering#/bilinear"
+msgid "Bilinear"
+msgstr "Bilinear"
+
+msgctxt "entity_info/description/armored_car"
+msgid "Armored Car : %1%"
+msgstr "Panzerwagen: %1%"
+
+msgctxt "options/video/filtering#/trilinear"
+msgid "Trilinear"
+msgstr "Trilinear"
+
+msgctxt "options/keys/keymap/key_sysrq"
+msgid "SYSRQ"
+msgstr "SYSRQ"
+
+msgctxt "options/video/filtering#/anisotropic2x"
+msgid "Anisotropic 2x"
+msgstr "Anisotropisch 2x"
+
+msgctxt "options/video/filtering#/anisotropic4x"
+msgid "Anisotropic 4x"
+msgstr "Anisotropisch 4x"
+
+msgctxt "options/video/filtering#/anisotropic8x"
+msgid "Anisotropic 8x"
+msgstr "Anisotropisch 8x"
+
+msgctxt "options/video/filtering#/anisotropic16x"
+msgid "Anisotropic 16x"
+msgstr "Anisotropisch 16x"
+
+msgctxt "options/game/multiplayer/username"
+msgid "User name"
+msgstr "Benutzername"
+
+msgctxt "options/video/model_quality#desc"
+msgid "Change complexity of game models."
+msgstr "Ändern Sie die Komplexität der Spielmodelle."
+
+msgctxt "options/video/model_quality#/high"
+msgid "High"
+msgstr "Hoch"
+
+msgctxt "options/video/dof"
+msgid "Depth of field"
+msgstr "Tiefenschärfe"
+
+msgctxt "options/video/model_quality#/medium"
+msgid "Medium"
+msgstr "Mittel"
+
+msgctxt "apply_mods"
+msgid "Applying mods..."
+msgstr "Mods werden eingerichtet ..."
+
+msgctxt "options/video/model_quality#/low"
+msgid "Low"
+msgstr "Niedrig"
+
+msgctxt "options/game/rts_style_selection#desc"
+msgid ""
+"Toggles whether soldiers will automatically form a new squad when selected."
+msgstr "Schaltet ein/aus, ob Soldaten automatisch eine neue Einheit bilden, wenn sie ausgewählt sind."
+
+msgctxt "options/video/fx_quality"
+msgid "Effects quality"
+msgstr "Effektqualität"
+
+msgctxt "options/mods/title"
+msgid "MODS"
+msgstr "MODS"
+
+msgctxt "options/video/fx_quality#desc"
+msgid ""
+"Number of simultaneous visual effects, such as explosions, smoke, and debris. "
+"Lower this setting if you're experiencing unstable frame rates."
+msgstr "Zahl der gleichzeitigen visuellen Effekte, wie Explosionen, Rauch und Trümmer. Senken Sie diese Einstellung, wenn Probleme mit der Framerate auftreten."
+
+msgctxt "options/video/fx_quality#/high"
+msgid "High"
+msgstr "Hoch"
+
+msgctxt "options/video/fx_quality#/medium"
+msgid "Medium"
+msgstr "Mittel"
+
+msgctxt "button/skirmish_online"
+msgid "Online"
+msgstr "Online"
+
+msgctxt "options/video/fx_quality#/low"
+msgid "Low"
+msgstr "Niedrig"
+
+msgctxt "main_menu2/market/buy"
+msgid "Buy"
+msgstr "Kaufen"
+
+#| msgctxt "main_menu2/singleplayer/save_load_game/save_info/hardcore"
+#| msgid "Hardcore Realism"
+msgctxt "options/game/difficulty#/heroic"
+msgid "Hardcore"
+msgstr "Hardcore"
+
+msgctxt "options/video/lights_quality"
+msgid "Dynamic lighting"
+msgstr "Dynamische Beleuchtung"
+
+msgctxt "user_statistics/compare/stats/army"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "options/game/slow_down_while_inventory_exchange#desc"
+msgid ""
+"Turn on slow-motion mode during inventory exchange. This is helpful if you "
+"often loot during the heat of battle."
+msgstr "Aktivieren Sie den Zeitlupen-Modus, während Sie auf Ihr Inventar zugreifen. Dies ist nützlich, wenn Sie in der Hitze des Gefechts häufig looten."
+
+msgctxt "options/video/antialiasing#/7x"
+msgid "7x"
+msgstr "7x"
+
+msgctxt "options/video/lights_quality#desc"
+msgid ""
+"Dynamic lighting quality. It is recommended to set 'No dynamic lights' for "
+"Intel-integrated graphics solutions."
+msgstr "Qualität der dynamischen Beleuchtung. Haben Sie einen integrierten Grafikchip von Intel, sollten Sie die Einstellung \"Keine dynamische Beleuchtung\" wählen."
+
+msgctxt "user_statistics/medals/title"
+msgid "MEDALS"
+msgstr "MEDAILLEN"
+
+msgctxt "options/keys/control_manual/weapon3"
+msgid "Weapon 3"
+msgstr "Waffe 3"
+
+msgctxt "options/video/lights_quality#/off"
+msgid "No dynamic lights"
+msgstr "Keine dynamische Beleuchtung"
+
+msgctxt "options/keys/interface/slowdown"
+msgid "Game speed"
+msgstr "Spielgeschwindigkeit"
+
+msgctxt "options/workshop/status/downloading_legacy"
+msgid "Downloading..."
+msgstr "Wird heruntergeladen ..."
+
+msgctxt "options/video/lights_quality#/medium"
+msgid "Few dynamic lights"
+msgstr "Wenige dynamische Lichter"
+
+msgctxt "options/game/multiplayer/message_chatwheel/1"
+msgid "Requesting support!"
+msgstr "Fordere Unterstützung an!"
+
+msgctxt "options/video/lights_quality#/full"
+msgid "Full dynamic lighting"
+msgstr "Volle dynamische Beleuchtung"
+
+msgctxt "options/video/gamma"
+msgid "Gamma"
+msgstr "Gamma"
+
+msgctxt "options/video/lens_effects_options"
+msgid "Lens effects"
+msgstr "Blendeneffekte"
+
+msgctxt "options/video/lens_effects_options#desc"
+msgid "Enables various lens effects with each level."
+msgstr "Aktiviert mit jeder Stufe weitere Blendeneffekte."
+
+msgctxt "options/workshop/property/tags"
+msgid "Tags:"
+msgstr "Tags:"
+
+msgctxt "options/keys/keymap/key_numpadslash"
+msgid "NUM /"
+msgstr "ZIFF /"
+
+msgctxt "button/skirmish_ranked"
+msgid "Ranked"
+msgstr "Ranglistenspiel"
+
+msgctxt "options/audio/speaker_config#/81_discrete"
+msgid "8.1-speaker system"
+msgstr "8.1-Lautsprechersystem"
+
+#, boost-format
+msgctxt "main_menu2/market/item_quantity_of"
+msgid "%1%x (%2%x)"
+msgstr "%1%x (%2%x)"
+
+msgctxt "user_statistics/leaderboards2/top"
+msgid "Top"
+msgstr "Spitze"
+
+msgctxt "options/game/selection_circle/growth_per_second#desc"
+msgid "Growth speed of the circle."
+msgstr "Wachstumsgeschwindigkeit des Kreises."
+
+msgctxt "options/keys/keymap/key_slash"
+msgid "/"
+msgstr "-"
+
+msgctxt "options/video/lens_effects_options#/none"
+msgid "Off"
+msgstr "Aus"
+
+msgctxt "user_profile2/next_unlock"
+msgid "Unlock: %1%."
+msgstr "Freischalten: %1%."
+
+msgctxt "options/game/mouse_navigation"
+msgid "Enable Mouse Navigation"
+msgstr "Mausnavigation aktivieren"
+
+msgctxt "options/game/mouse_navigation#desc"
+msgid ""
+"Enable using \"Mouse4\" button to return to previous menu pages like the "
+"\"back button\". (Main menu only)"
+msgstr "Aktiviert die Benutzung der \"Maus 4\" Taste, um zur vorherigen Menü-Seite wie mit dem \"Zurück\"-Button zurückzukehren. (Nur im Hauptmenü)"
+
+msgctxt "button/multiplayer"
+msgid "Multiplayer"
+msgstr "Multiplayer"
+
+msgctxt "options/keys/keymap/key_e"
+msgid "E"
+msgstr "E"
+
+msgctxt "options/video/lens_effects_options#/low"
+msgid "Low"
+msgstr "Niedrig"
+
+msgctxt "options/keys/actions/attack#desc"
+msgid ""
+"Order your squad or vehicle to attack the selected target (regardless of who "
+"it belongs to)."
+msgstr "Befehlen Sie Ihrem Trupp oder Fahrzeug, das gewählte Ziel zu attackieren (egal, wem es gehört)."
+
+#| msgctxt "options/workshop/mod_changed_2"
+#| msgid "Press Apply to apply changes or Reset to cancel them."
+msgctxt "options/workshop/mod_changed_2"
+msgid ""
+"<f(roboto_mono)s(15)>Press Apply to apply changes or Reset to cancel them."
+msgstr "<f(roboto_mono)s(15)>Drücken Sie „Anwenden“, um die Änderungen zu übernehmen, oder „Zurücksetzen“, um sie zu verwerfen."
+
+msgctxt "main_menu2/singleplayer/save_load_replay/hint/save"
+msgid "Save replay"
+msgstr "Wiederholung speichern"
+
+msgctxt "main_menu/quit_confirm"
+msgid "<f(roboto_mono)>Exit game?"
+msgstr "<f(roboto_mono)>Spiel beenden?"
+
+msgctxt "options/video/lens_effects_options#/medium"
+msgid "Medium"
+msgstr "Mittel"
+
+msgctxt "options/video/lens_effects_options#/high"
+msgid "High"
+msgstr "Hoch"
+
+msgctxt "user_statistics/ranked/row/total_kdveh"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "options/video/lens_refraction"
+msgid "Lens Refraction"
+msgstr "Objektivbrechung"
+
+msgctxt "options/keys/keymap/key_lbracket"
+msgid "{"
+msgstr "ü"
+
+#| msgctxt "options/audio/btn_audio_reset"
+#| msgid "<s(21)>RESET TO DEFAULT"
+msgctxt "options/audio/btn_audio_reset"
+msgid "<f(pobeda)s(27)b>RESET TO DEFAULT"
+msgstr "<f(pobeda)s(27)b>STANDARDBELEGUNG"
+
+msgctxt "options/video/lens_refraction#desc"
+msgid "Enables lens refraction effect for weapon scopes."
+msgstr "Aktiviert Objektivbrechungseffekt für Waffensucher."
+
+msgctxt "options/video/antialiasing"
+msgid "MSAA"
+msgstr "MSAA"
+
+msgctxt "options/video/antialiasing#desc"
+msgid ""
+"Multisample anti-aliasing makes model edges look smoother and more natural. "
+"High values may reduce game performance."
+msgstr "Multisample Antialiasing glättet die Kanten von Modellen und lässt diese natürlicher erscheinen. Hohe Werte können sich allerdings negativ auf die Leistung des Spiels auswirken."
+
+msgctxt "options/keys/keymap/key_numpad4"
+msgid "NUM 4"
+msgstr "ZIFF 4"
+
+msgctxt "options/video/antialiasing#/none"
+msgid "None"
+msgstr "–"
+
+msgctxt "options/keys/multiplayer/chat_all"
+msgid "Global chat"
+msgstr "Allgemeiner Chat"
+
+msgctxt "options/game/multiplayer/minfps"
+msgid "Minimum FPS"
+msgstr "FPS-Minimum"
+
+msgctxt "options/video/antialiasing#/nonmaskable"
+msgid "Supersampling"
+msgstr "Supersampling"
+
+msgctxt "shutdown"
+msgid "Application is shutting down..."
+msgstr "Anwendung wird geschlossen ..."
+
+msgctxt "save_load_replay/lbl_replay_info"
+msgid "Replay info:"
+msgstr "Wiederholungsinfo:"
+
+msgctxt "options/keys/control_manual/weapon6#desc"
+msgid "Weapon 6"
+msgstr "Waffe 6"
+
+msgctxt "options/video/antialiasing#/4x"
+msgid "4x"
+msgstr "4x"
+
+msgctxt "options/keys/actions/toggle_attack#desc"
+msgid ""
+"Toggle between \"Hold fire\", \"Return fire\", and \"Fire at will\" modes."
+msgstr "Wählen Sie zwischen \"Feuer einstellen\", \"Feuer erwidern\" oder \"Situationsbedingt feuern\"."
+
+msgctxt "options/video/antialiasing#/5x"
+msgid "5x"
+msgstr "5x"
+
+msgctxt "main_menu2/market/open_confirmation"
+msgid "Open %1%?"
+msgstr "%1% öffnen?"
+
+msgctxt "options/keys/control_manual/weapon4"
+msgid "Weapon 4"
+msgstr "Waffe 4"
+
+msgctxt "options/video/antialiasing#/6x"
+msgid "6x"
+msgstr "6x"
+
+msgctxt "user_statistics/achievements/title"
+msgid "Progress"
+msgstr "Fortschritt"
+
+msgctxt "options/keys/control_manual/right#desc"
+msgid "Strafe right (soldiers) or turn right (vehicles)."
+msgstr "Gehen (Soldaten) oder fahren (Fahrzeuge) Sie nach rechts."
+
+msgctxt "options/video/antialiasing#/8x"
+msgid "8x"
+msgstr "8x"
+
+msgctxt "options/video/antialiasing#/10x"
+msgid "10x"
+msgstr "10x"
+
+msgctxt "button/details"
+msgid "DETAILS"
+msgstr "DETAILS"
+
+msgctxt "button/discord"
+msgid "JOIN DISCORD!"
+msgstr "TRETEN SIE DISCORD BEI!"
+
+msgctxt "options/keys/multiplayer/chat_all#desc"
+msgid "Send a message to all players. Hold down to activate the Chatwheel!"
+msgstr "Schicken Sie allen Spielern eine Nachricht. Gedrückt halten, um das Chatrad zu aktivieren!"
+
+msgctxt "options/keys/actions/throw_sk_grenade"
+msgid "Throw smoke grenade"
+msgstr "Rauchgranate werfen"
+
+#| msgctxt "options/keys/actions/throw_ap_grenade#desc"
+#| msgid ""
+#| "Order the selected squad or soldier to throw a fragmentation grenade. (Only "
+#| "active if frag grenades are available.)"
+msgctxt "options/keys/actions/throw_at_grenade#desc"
+msgid ""
+"Order the selected squad or soldier to throw a anti-tank grenade. (Only active "
+"if anti-tank grenades are available.)"
+msgstr "Befehlen Sie dem gewählten Trupp oder dem Soldaten, eine Panzerabwehrgranate zu werfen. (Nur aktiv, wenn Panzerabwehrgranaten verfügbar sind.)"
+
+msgctxt "missions/save_load"
+msgid "<f(danger_cyr)s(21)>Load"
+msgstr "<f(danger_cyr)s(21)>Laden"
+
+msgctxt "options/video/antialiasing#/11x"
+msgid "11x"
+msgstr "11x"
+
+msgctxt "main_menu2/multiplayer/session/refresh"
+msgid "REFRESH"
+msgstr "AKTUALISIEREN"
+
+msgctxt "options/video/antialiasing#/12x"
+msgid "12x"
+msgstr "12x"
+
+msgctxt "options/keys/actions/emit"
+msgid "Unload crew"
+msgstr "Besatzung absetzen"
+
+msgctxt "options/video/antialiasing#/13x"
+msgid "13x"
+msgstr "13x"
+
+msgctxt "options/keys/already_binded_redefine"
+msgid "Key '%1%' is already bound to '%2%'. Redefine?"
+msgstr "Taste '%1%' ist bereits '%2%' zugewiesen. Zuweisung ändern?"
+
+msgctxt "main_menu2/library/weapons/damage_table"
+msgid "Damage Table"
+msgstr "Schadensstatistik"
+
+msgctxt "options/game/subtitles"
+msgid "Subtitles"
+msgstr "Untertitel"
+
+msgctxt "options/video/antialiasing#/15x"
+msgid "15x"
+msgstr "15x"
+
+msgctxt "options/video/alphatocoverage"
+msgid "Soft alpha"
+msgstr "Soft-Alpha"
+
+#| msgctxt "main_menu2/singleplayer/save_load_game/lbl_info"
+#| msgid "GAME INFO"
+msgctxt "main_menu2/tips"
+msgid "GAME TIPS"
+msgstr "SPIELTIPPS"
+
+msgctxt "options/video/antialiasing#/16x"
+msgid "16x"
+msgstr "16x"
+
+msgctxt "options/keys/keymap/key_numpad7"
+msgid "NUM 7"
+msgstr "ZIFF 7"
+
+#| msgctxt "options/workshop/mod_changed_1"
+#| msgid "Some mods were changed."
+msgctxt "options/workshop/mod_changed_1"
+msgid "<f(roboto_mono)s(15)>Some mods were changed."
+msgstr "<f(roboto_mono)s(15)>Einige Mods wurden geändert."
+
+msgctxt "main_menu2/singleplayer/select_difficulty"
+msgid "<f(pobeda)s(27)b+c(eeeeee)>SELECT DIFFICULTY"
+msgstr "<f(pobeda)s(27)b+c(eeeeee)>SCHWIERIGKEIT WÄHLEN"
+
+msgctxt "options/game/title"
+msgid "<f(pobeda)s(27)b>GAME"
+msgstr "<f(pobeda)s(27)b>SPIEL"
+
+msgctxt "options/video/antialiasing_quality"
+msgid "Antialiasing samples"
+msgstr "Antialiasing-Samples"
+
+msgctxt "options/video/fxaa"
+msgid "FXAA"
+msgstr "FXAA"
+
+msgctxt "options/video/fxaa#desc"
+msgid ""
+"Fast approximate anti-aliasing makes model edges look smoother and more "
+"natural but leads to a slight blur effect. It has only a minor impact on the "
+"performance."
+msgstr "Fast approximate Antialiasing glättet die Kanten von Modellen und lässt diese natürlicher erscheinen führt aber zu einer leichten Unschärfe. Die Einstellung hat nur einen geringen Einfluss auf die Leistung des Spiels."
+
+msgctxt "options/video/clip_distance#desc"
+msgid ""
+"How far you can see in the game. Reducing this value can slightly improve "
+"performance."
+msgstr "Ihre Sichtweite innerhalb des Spiels. Senken Sie diesen Wert, kann sich die Leistung des Spiels geringfügig verbessern."
+
+msgctxt "options/video/bumptype#/parallax"
+msgid "Ultra"
+msgstr "Sehr hoch"
+
+msgctxt "options/video/bumptype"
+msgid "Bump quality"
+msgstr "Bump-Qualität"
+
+msgctxt "options/keys/keymap/key_escape"
+msgid "ESC"
+msgstr "ESC"
+
+msgctxt "main_menu2/market/use_confirmation"
+msgid "Use %1%?"
+msgstr "%1% verwenden?"
+
+msgctxt "options/keys/with_noctrl"
+msgid "Ignore CTRL pressing"
+msgstr "STRG ignorieren"
+
+msgctxt "options/video/bumptype#desc"
+msgid ""
+"Normal and parallax mapping effects make rough or uneven surfaces look more "
+"natural. Consider turning this feature off if you have performance issues."
+msgstr "Normale und Parallax-Mapping-Effekte lassen raue oder unebene Oberflächen natürlicher erscheinen. Falls Leistungsprobleme auftreten, sollten Sie diese Funktion deaktivieren."
+
+msgctxt "options/game/action_by_left_click#desc"
+msgid ""
+"Reverses mouse buttons. To give orders use left mouse and deselect units with "
+"right mouse."
+msgstr "Kehrt die Funktion der Maustasten um. Erteilen Sie mit der linken Maustaste Befehle und benutzen Sie die rechte Maustaste, um Einheiten abzuwählen."
+
+msgctxt "save_load_game/load_failed"
+msgid "An error occurred while loading. Save game may be corrupt."
+msgstr "Beim Laden des Spiels ist ein Fehler aufgetreten. Der Spielstand ist möglicherweise beschädigt."
+
+msgctxt "user_statistics/faction/row/killveh"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "options/video/specular"
+msgid "Specular maps"
+msgstr "Specular Maps"
+
+msgctxt "options/keys/actions/toggle_position"
+msgid "Change movement mode"
+msgstr "Bewegungsmodus ändern"
+
+msgctxt "options/video/specular#desc"
+msgid ""
+"Enables an effect for shiny surfaces which makes polished or scratched metal "
+"surfaces look more realistic. This setting should not affect game performance, "
+"but you may want to turn it off in rare cases."
+msgstr "Aktiviert Effekte für glänzende Oberflächen, die polierte oder zerkratzte Metalloberflächen realistischer wirken lassen. Obwohl sich diese Einstellung in der Regel nicht auf die Leistung des Spiels auswirkt, sollte sie in seltenen Fällen deaktiviert werden."
+
+msgctxt "user_profile2/xp_progress"
+msgid "<e(shadow)>%1%/%2% XP %3%"
+msgstr "<e(shadow)>%1%/%2% EP %3%"
+
+msgctxt "options/video/environment"
+msgid "Environment maps"
+msgstr "Environment Maps"
+
+msgctxt "main_menu2/skirmish/local_game_desc"
+msgid "Play locally against AI opponents"
+msgstr "Lokales Spiel gegen KI-Gegner"
+
+msgctxt "options/video/environment#desc"
+msgid ""
+"Enables reflections for reflective surfaces like glass and water. Disabling "
+"this option may slightly improve game performance."
+msgstr "Aktiviert Reflexionen auf spiegelnden Oberflächen wie Glas oder Wasser. Schalten Sie diese Option aus, kann sich die Leistung des Spiels geringfügig verbessern."
+
+msgctxt "main_menu2/market/rarity/3"
+msgid "Rare"
+msgstr "Selten"
+
+msgctxt "options/keys/interface/show_selection_circle"
+msgid "Selection circle"
+msgstr "Auswahlkreis"
+
+msgctxt "options/keys/interface/show_selection_circle#desc"
+msgid ""
+"Create circular selection area on cursor for selecting multiple units at a "
+"time."
+msgstr "Ein vom Cursor ausgehender kreisförmiger Auswahlbereich ermöglicht Ihnen die gleichzeitige Auswahl mehrerer Einheiten."
+
+msgctxt "options/audio/volume/interface"
+msgid "Interface music"
+msgstr "Menümusik"
+
+msgctxt "options/video/waterbump"
+msgid "Water ripple"
+msgstr "Wasserkräuselung"
+
+msgctxt "statusbar/back"
+msgid "<f(impact)s(21)>Back"
+msgstr "<f(impact)s(21)>Zurück"
+
+msgctxt "options/video/waterbump#desc"
+msgid ""
+"Enables water ripple effect. Disable it for a slight performance increase."
+msgstr "Schalten Sie diese Option ein, wenn sich das Wasser kräuseln soll. Schalten Sie sie aus, um die Leistung des Spiels zu verbessern."
+
+msgctxt "entity_info/vehicle/armor_tank_desc"
+msgid "Armor<x(50)>Front<x(90)>Side<x(125)>Rear<x(160)>Top<x(190)>Bottom"
+msgstr "Panzerung<x(50)>Vorne<x(90)>Seite<x(125)>Hinten<x(160)>Oben<x(190)>Unten"
+
+msgctxt "options/keys/control_manual/right"
+msgid "Right"
+msgstr "Rechts"
+
+msgctxt "options/audio/speaker_config#/eax"
+msgid "DirectSound3D with EAX"
+msgstr "DirectSound3D mit EAX"
+
+msgctxt "main_menu2/market/remove"
+msgid "Remove"
+msgstr "Entfernen"
+
+msgctxt "options/video/grass#desc"
+msgid ""
+"Determines whether grass should be shown or not. Turning this option off may "
+"increase framerate."
+msgstr "Legt fest, ob die Umgebung mit Gras bewachsen ist. Schalten Sie diese Option aus, kann sich die Framerate des Spiels erhöhen."
+
+msgctxt "options/keys/keymap/key_alt"
+msgid "ALT"
+msgstr "ALT"
+
+msgctxt "dialog_box/title_error"
+msgid "<f(pobeda)s(27)b+c(faeacb)e(shadow)x.y.>Error"
+msgstr "<f(pobeda)s(27)b+c(faeacb)e(shadow)x.y.>Fehler"
+
+msgctxt "options/video/bloom"
+msgid "Bloom"
+msgstr "Bloom"
+
+msgctxt "options/video/bloom#desc"
+msgid ""
+"This effect imitates the lens of a camera, by making the whole image smoother "
+"and slightly defocused. It also enhances the overall image quality. Disable "
+"bloom if you have performance issues."
+msgstr "Dieser Effekt macht das gesamte Bild ruhiger und defokussiert es, um eine Kameralinse zu imitieren. Bewegen Sie diesen Regler ganz nach links, um den Bloom-Effekt zu deaktivieren. Ein maximaler Bloom-Effekt steigert nicht die Bildqualität. Wir empfehlen die Verwendung der Standardeinstellungen."
+
+msgctxt "options/keys/control_manual/sprint"
+msgid "Sprint"
+msgstr "Sprinten"
+
+#| msgctxt "options/keys/control_manual/sprint#desc"
+#| msgid "Hold while moving to move fast."
+msgctxt "options/keys/control_manual/sprint#desc"
+msgid "While moving, hold to move fast."
+msgstr "Für schnelles Bewegen in der Bewegung gedrückt halten."
+
+msgctxt "options/video/filmgrain#desc"
+msgid "Enables a film grain effect. May reduce performance slightly."
+msgstr "Aktiviert einen Filmkorneffekt. Verringert unter Umständen leicht die Leistung."
+
+msgctxt "main_menu2/library/soldiers/weapon_skills/skill"
+msgid "%s#%i<x(%i)>%.2f"
+msgstr "%s#%i<x(%i)>%.2f"
+
+msgctxt "main_menu2/library/soldiers/weapon_skills/skill_veterans"
+msgid "%s#%i <c(green)>+%i</c><x(%i)>%.2f <c(green)>+%.2f</c>"
+msgstr "%s#%i <c(green)>+%i</c><x(%i)>%.2f <c(green)>+%.2f</c>"
+
+msgctxt "options/video/vls"
+msgid "Light scattering"
+msgstr "Lichtstreuung"
+
+msgctxt "options/keys/groups/assign_9"
+msgid "Assign squad 9"
+msgstr "Trupp 9 zuweisen"
+
+msgctxt "options/game/multiplayer/notification_chatwheel/helphere"
+msgid "Need fire support asap!"
+msgstr "Brauche unverzüglich Feuerschutz!"
+
+msgctxt "options/video/vls#desc"
+msgid "Enables light scattering. May reduce performance noticeably."
+msgstr "Aktiviert die Lichtstreuung. Verringert unter Umständen merklich die Leistung."
+
+msgctxt "options/keys/control_camera/center_active#desc"
+msgid "Center camera on the selected unit."
+msgstr "Zentrieren Sie die Kamera über der gewählten Einheit."
+
+msgctxt "options/keys/control_manual/squadmember1"
+msgid "Select squad member 1"
+msgstr "Truppmitglied 1 auswählen"
+
+msgctxt "options/video/dof#desc"
+msgid "Enables depth of field. May reduce performance."
+msgstr "Aktiviert den Tiefenschärfeneffekt. Verringert unter Umständen die Leistung."
+
+msgctxt "options/keys/control_manual/forward#desc"
+msgid "Move the selected unit forward."
+msgstr "Bewegen Sie die gewählte Einheit vorwärts."
+
+msgctxt "entity_info/description/helicopter"
+msgid "Helicopter : %1%"
+msgstr "Hubschrauber: %1%"
+
+msgctxt "main_menu2/library/items/ammo"
+msgid "Ammunition"
+msgstr "Munition"
+
+msgctxt "main_menu2/library/items/rockets"
+msgid "Rockets"
+msgstr "Raketen"
+
+msgctxt "main_menu2/library/items/shells"
+msgid "Shells"
+msgstr "Geschosse"
+
+msgctxt "main_menu2/library/items/grenades"
+msgid "Grenades"
+msgstr Granaten""
+
+msgctxt "main_menu2/library/items/explosives"
+msgid "Explosives"
+msgstr "Sprengstoffe"
+
+msgctxt "main_menu2/library/weapons/a_pistol"
+msgid "Pistols"
+msgstr "Pistole"
+
+msgctxt "main_menu2/library/weapons/b_smg"
+msgid "Sub-Machine Guns"
+msgstr "Maschinenpistolen"
+
+msgctxt "main_menu2/library/weapons/c_rifle"
+msgid "Rifles"
+msgstr "Gewehre"
+
+msgctxt "main_menu2/library/weapons/d_mg"
+msgid "Machine Guns"
+msgstr "Maschinengewehre"
+
+msgctxt "main_menu2/library/weapons/e_at"
+msgid "Anti-Tank Weapons"
+msgstr "Panzerabwehrwaffen"
+
+msgctxt "main_menu2/library/weapons/f_flamethrower"
+msgid "Flamethrowers"
+msgstr "Flammenwerfer"
+
+msgctxt "options/video/softintersection"
+msgid "Soft particles"
+msgstr "Weiche Partikel"
+
+msgctxt "app_news/contents"
+msgid "<s(15)c(225 225 225)>%1%"
+msgstr "<s(15)c(225 225 225)>%1%"
+
+msgctxt "tutorials/category2"
+msgid "<s(25)y(+9)>Advanced"
+msgstr "<s(25)y(+9)>Fortgeschrittener"
+
+msgctxt "options/keys/with_alt"
+msgid "Hold ALT+key"
+msgstr "ALT halten + Taste"
+
+msgctxt "user_statistics/compare/title"
+msgid "COMPARE"
+msgstr "VERGLEICHEN"
+
+msgctxt "options/game/reset_confirm"
+msgid "Do you really want to reset your game settings to default?"
+msgstr "Wollen Sie Ihre Spieleinstellungen wirklich zurücksetzen?"
+
+msgctxt "options/video/_ssao"
+msgid "SSAO"
+msgstr "SSAO"
+
+msgctxt "options/video/_ssao#/off"
+msgid "Off"
+msgstr "Aus"
+
+msgctxt "options/video/_ssao#/low"
+msgid "Low"
+msgstr "Niedrig"
+
+msgctxt "options/video/_ssao#/high"
+msgid "High"
+msgstr "Hoch"
+
+msgctxt "options/keys/keymap/key_lwin"
+msgid "LWIN"
+msgstr "LWIN"
+
+msgctxt "options/game/multiplayer/gameenum"
+msgid "Game IP list"
+msgstr "Spiele-IP-Liste"
+
+msgctxt "options/keys/keymap/key_multiply"
+msgid "*"
+msgstr "*"
+
+msgctxt "options/game/multiplayer/hostname"
+msgid "Host name"
+msgstr "Hostname"
+
+msgctxt "options/video/_ssao#desc"
+msgid ""
+"Enables Screen Space Ambient Occlusion. May reduce performance noticeably."
+msgstr "Aktiviert Screen Space Ambient Occlusion (Umgebungsverdeckung). Verringert unter Umständen merklich die Leistung."
+
+msgctxt "main_menu2/singleplayer/save_load_game/title_load"
+msgid "LOAD GAME"
+msgstr "SPIEL LADEN"
+
+msgctxt "options/video/fake_translucency"
+msgid "Translucency"
+msgstr "Lichtdurchlässigkeit"
+
+msgctxt "options/keys/actions/repair#desc"
+msgid ""
+"Order a soldier or let the crew exit to repair damaged components of a vehicle."
+msgstr "Befehlen Sie die Reparatur eines defekten Fahrzeugteils durch einen Soldaten oder lassen Sie die Besatzung dazu aussteigen."
+
+msgctxt "options/keys/keymap/key_rightarrow"
+msgid "RIGHT"
+msgstr "RECHTS"
+
+msgctxt "options/audio/current_mode#desc"
+msgid "Current audio mode"
+msgstr "Aktueller Audiomodus"
+
+msgctxt "options/video/fake_translucency#desc"
+msgid "Enables flora translucency. May have slight impact on performance."
+msgstr "Aktiviert die Flora-Lichtdurchlässigkeit. Verringert unter Umständen leicht die Leistung."
+
+msgctxt "main_menu2/multiplayer/ranked_game_desc"
+msgid "earn your place on the leaderboard in fair matches"
+msgstr "Verdienen Sie sich in fairen Spielen Ihren Platz auf der Rangliste"
+
+#| msgctxt "options/video/rim_light"
+#| msgid "Rim light"
+msgctxt "options/video/rim_light"
+msgid "Unit Rim Light"
+msgstr "Einheiten-Kantenlicht"
+
+#| msgctxt "options/video/filmgrain#desc"
+#| msgid "Enables a film grain effect. May reduce performance slightly."
+msgctxt "options/video/rim_light#desc"
+msgid ""
+"Enables a rim light effect for easier visualization of soldiers and vehicles. "
+"May reduce performance slightly."
+msgstr "Aktiviert einen Kantenlichteffekt, mit dessen Hilfe Soldaten und Fahrzeuge einfacher identifiziert werden können. Kann die Leistung unter Umständen leicht verringern."
+
+msgctxt "options/video/reset_confirm"
+msgid "Do you really want to reset your video settings to default?"
+msgstr "Wollen Sie Ihre Grafikeinstellungen wirklich zurücksetzen?"
+
+msgctxt "options/keys/groups"
+msgid "SQUAD  CONTROLS"
+msgstr "TRUPP-STEUERUNG"
+
+msgctxt "options/keys/keymap/key_lcontrol"
+msgid "Left CTRL"
+msgstr "STRG links"
+
+msgctxt "main_menu2/breadcrumbs/page_singleplayer"
+msgid "SINGLEPLAYER"
+msgstr "EINZELSPIELER"
+
+msgctxt "options/video/clip_distance"
+msgid "View distance"
+msgstr "Sichtdistanz"
+
+msgctxt "options/video/alphatocoverage#desc"
+msgid ""
+"Enables soft edges on flora and blend effect on semi-transparent objects. May "
+"reduce performance noticeably, depending on the anti-aliasing setting."
+msgstr "Aktiviert weiche Kanten bei der Flora und Mischungseffekte bei halbtransparenten Objekten. Verringert unter Umständen merklich die Leistung, abhängig von der Einstellung der Kantenglättung."
+
+msgctxt "options/keys/actions/toggle_attack"
+msgid "Change fire mode"
+msgstr "Feuermodus wechseln"
+
+msgctxt "options/game/bcap"
+msgid "Bandicam"
+msgstr "Bandicam"
+
+msgctxt "options/keys/groups/assign_2"
+msgid "Assign squad 2"
+msgstr "Trupp 2 zuweisen"
+
+msgctxt "options/video/gamma#desc"
+msgid "Full screen gamma correction."
+msgstr "Vollbild-Gammakorrektur."
+
+msgctxt "main_menu2/singleplayer/save_load_replay/hint/upload"
+msgid "Upload replay"
+msgstr "Wiederholung hochladen"
+
+msgctxt "options/keys/interface/toggle_map_control"
+msgid "Mini-map options"
+msgstr "Minikartenoptionen"
+
+msgctxt "options/video/brightness"
+msgid "Brightness"
+msgstr "Helligkeit"
+
+msgctxt "main_menu2/library/weapons/burst_accuracy/bullet"
+msgid "Bullet#<x(%i)>%i"
+msgstr "Geschoss#<x(%i)>%i"
+
+msgctxt "options/video/brightness#desc"
+msgid "Brightness setting."
+msgstr "Einstellung der Helligkeit."
+
+msgctxt "main_menu2/multiplayer/ranked_game_hint"
+msgid "coming soon..."
+msgstr "in Kürze verfügbar ..."
+
+msgctxt "options/video/contrast"
+msgid "Contrast"
+msgstr "Kontrast"
+
+#| msgctxt "options/game/invert_camera_third_person#desc"
+#| msgid "Invert camera in third-person control."
+msgctxt "options/game/invert_camera_third_person#desc"
+msgid "Invert camera while in third-person direct control."
+msgstr "Die Kamera in der 3.-Person-Steuerung invertieren."
+
+msgctxt "main_menu2/library/weapons/calibre"
+msgid "Calibre#%s"
+msgstr "Kaliber#%s"
+
+msgctxt "options/keys/control_manual/backward"
+msgid "Backward"
+msgstr "Rückwärts"
+
+msgctxt "options/game/difficulty#/hard"
+msgid "Hard"
+msgstr "Schwer"
+
+msgctxt "options/video/contrast#desc"
+msgid "Image contrast."
+msgstr "Bildkontrast."
+
+#| msgctxt "options/video/btn_video_reset"
+#| msgid "<s(21)>RESET TO DEFAULT"
+msgctxt "options/video/btn_video_reset"
+msgid "<f(pobeda)s(27)b>RESET TO DEFAULT"
+msgstr "<f(pobeda)s(27)b>STANDARDBELEGUNG"
+
+msgctxt "entity_info/vehicle/weapon_2"
+msgid "Weapon<x(55)>: %1%, %2%"
+msgstr "Waffe<x(55)>: %1%, %2%"
+
+msgctxt "options/workshop/tag/mission"
+msgid "Mission"
+msgstr "Mission"
+
+msgctxt "options/keys/actions/attack_ground"
+msgid "Attack ground"
+msgstr "Bodenangriff"
+
+msgctxt "user_statistics/ranked/row/trust_rating/great"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "options/audio/title"
+msgid "<f(pobeda)s(27)b>AUDIO"
+msgstr "<f(pobeda)s(27)b>AUDIO"
+
+msgctxt "options/keys/multiplayer/toggle_microphone"
+msgid "Mute microphone"
+msgstr "Mikrofon stumm schalten"
+
+msgctxt "options/audio/adapter"
+msgid "Audio system"
+msgstr "Audiosystem"
+
+msgctxt "options/audio/adapter#desc"
+msgid "Current audio system."
+msgstr "Aktuelles Audiosystem."
+
+msgctxt "options/audio/adapter_failed"
+msgid "Error initializing sound system."
+msgstr "Fehler bei der Initialisierung des Audiosystems."
+
+msgctxt "options/audio/txt_buffers"
+msgid "Buffers"
+msgstr "Puffer"
+
+msgctxt "options/game/bcap/preset#/halfsize"
+msgid "Halfsize"
+msgstr "Halbformat"
+
+msgctxt "options/audio/volume/game_music"
+msgid "Game music"
+msgstr "Spielmusik"
+
+msgctxt "options/keys/keymap/key_capslock"
+msgid "CAPS LOCK"
+msgstr "CAPS LOCK"
+
+msgctxt "main_menu2/multiplayer/state/offline"
+msgid "Steam is in Offline mode. Multiplayer features are disabled."
+msgstr "Steam ist im Offlinemodus. Multiplayer-Funktionen sind deaktiviert."
+
+#| msgctxt "main_menu2/multiplayer/state/online"
+#| msgid "This option is only available in Steam Offline mode."
+msgctxt "main_menu2/multiplayer/state/online"
+msgid "This option available only in Steam Offline Mode."
+msgstr "Diese Option ist nur im Steam-Offlinemodus verfügbar."
+
+msgctxt "user_statistics/ranked/stat/total_killman"
+msgid "Total Infantry killed"
+msgstr "Gesamt getötete Infanterie"
+
+msgctxt "options/game/multiplayer/message_chatwheel/2"
+msgid "Negative!"
+msgstr "Negativ!"
+
+msgctxt "options/keys/keymap/double"
+msgid "DOUBLE"
+msgstr "DOPPEL"
+
+msgctxt "main_menu2/market/rarity/rare"
+msgid "Rare"
+msgstr "Selten"
+
+msgctxt "options/audio/current_mode"
+msgid "Current mode"
+msgstr "Aktueller Modus"
+
+msgctxt "options/keys/keymap/key_v"
+msgid "V"
+msgstr "V"
+
+msgctxt "options/keys/with_double"
+msgid "Double key press"
+msgstr "Zweimal drücken"
+
+msgctxt "options/audio/speaker_config"
+msgid "Sound output"
+msgstr "Soundausgabe"
+
+msgctxt "user_profile/score_txt"
+msgid "<c(25 25 25)>Score:"
+msgstr "<c(25 25 25)>Punktzahl:"
+
+msgctxt "options/keys/with_shift"
+msgid "Hold SHIFT+key"
+msgstr "SHIFT halten + Taste"
+
+msgctxt "options/keys/keymap/key_pgdn"
+msgid "PAGE DOWN"
+msgstr "BILD RUNTER"
+
+msgctxt "options/workshop/tag/mod"
+msgid "Mod"
+msgstr "Mod"
+
+msgctxt "options/game/difficulty#desc"
+msgid "Specifies the game difficulty level"
+msgstr "Bestimmt den Schwierigkeitsgrad des Spiels"
+
+msgctxt "options/keys/keymap/key_rcontrol"
+msgid "Right CTRL"
+msgstr "STRG rechts"
+
+msgctxt "options/audio/speaker_config#desc"
+msgid ""
+"Sound system configuration. Set \"Use system settings\" for maximum "
+"compatibility."
+msgstr "Soundsystem-Konfiguration Wählen Sie \"Systemeinstellungen benutzen\" für maximale Kompatibilität."
+
+msgctxt "options/audio/speaker_config#/use_system_settings"
+msgid "Use system settings"
+msgstr "Systemeinstellungen benutzen"
+
+msgctxt "options/keys/interface/slowdown#desc"
+msgid "Change game speed. (Singleplayer only)"
+msgstr "Ändern Sie die Geschwindigkeit des Spiels. (Nur im Einzelspielermodus möglich)"
+
+msgctxt "options/audio/speaker_config#/headphones"
+msgid "Headphones"
+msgstr "Kopfhörer"
+
+msgctxt "save_load_game/txt_difficulty"
+msgid "Difficulty"
+msgstr "Schwierigkeit"
+
+msgctxt "options/audio/speaker_config#/stereo_speakers"
+msgid "Stereo speakers"
+msgstr "Stereo-Lautsprecher"
+
+msgctxt "options/mp/zoneip_title"
+msgid "Zones IP list to scan"
+msgstr "Zu durchsuchende Zonen-IP-Liste"
+
+msgctxt "options/keys/keymap/key_pgup"
+msgid "PAGE UP"
+msgstr "BILD HOCH"
+
+msgctxt "button/multiplayer_inet"
+msgid "Internet"
+msgstr "Internet"
+
+msgctxt "save_load_game/completion_save_suffix"
+msgid "completed"
+msgstr "erfolgreich"
+
+msgctxt "options/audio/speaker_config#/40_discrete"
+msgid "4.0-speaker system"
+msgstr "4.0-Lautsprechersystem"
+
+msgctxt "options/audio/volume/effects#desc"
+msgid "Volume of in-game effects such as  shots, explosions and engine sounds."
+msgstr "Die Lautstärke von Soundeffekten, wie Schüssen, Explosionen und Motorengeräuschen."
+
+msgctxt "options/audio/speaker_config#/51_discrete"
+msgid "5.1-speaker system"
+msgstr "5.1-Lautsprechersystem"
+
+msgctxt "main_menu2/market/use"
+msgid "Use"
+msgstr "Benutzen"
+
+msgctxt "dialog_box/title_info"
+msgid "<f(pobeda)s(27)b+c(faeacb)e(shadow)x.y.>Info"
+msgstr "<f(pobeda)s(27)b+c(faeacb)e(shadow)x.y.>Info"
+
+#| msgctxt "options/mods/unsupported_warning"
+#| msgid ""
+#| "<c(red)>This mod is not up to date. Please wait for the mod author to "
+#| "update it."
+msgctxt "options/mods/unsupported_warning"
+msgid ""
+"<c(219 44 29)>This mod is not up to date. Please wait for the mod author to "
+"update it."
+msgstr "<c(219 44 29)>Dieser Mod ist nicht aktuell. Bitte warten Sie, bis der Entwickler ihn wieder auf den neuesten Stand gebracht hat."
+
+msgctxt "missions/demo"
+msgid "<f(impact)s(21)y(+5)c(255 255 255)>Men Of War - Demo"
+msgstr "<f(impact)s(21)y(+5)c(255 255 255)>Men Of War - Demo"
+
+msgctxt "options/audio/speaker_config#/61_discrete"
+msgid "6.1-speaker system"
+msgstr "6.1-Lautsprechersystem"
+
+msgctxt "options/audio/speaker_config#/71_discrete"
+msgid "7.1-speaker system"
+msgstr "7.1-Lautsprechersystem"
+
+msgctxt "options/keys/control_manual/helicopter_up"
+msgid "Aircraft move mode"
+msgstr "Flugzeug-Bewegungsmodus"
+
+msgctxt "options/keys/control_manual/helicopter_up#desc"
+msgid ""
+"Toggles aircraft movement mode. If on ground, allows aircraft to take of. If "
+"flying, deploys landing gear and starts landing sequence."
+msgstr "Flugzeug-Bewegungsmodus ein- oder ausschalten. Lässt ein am Boden befindliches Flugzeug in die Luft aufsteigen oder veranlasst ein bereits fliegendes Flugzeug, das Fahrwerk auszufahren und mit dem Landeanflug zu beginnen."
+
+msgctxt "options/keys/control_manual/helicopter_down"
+msgid "Descend helicopter"
+msgstr "Hubschrauber-Sinkflug"
+
+#| msgctxt "options/keys/control_manual/helicopter_down#desc"
+#| msgid "Move helicopter downwards."
+msgctxt "options/keys/control_manual/helicopter_down#desc"
+msgid "Move helicopter downwards. Not used in Gates of Hell"
+msgstr "Bewegen Sie den Hubschrauber abwärts. Kommt in Gates of Hell nicht zum Einsatz."
+
+msgctxt "options/audio/speaker_config#/directsound3d"
+msgid "DirectSound3D"
+msgstr "DirectSound3D"
+
+msgctxt "main_menu2/singleplayer/save_load_game/save_info/version#warning"
+msgid "<c(234 181 117)>%s"
+msgstr "<c(234 181 117)>%s"
+
+msgctxt "options/keys/keymap/key_yen"
+msgid "YEN"
+msgstr "YEN"
+
+msgctxt "user_statistics/ranked/stat/total_gamesplayed"
+msgid "Total games played"
+msgstr "Gesamt gespielte Spiele"
+
+#| msgctxt "options/mods/dependency_warning_caption_apply"
+#| msgid "<c(red)>Mod '%1%' is not enabled."
+msgctxt "options/mods/dependency_warning_caption_apply"
+msgid "<c(219 44 29)>Mod '%1%' is not enabled."
+msgstr "<c(219 44 29)>Mod „%1%“ ist nicht aktiviert."
+
+#| msgctxt "options/audio/rate#desc"
+#| msgid ""
+#| "Enables you to change quality (sampling frequency) of audio samples. "
+#| "Lowering this value can slightly improve overall game performance."
+msgctxt "options/audio/rate#desc"
+msgid ""
+"Enables you to change quality (sampling rate) of audio samples. Lowering this "
+"value can slightly improve overall game performance."
+msgstr "Bestimmt die Qualität (Sampling-Rate) von Audiodateien (Abtastrate). Senken Sie diesen Wert, kann sich die Leistung des Spiels geringfügig verbessern."
+
+msgctxt "options/keys/control_manual/squadmember10"
+msgid "Select squad member 10"
+msgstr "Truppmitglied 10 auswählen"
+
+msgctxt "user_statistics/faction/stat/experience"
+msgid "Experience"
+msgstr "Erfahrung"
+
+msgctxt "options/game/multiplayer/notification_chatwheel/defendhere"
+msgid "Hold that position!"
+msgstr "Stellung halten!"
+
+msgctxt "options/audio/rate#/11_khz"
+msgid "11 KHz"
+msgstr "11 KHz"
+
+msgctxt "entity_info/description/soldier"
+msgid "Soldier : %1%"
+msgstr "Soldat: %1%"
+
+msgctxt "options/game/selection_circle/growth_per_second"
+msgid "Growth"
+msgstr "Wachstum"
+
+msgctxt "options/keys/control_manual/weapon5"
+msgid "Weapon 5"
+msgstr "Waffe 5"
+
+msgctxt "options/audio/bits"
+msgid "Bits per channel"
+msgstr "Bits pro Kanal"
+
+msgctxt "main_menu2/header_buttons/market"
+msgid "MARKET"
+msgstr "MARKT"
+
+#| msgctxt "user_statistics/faction/title"
+#| msgid "FACTIONS"
+msgctxt "main_menu2/header_buttons/options"
+msgid "OPTIONS"
+msgstr "OPTIONEN"
+
+msgctxt "options/audio/bits#desc"
+msgid "Changes quality (sample resolution) of the audio stream."
+msgstr "Ändert die Klangqualität (Sampling-Auflösung)."
+
+msgctxt "app_news/title"
+msgid "<s(20)c(10 10 10)>%1%</e>"
+msgstr "<s(20)c(10 10 10)>%1%</e>"
+
+msgctxt "options/audio/bits#/8_bit"
+msgid "8 bits"
+msgstr "8 Bit"
+
+msgctxt "options/keys/keymap/key_divide"
+msgid "NUM DIVIDE"
+msgstr "ZIFF GETEILT"
+
+msgctxt "options/audio/bits#/16_bit"
+msgid "16 bits"
+msgstr "16 Bit"
+
+msgctxt "main_menu2/singleplayer/save_load_replay/btn_rename"
+msgid "RENAME"
+msgstr "UMBENENNEN"
+
+msgctxt "options/audio/buffers"
+msgid "Buffers"
+msgstr "Puffer"
+
+msgctxt "options/keys/keymap/mouse_midle"
+msgid "Middle Mouse Button"
+msgstr "Mittlere Maustaste"
+
+msgctxt "user_statistics/ranked/row/total_lostman"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "options/keys/actions/attack_melee"
+msgid "Melee attack"
+msgstr "Nahangriff"
+
+msgctxt "options/audio/buffers#desc"
+msgid ""
+"The number of sound buffers is the number of simultaneous sounds which can be "
+"processed by your system. Consider lowering this setting if you are "
+"experiencing performance or stability issues."
+msgstr "Die Zahl der Soundpuffer gibt die Zahl der gleichzeitig verarbeiteten Sounds an. Treten Probleme mit der Leistung oder Stabilität des Spiels auf, sollten Sie diesen Wert senken."
+
+msgctxt "options/keys/actions/rotate"
+msgid "Look at"
+msgstr "Ausrichten"
+
+msgctxt "user_profile/xp_progress"
+msgid "<c(255 255 255)e(shadow)>%1%/%2% XP"
+msgstr "<c(255 255 255)e(shadow)>%1%/%2% EP"
+
+msgctxt "main_menu2/store"
+msgid "STORE"
+msgstr "SHOP"
+
+msgctxt "options/audio/enable_hit_sound"
+msgid "Enable Hit Sound"
+msgstr "Treffergeräusche"
+
+msgctxt "main_menu2/singleplayer/save_load_replay/btn_back"
+msgid "BACK"
+msgstr "ZURÜCK"
+
+msgctxt "options/audio/enable_hit_sound#desc"
+msgid "Plays a sound effect on hitting an enemy unit in \"Direct Control\" mode."
+msgstr "Spielt einen Ton beim Treffen einer feindlichen Einheit im „Direktsteuerungsmodus“."
+
+#, boost-format
+msgctxt "main_menu2/market/item_quantity"
+msgid "%1%x"
+msgstr "%1%x"
+
+msgctxt "main_menu2/upgrade"
+msgid "UPGRADE"
+msgstr "UPGRADE"
+
+msgctxt "options/audio/volume/effects"
+msgid "Effects"
+msgstr "Effekte"
+
+msgctxt "options/audio/volume/emotions"
+msgid "Vocal emotes"
+msgstr "Sprach-Emotes"
+
+msgctxt "button/multiplayer_lan"
+msgid "LAN"
+msgstr "LAN"
+
+msgctxt "user_statistics/ranked/stat/max_infantry_bot"
+msgid "Highest bot infantry kills"
+msgstr "Am meisten getötete Bot-Infanteristen"
+
+msgctxt "options/audio/volume/emotions#desc"
+msgid "Volume of soldiers' emotes during battle."
+msgstr "Lautstärke der Kommentare der Soldaten während des Gefechts."
+
+msgctxt "main_menu2/library/weapons"
+msgid "Weapons"
+msgstr "Waffen"
+
+msgctxt "main_menu2/library/fauna"
+msgid "Fauna"
+msgstr "Tierwelt"
+
+msgctxt "button/restart"
+msgid "Restart"
+msgstr "Neu starten"
+
+msgctxt "options/keys/multiplayer/show_notification"
+msgid "Team marker/Chatwheel"
+msgstr "Team-Wegpunkt/Chatrad"
+
+#| msgctxt "options/keys/multiplayer/chat_team#desc"
+#| msgid "Send a message to your team. Hold down to activate the Chatwheel!"
+msgctxt "options/keys/multiplayer/show_notification#desc"
+msgid ""
+"Places marker on map and mini-map that only your team can see. Hold down to "
+"activate the Chatwheel!"
+msgstr "Platziert einen Wegpunkt auf Karte und Minikarte, den nur Ihr Team sehen kann. Gedrückt halten, um das Chatrad zu aktivieren!"
+
+msgctxt "options/audio/volume/environment"
+msgid "Environment"
+msgstr "Umgebung"
+
+msgctxt "options/audio/volume/environment#desc"
+msgid ""
+"Volume of environmental sounds (the wind, the waves, birds, crickets, etc.)."
+msgstr "Lautstärke der Umgebungsgeräusche (Wind, Brandung, Vögel usw.)."
+
+msgctxt "options/keys/with_nodouble"
+msgid "Single key press"
+msgstr "Einmal drücken"
+
+msgctxt "main_menu2/library/soldiers/veterancy"
+msgid "Veterancy#%i (%.1f / %.1f XP)"
+msgstr "Kampferfahrung#%i (%.1f / %.1f EP)"
+
+msgctxt "main_menu2/library/soldiers/veterancy_max"
+msgid "Veterancy#%i (Max)"
+msgstr "Kampferfahrung#%i (Max)"
+
+msgctxt "main_menu2/library/soldiers/base_stats"
+msgid "Stats#Base<x(%i)>Regeneration"
+msgstr "Werte#Basis<x(%i)>Regeneration"
+
+msgctxt "main_menu2/library/soldiers/health_points"
+msgid "HP#%.f<x(%i)>%.1f"
+msgstr "TP#%.f<x(%i)>%.1f"
+
+msgctxt "main_menu2/library/soldiers/health_points_veterans"
+msgid "HP#%.f <c(green)>+%.f</c><x(%i)>%.1f <c(green)>+%.1f</c>"
+msgstr "TP#%.f <c(green)>+%.f</c><x(%i)>%.1f <c(green)>+%.1f</c>"
+
+msgctxt "main_menu2/library/soldiers/stamina"
+msgid "Stamina#%.f<x(%i)>%.1f"
+msgstr "Ausdauer#%.f<x(%i)>%.1f"
+
+msgctxt "main_menu2/library/soldiers/stamina_veterans"
+msgid "Stamina (Regen)#%.f <c(green)>+%.f</c><x(%i)>%.1f <c(green)>+%.1f</c>"
+msgstr "Ausdauer (Regen)#%.f <c(green)>+%.f</c><x(%i)>%.1f <c(green)>+%.1f</c>"
+
+msgctxt "options/audio/volume/interface#desc"
+msgid "Interface music volume."
+msgstr "Lautstärke der Menümusik."
+
+msgctxt "options/game/autosave"
+msgid "Enable Autosave"
+msgstr "Automatisches Speichern aktivieren"
+
+msgctxt "options/audio/volume/game_music#desc"
+msgid "Background music volume."
+msgstr "Lautstärke der Hintergrundmusik."
+
+msgctxt "options/keys/control_manual/weapon_reload#desc"
+msgid ""
+"Reload currently held weapon. Also reloads the weapons of all selected units "
+"in rts."
+msgstr "Aktuelle Waffe nachladen. Dadurch werden auch die Waffen aller ausgewählten Einheiten im Echtzeitstrategiemodus nachgeladen."
+
+msgctxt "options/workshop/status/pending"
+msgid "Pending"
+msgstr "Ausstehend"
+
+msgctxt "options/game/multiplayer/message_chatwheel/3"
+msgid "Affirmative!"
+msgstr "Verstanden!"
+
+msgctxt "options/audio/volume/narrator"
+msgid "Speech"
+msgstr "Sprachausgabe"
+
+msgctxt "announce_upgrade_text"
+msgid ""
+"We hope you were enjoying Call to Arms so far!\n"
+"\n"
+"It's a great time to upgrade your free edition to one of the full version "
+"packages. Experience the singleplayer campaigns in solo or coop with your "
+"friends, play user generated content via Steam Workshop, fight custom battles "
+"in editor, mod your game from ground up, get your multiplayer units unlocked "
+"instantly and receive access to new factions (once available). Of course, "
+"there are also some extra goodies waiting for you. For more information, "
+"please check the product pages.\n"
+"\n"
+"Have fun!"
+msgstr "Wir hoffen, dass Sie bisher viel Spaß mit Call to Arms hatten!\n\nJetzt ist ein guter Zeitpunkt, um die Gratisversion auf eines der Vollversionspakete upzugraden. Erleben Sie die Einzelspielerkampagnen allein oder im Koop mit Ihren Freunden, spielen Sie von anderen Benutzern erstellte Inhalte über den Steam Workshop, kämpfen Sie in benutzerdefinierten Gefechten im Editor, modden Sie Ihr Spiel von Grund auf, schalten Sie sofort Ihre Multiplayer-Einheiten frei und erhalten Sie Zugang zu neuen Fraktionen (sobald verfügbar). Natürlich erwarten Sie auch einige zusätzliche Goodies. Sehen Sie sich die Produktseite an, um mehr zu erfahren.\n\nViel Spaß!"
+
+msgctxt "options/audio/volume/narrator#desc"
+msgid "Volume of soldiers' and narrator's speech during battle."
+msgstr "Lautstärke der Sprachausgabe während des Gefechts."
+
+#| msgctxt "options/workshop/confirm_unsubscribe"
+#| msgid "Unsubscribe from selected mod?"
+msgctxt "options/workshop/confirm_unsubscribe"
+msgid "<f(roboto_mono)s(18)>Unsubscribe from selected mod?"
+msgstr "<f(roboto_mono)s(18)>Ausgewählten Mod abbestellen?"
+
+msgctxt "options/audio/reset_confirm"
+msgid "Do you really want to reset your audio settings to default?"
+msgstr "Wollen Sie Ihre Audioeinstellungen wirklich zurücksetzen?"
+
+msgctxt "options/keys/groups/assign_8"
+msgid "Assign squad 8"
+msgstr "Trupp 8 zuweisen"
+
+msgctxt "options/game/difficulty"
+msgid "Difficulty"
+msgstr "Schwierigkeit"
+
+#| msgctxt "options/keys/actions/throw_ap_grenade"
+#| msgid "Throw frag grenade"
+msgctxt "options/keys/actions/throw_at_grenade"
+msgid "Throw anti-tank grenade"
+msgstr "Panzerabwehrgranate werfen"
+
+#| msgctxt "options/keys/multiplayer/chat_team#desc"
+#| msgid "Send a message to your team. Hold down to activate the Chatwheel!"
+msgctxt "options/keys/multiplayer/chat_#desc"
+msgid "Send a message to your team. Hold down to activate the Chatwheel!"
+msgstr "Schicken Sie Ihrem Team eine Nachricht. Gedrückt halten, um das Chatrad zu aktivieren!"
+
+#| msgctxt "missions/difficulty/normal"
+#| msgid "<f(impact)s(21)>Normal"
+msgctxt "button/no"
+msgid "<f(pobeda)s(27)b>No"
+msgstr "<f(pobeda)s(27)b>Nein"
+
+msgctxt "options/keys/control_manual/next_weapon#desc"
+msgid "Switch between available primary and secondary weapons."
+msgstr "Wechseln Sie zwischen den verfügbaren Primär- und Sekundärwaffen."
+
+msgctxt "options/game/difficulty#/easy"
+msgid "Easy"
+msgstr "Leicht"
+
+msgctxt "version_short_string"
+msgid "%2% - version %1%"
+msgstr "Call to Arms - Gates of Hell - version %1%"
+
+msgctxt "options/keys/interface/toggle_equipment"
+msgid "Inventory"
+msgstr "Inventar"
+
+msgctxt "options/game/difficulty#/normal"
+msgid "Normal"
+msgstr "Normal"
+
+#, boost-format
+msgctxt "main_menu2/market/item_quantity_of2"
+msgid "<s(24)>%1%x (%2%x)"
+msgstr "<s(24)>%1%x (%2%x)"
+
+msgctxt "main_menu2/library/items"
+msgid "Items"
+msgstr "Gegenstände"
+
+msgctxt "statusbar/multi_player"
+msgid "Multiplayer"
+msgstr "Multiplayer"
+
+msgctxt "options/keys/control_manual/toggle"
+msgid "Direct Control on/off"
+msgstr "Direktsteuerung ein/aus"
+
+#| msgctxt "options/keys/control_manual/toggle"
+#| msgid "Direct Control on/off"
+msgctxt "options/keys/control_manual/toggle#desc"
+msgid "Switches \"Direct Control\" on or off."
+msgstr "„Direktsteuerung“ ein- oder ausschalten."
+
+#| msgctxt "options/keys/control_manual/toggle#desc"
+#| msgid "Toggle \"Direct Control\" mode."
+msgctxt "options/keys/control_manual/manual_mode_toggle"
+msgid "Toggle Control Mode"
+msgstr "Steuerungsmodus ein-/ausschalten"
+
+msgctxt "options/keys/control_manual/manual_mode_toggle#desc"
+msgid ""
+"Toggle Direct Control Between \"Classic\" and  \"Third Person\" modes "
+"instantly for the best control type in any situation."
+msgstr "Das Umschalten zwischen dem „Klassischen“ Direktsteuerungsmodus und dem „3.-Person“-Modus ermöglicht je nach Situation die optimale Steuerungsart."
+
+msgctxt "options/game/fog_of_war"
+msgid "Fog of War"
+msgstr "Nebel des Krieges"
+
+msgctxt "main_menu2/breadcrumbs/page_session_list_lan"
+msgid "LOCAL"
+msgstr "LOKAL"
+
+msgctxt "main_menu2/multiplayer/session/filter"
+msgid "FILTER"
+msgstr "FILTER"
+
+msgctxt "main_menu2/header_buttons/exit"
+msgid "<s(40)>EXIT"
+msgstr "<s(40)>BEENDEN"
+
+msgctxt "options/game/fog_of_war#/fog_off"
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+msgctxt "entity_info/description/tank"
+msgid "Tank : %1%"
+msgstr "Panzer: %1%"
+
+msgctxt "options/keys/keymap/key_noconvert"
+msgid "NOCONVERT"
+msgstr "NOCONVERT"
+
+msgctxt "options/game/fog_of_war#/fog_simple"
+msgid "Simple"
+msgstr "Einfach"
+
+msgctxt "options/mp/hostname"
+msgid "Host name"
+msgstr "Hostname"
+
+msgctxt "options/game/fog_of_war#/fog_realistic"
+msgid "Realistic"
+msgstr "Realistisch"
+
+msgctxt "main_menu2/breadcrumbs/page_load_game"
+msgid "LOAD GAME"
+msgstr "SPIEL LADEN"
+
+#| msgctxt "main_menu2/dynamic_campaign/campaign_name_suggestion"
+#| msgid "Conquest"
+msgctxt "main_menu2/breadcrumbs/page_load_campaign"
+msgid "Load Conquest"
+msgstr "Eroberung laden"
+
+msgctxt "options/keys/multiplayer/push_to_talk#desc"
+msgid "Enable your microphone by holding the key."
+msgstr "Aktivieren Sie Ihr Mikrofon, indem Sie die Taste halten."
+
+msgctxt "options/game/fog_of_war#desc"
+msgid ""
+"Determines whether the \"Fog of War\" effect should be displayed on the "
+"screen. (This setting doesn't disable it altogether, but makes it invisible to "
+"improve game performance.)"
+msgstr "Legt fest, ob der \"Nebel des Krieges\" angezeigt wird. (Diese Einstellung deaktiviert ihn nicht, sondern blendet ihn aus, um die Leistung des Spiels zu verbessern.)"
+
+msgctxt "main_menu2/breadcrumbs/page_session_list"
+msgid "ONLINE"
+msgstr "ONLINE"
+
+msgctxt "options/keys/control_manual/weapon3#desc"
+msgid "Weapon 3"
+msgstr "Waffe 3"
+
+msgctxt "options/game/subtitles#desc"
+msgid "Turn subtitles on/off."
+msgstr "Blenden Sie die Untertitel ein/aus."
+
+msgctxt "options/workshop/btn_unsubscribe"
+msgid "<s(20)>UNSUBSCRIBE"
+msgstr "<s(20)>ABBESTELLEN"
+
+msgctxt "options/game/invert_mouse_wheel#desc"
+msgid "Invert mouse wheel on/off."
+msgstr "Schalten Sie das Spiegeln des Mausrades ein/aus."
+
+#| msgctxt "options/game/invert_camera_third_person"
+#| msgid "Invert camera in third-person"
+msgctxt "options/game/invert_camera_third_person"
+msgid "Invert third-person camera"
+msgstr "3.-Person-Kamera invertieren"
+
+msgctxt "options/keys/keymap/key_circumflex"
+msgid "CIRCUMFLEX"
+msgstr "CIRCUMFLEX"
+
+msgctxt "options/game/mouseout_camera_movement"
+msgid "Enable edge scrolling"
+msgstr "Bildschirmrand-Scrolling aktivieren"
+
+msgctxt "options/mp/bandwidth/wansession"
+msgid "Starting the game (WAN)"
+msgstr "Spielstart (WAN)"
+
+msgctxt "options/game/mouseout_camera_movement#desc"
+msgid ""
+"Enable camera movement when the mouse is near the screen edges or offscreen"
+msgstr "Aktiviert die Kamerabewegung mit der Maus am Bildschirmrand oder außerhalb des Bildschirms."
+
+msgctxt "options/game/aiming/auto_aim_vehicle"
+msgid "Auto aim at vehicles"
+msgstr "Zielen Sie automatisch auf Fahrzeuge"
+
+msgctxt "main_menu2/breadcrumbs/page_multiplayer_ranked"
+msgid "RANKED"
+msgstr "RANGLISTENSPIEL"
+
+msgctxt "options/game/aiming/auto_aim_vehicle#desc"
+msgid ""
+"Auto aiming at vehicles snaps your aiming cursor to the nearest vehicle in "
+"area."
+msgstr "Dadurch rastet der Zielcursor über dem nächstgelegenen Fahrzeug ein."
+
+msgctxt "feedback_text2"
+msgid ""
+"Dear Soldier,\n"
+"\n"
+"Thank you for your participation in Call to Arms. As a token of our gratitude "
+"for all of your contributions, we hereby award you the Silver Star. "
+"Congratulations!\n"
+"\n"
+"As an independent developer studio, your opinion is what matters to us the "
+"most. In case you haven't done so yet, please consider leaving us a nice "
+"review. We want to hear your valuable feedback and thoughts on what you enjoy "
+"most about the game. Keep in mind, the more people who can find out about the "
+"game, the better we can make it for everyone.\n"
+"\n"
+"Thank you, and good luck on the battlefield!\n"
+msgstr "Sehr geehrter Soldat,\n\ndanke für Ihre Teilnahme an Call to Arms. Als Zeichen unserer Dankbarkeit für all Ihre Beiträge verleihen wir Ihnen hiermit den Silberstern. Glückwunsch!\n\nDa wir ein unabhängiges Entwicklerstudio sind, zählt für uns nichts mehr als Ihre Meinung. Bitte denken Sie daran, uns eine gute Kritik zu hinterlassen, falls Sie es nicht ohnehin schon getan haben. Wir möchten Ihr wertvolles Feedback und Ihre Gedanken zu den für Sie schönsten Momenten des Spiels hören. Vergessen Sie nicht: je mehr Leute das Spiel entdecken, desto besser können wir es für alle machen.\n\nDanke und viel Glück auf dem Schlachtfeld!\n"
+
+msgctxt "options/game/slow_down_while_inventory_exchange"
+msgid "Slow down during inventory exchange"
+msgstr "Zeitlupe bei Inventarzugriff"
+
+msgctxt "options/game/camera_scroll_speed"
+msgid "Camera scroll speed"
+msgstr "Kamera-Scrollgeschwindigkeit"
+
+msgctxt "options/keys/multiplayer/show_statistics#desc"
+msgid "Show in-game statistics."
+msgstr "Werfen Sie einen Blick auf die Spielstatistiken."
+
+msgctxt "options/game/camera_scroll_speed#desc"
+msgid "Changes the speed at which the camera moves."
+msgstr "Bestimmt die Geschwindigkeit der Kamerabewegung."
+
+msgctxt "options/game/camera_rotate_speed"
+msgid "Camera rotation speed"
+msgstr "Kameradrehungsgeschwindigkeit"
+
+msgctxt "options/game/multiplayer/message_chatwheel/4"
+msgid "Welcome to the meatgrinder!"
+msgstr "Willkommen im Fleischwolf!"
+
+msgctxt "options/game/camera_rotate_speed#desc"
+msgid "Controls the camera rotation sensibility."
+msgstr "Bestimmt die Empfindlichkeit der Kameradrehung."
+
+msgctxt "options/game/camera_speed_third_person"
+msgid "Aim speed in \"3rd Person\""
+msgstr "Zielgeschwindigkeit"
+
+msgctxt "options/game/hints"
+msgid "Tips"
+msgstr "Tipps"
+
+#| msgctxt "options/workshop/btn_deactivate"
+#| msgid "<s(20)>DEACTIVATE"
+msgctxt "options/workshop/btn_deactivate"
+msgid "<f(pobeda)>DEACTIVATE"
+msgstr "<f(pobeda)>DEAKTIVIEREN"
+
+msgctxt "options/game/hints#desc"
+msgid "Displays mouse tooltips when pointing to buttons and units."
+msgstr "Zeigt Tooltips an, wenn Sie den Mauszeiger über Buttons oder Einheiten bewegen."
+
+#| msgctxt "options/game/action_by_left_click"
+#| msgid "Reverse mouse button orders"
+msgctxt "options/game/action_by_left_click"
+msgid "Reverse mouse buttons"
+msgstr "Maustasten umkehren"
+
+msgctxt "options/game/threat_markers#desc"
+msgid "Enables markers for enemies which are out of sight."
+msgstr "Blendet Marker für Feinde außerhalb der Sichtweite ein."
+
+msgctxt "main_menu2/multiplayer/session/host_game"
+msgid "HOST GAME"
+msgstr "SPIEL HOSTEN"
+
+msgctxt "main_menu/exit_confirm"
+msgid "Quit mission?"
+msgstr "Mission beenden?"
+
+msgctxt "options/game/selection_circle"
+msgid "Selection Circle"
+msgstr "Auswahlkreis"
+
+msgctxt "options/game/selection_circle/start_radius"
+msgid "Start Radius"
+msgstr "Anfangsradius"
+
+msgctxt "options/game/selection_circle/max_radius"
+msgid "Max Radius"
+msgstr "Maximaler Radius"
+
+msgctxt "options/game/selection_circle/max_radius#desc"
+msgid "Final size of the circle."
+msgstr "Endgültige Größe des Kreises."
+
+msgctxt "options/game/selection_circle#desc"
+msgid "Selection Circle settings."
+msgstr "Auswahlkreis-Einstellungen."
+
+msgctxt "options/game/bcap/preset#desc"
+msgid "Bandicam resolution."
+msgstr "Bandicam-Auflösung."
+
+msgctxt "options/keys/control_manual"
+msgid "DIRECT  CONTROL"
+msgstr "DIREKTSTEUERUNG"
+
+msgctxt "options/game/bcap/preset#/standard"
+msgid "Standard"
+msgstr "Standard"
+
+msgctxt "options/game/bcap/video_quality"
+msgid "Video quality"
+msgstr "Videoqualität"
+
+msgctxt "main_menu2/library/soldiers/perks"
+msgid "Perks"
+msgstr "Perks"
+
+msgctxt "options/game/bcap/video_quality#desc"
+msgid "Bandicam video quality."
+msgstr "Bandicam-Videoqualität."
+
+msgctxt "options/keys/groups/assign_5"
+msgid "Assign squad 5"
+msgstr "Trupp 5 zuweisen"
+
+msgctxt "options/game/bcap/video_quality#/low"
+msgid "Low"
+msgstr "Niedrig"
+
+msgctxt "button/introduction"
+msgid "Introduction"
+msgstr "Einleitung"
+
+msgctxt "options/keys/control_manual/quick_aim"
+msgid "Quick Aim"
+msgstr "Schnelles Zielen"
+
+msgctxt "options/game/bcap/video_quality#/medium"
+msgid "Medium"
+msgstr "Mittel"
+
+msgctxt "user_statistics/profile/backgrounds"
+msgid "BACKGROUNDS"
+msgstr "HINTERGRÜNDE"
+
+msgctxt "options/game/bcap/video_quality#/high"
+msgid "High"
+msgstr "Hoch"
+
+msgctxt "options/game/multiplayer/username#desc"
+msgid "Enter your player name."
+msgstr "Geben Sie Ihren Spielernamen ein."
+
+msgctxt "options/keys/control_manual/weapon1"
+msgid "Weapon 1"
+msgstr "Waffe 1"
+
+msgctxt "options/game/multiplayer/hostname#desc"
+msgid "Specify your host name."
+msgstr "Bestimmen Sie Ihren Hostnamen."
+
+msgctxt "options/keys/keymap/key_lshift"
+msgid "Left SHIFT"
+msgstr "SHIFT links"
+
+msgctxt "options/game/multiplayer/minfps#desc"
+msgid "Minimum number of frames per second to sustain during network games."
+msgstr "Minimale Anzahl an Frames per Second bei Netzwerkspielen."
+
+msgctxt "options/keys/multiplayer/show_statistics"
+msgid "Show score table"
+msgstr "Statistiken anzeigen"
+
+msgctxt "options/mp/zoneenum#desc"
+msgid ""
+"List of dedicated servers' IP addresses outside of your LAN at which to search "
+"for games. If any games are found at these servers, they will be automatically "
+"displayed on the LAN screen."
+msgstr "Liste der IP-Adressen dedizierter Server außerhalb Ihres LANs, die nach Spielen durchsucht werden. Auf diesen Servern gefundene Spiele werden automatisch im LAN-Bildschirm angezeigt."
+
+msgctxt "options/game/multiplayer/message_chatwheel/5"
+msgid "Contact!"
+msgstr "Feindkontakt!"
+
+msgctxt "main_menu2/library/soldiers/perks/fortification"
+msgid "Fortification"
+msgstr "Befestigung"
+
+msgctxt "options/keys/keymap/key_f8"
+msgid "F8"
+msgstr "F8"
+
+msgctxt "options/game/multiplayer/message_chatwheel/6"
+msgid "I'm sorry!"
+msgstr "Tut mir leid!"
+
+msgctxt "options/keys/keymap/key_f7"
+msgid "F7"
+msgstr "F7"
+
+msgctxt "options/keys/control_manual/squadmember3"
+msgid "Select squad member 3"
+msgstr "Truppmitglied 3 auswählen"
+
+msgctxt "options/game/multiplayer/message_chatwheel/7"
+msgid "Let's move in!"
+msgstr "Gehen wir rein!"
+
+msgctxt "options/keys/interface/corpses_highlight#desc"
+msgid "Highlight corpses on the ground."
+msgstr "Heben Sie gefallene Soldaten auf dem Boden hervor."
+
+msgctxt "options/keys/control_camera/decrease_view#desc"
+msgid "Pitch the camera down."
+msgstr "Senken Sie die Kamera."
+
+msgctxt "main_menu2/multiplayer/local_game"
+msgid "LOCAL GAME"
+msgstr "LOKALES SPIEL"
+
+msgctxt "main_menu2/library/soldiers/perks/mechanic/limited"
+msgid "Limited"
+msgstr "Eingeschränkt"
+
+msgctxt "options/game/multiplayer/message_chatwheel/8"
+msgid "Attaboy!"
+msgstr "Guter Junge!"
+
+msgctxt "options/game/multiplayer/message_chatwheel/9"
+msgid "Did that hurt?"
+msgstr "Hat das wehgetan?"
+
+msgctxt "main_menu2/market/filter/emoticon"
+msgid "Emoticon"
+msgstr "Emoticon"
+
+msgctxt "options/keys/control_manual/forward"
+msgid "Forward"
+msgstr "Vorwärts"
+
+msgctxt "options/keys/keymap/key_rwin"
+msgid "RWIN"
+msgstr "RWIN"
+
+msgctxt "options/game/multiplayer/message_chatwheel/10"
+msgid "Oops!"
+msgstr "Ups!"
+
+msgctxt "options/game/multiplayer/message_chatwheel/11"
+msgid "Take it easy!"
+msgstr "Entspannen Sie sich!"
+
+msgctxt "options/keys/keymap/key_f11"
+msgid "F11"
+msgstr "F11"
+
+msgctxt "options/game/multiplayer/message_chatwheel/12"
+msgid "Good luck & have fun!"
+msgstr "Viel Glück & viel Spaß!"
+
+msgctxt "options/keys/actions"
+msgid "RTS  CONTROLS"
+msgstr "ECHTZEITSTRATEGIE-STEUERUNG"
+
+msgctxt "options/game/multiplayer/message_chatwheel/13"
+msgid "Good game & well played!"
+msgstr "Gutes Spiel & gut gespielt!"
+
+msgctxt "main_menu2/market/filter/badge"
+msgid "Badge"
+msgstr "Abzeichen"
+
+msgctxt "options/game/multiplayer/notification_chatwheel/enemyhere"
+msgid "Hostiles spotted!"
+msgstr "Feind gesichtet!"
+
+msgctxt "user_statistics/leaderboards/user"
+msgid "User"
+msgstr "Benutzer"
+
+msgctxt "options/game/multiplayer/notification_chatwheel/goinghere"
+msgid "Moving to location!"
+msgstr "Rücke zum Zielgebiet vor!"
+
+msgctxt "options/keys/keymap/key_numpad9"
+msgid "NUM 9"
+msgstr "ZIFF 9"
+
+msgctxt "options/game/multiplayer/notification_chatwheel/watchout"
+msgid "Watch out here!"
+msgstr "Vorsicht hier!"
+
+#| msgctxt "options/game/btn_game_reset"
+#| msgid "<s(21)>RESET TO DEFAULT"
+msgctxt "options/game/btn_game_reset"
+msgid "<f(pobeda)s(27)b>RESET TO DEFAULT"
+msgstr "<f(pobeda)s(27)b>STANDARDBELEGUNG"
+
+msgctxt "options/mp/title"
+msgid "MULTIPLAYER"
+msgstr "MULTIPLAYER"
+
+msgctxt "main_menu2/singleplayer/load_game"
+msgid "LOAD GAME"
+msgstr "SPIEL LADEN"
+
+msgctxt "options/keys/keymap/key_up"
+msgid "UP"
+msgstr "HOCH"
+
+msgctxt "options/game/multiplayer/create_replay"
+msgid "Create Replay"
+msgstr "Wiederholung erstellen"
+
+msgctxt "options/game/multiplayer/create_replay#desc"
+msgid "Create game replay at end of session."
+msgstr "Erstelle eine Wiederholung des Spiels am Ende der Sitzung."
+
+msgctxt "options/mp/username"
+msgid "User name"
+msgstr "Benutzername"
+
+msgctxt "options/keys/keymap/key_period"
+msgid "."
+msgstr "."
+
+msgctxt "options/mp/username#desc"
+msgid "Enter your player name."
+msgstr "Geben Sie Ihren Spielernamen ein."
+
+msgctxt "user_statistics/leaderboards2/steam_offline"
+msgid "Steam Not Available"
+msgstr "Steam nicht verfügbar"
+
+msgctxt "options/mp/hostname#desc"
+msgid "Specify your host name."
+msgstr "Bestimmen Sie Ihren Hostnamen."
+
+msgctxt "main_menu2/library/weapons/muzzle_speed"
+msgid "Muzzle Speed#%.f m/s"
+msgstr "Mündungsgeschwindigkeit#%.f m/s"
+
+msgctxt "options/keys/control_camera#desc"
+msgid "Key assignments for controlling the camera."
+msgstr "Wichtige Tastenbelegungen für die Kamerasteuerung."
+
+msgctxt "main_menu2/market/new_items"
+msgid "You got new items!"
+msgstr "Sie haben neue Gegenstände!"
+
+msgctxt "options/mp/minfps"
+msgid "Minimum FPS"
+msgstr "FPS-Minimum"
+
+msgctxt "options/keys/keymap/key_f6"
+msgid "F6"
+msgstr "F6"
+
+msgctxt "options/keys/keymap/key_decimal"
+msgid "DEL"
+msgstr ","
+
+msgctxt "options/mp/minfps#desc"
+msgid "Minimum number of frames per second to sustain during network games."
+msgstr "Minimale Anzahl an Frames per Second bei Netzwerkspielen."
+
+msgctxt "button/options"
+msgid "Options"
+msgstr "Optionen"
+
+msgctxt "options/mp/zoneenum"
+msgid "Zone IP list"
+msgstr "Zonen-IP-Liste"
+
+msgctxt "options/keys/control_manual/weapon2"
+msgid "Weapon 2"
+msgstr "Waffe 2"
+
+msgctxt "options/mp/bandwidth"
+msgid "Content download speed (%)"
+msgstr "Downloadgeschwindigkeit (%)"
+
+msgctxt "options/keys/keymap/key_b"
+msgid "B"
+msgstr "B"
+
+msgctxt "options/keys/keymap/key_comma"
+msgid ","
+msgstr ","
+
+msgctxt "options/mp/bandwidth/lansession"
+msgid "Starting the game (LAN)"
+msgstr "Spielstart (LAN)"
+
+msgctxt "options/mp/bandwidth/langame"
+msgid "Playing the game (LAN)"
+msgstr "Im Spiel (LAN)"
+
+msgctxt "options/mp/bandwidth/wangame"
+msgid "Playing the game (WAN)"
+msgstr "Im Spiel (WAN)"
+
+#| msgctxt "options/mp/gameip_title"
+#| msgid "Games IP list to scan"
+msgctxt "options/mp/gameip_title"
+msgid "<s(27)f(pobeda)b>Games IP list to scan"
+msgstr "<s(27)f(pobeda)b>Zu durchsuchende Spiele-IP-Liste"
+
+msgctxt "options/keys/keymap/key_left"
+msgid "LEFT"
+msgstr "LINKS"
+
+msgctxt "options/keys/actions/cycle_pose"
+msgid "Change stance"
+msgstr "Haltung ändern"
+
+msgctxt "options/mods/unknown_warning"
+msgid "Mod '%1%' was disabled: Not installed."
+msgstr "Mod „%1%\" wurde deaktiviert: Nicht installiert."
+
+#| msgctxt "options/keys/change_key"
+#| msgid "Redefine controls"
+msgctxt "options/keys/change_key"
+msgid "<s(27)f(pobeda)b>Redefine controls"
+msgstr "<s(27)f(pobeda)b>Steuerung anpassen"
+
+msgctxt "options/keys/wait_for_key"
+msgid "Press key for '%1%'"
+msgstr "Drücken Sie die Taste für '%1%'"
+
+msgctxt "user_profile2/nick"
+msgid "<e(shadow)s(15)f(roboto_mono)c(ede8de)>%1%"
+msgstr "<e(shadow)s(15)f(roboto_mono)c(ede8de)>%1%"
+
+msgctxt "options/keys/already_binded"
+msgid "Key '%1%' is already bound to '%2%'"
+msgstr "Taste '%1%' ist bereits '%2%' zugewiesen"
+
+msgctxt "options/keys/control_manual/squadmember4"
+msgid "Select squad member 4"
+msgstr "Truppmitglied 4 auswählen"
+
+msgctxt "options/keys/control_manual/weapon6"
+msgid "Weapon 6"
+msgstr "Waffe 6"
+
+#| msgctxt "options/mp/title"
+#| msgid "MULTIPLAYER"
+msgctxt "main_menu2/breadcrumbs/page_online"
+msgid "MULTIPLAYER"
+msgstr "MULTIPLAYER"
+
+msgctxt "options/keys/with_ctrl"
+msgid "Hold CTRL+key"
+msgstr "STRG halten + Taste"
+
+msgctxt "options/keys/with_noshift"
+msgid "Ignore SHIFT pressing"
+msgstr "SHIFT ignorieren"
+
+msgctxt "options/keys/control_manual/modify"
+msgid "Quick Direct Control"
+msgstr "Schnelle Direktsteuerung"
+
+msgctxt "main_menu2/market/filter/xp"
+msgid "XP"
+msgstr "EP"
+
+#| msgctxt "open_dialogs/msg_delete"
+#| msgid "Delete save game: \"%1%\"?"
+msgctxt "open_dialogs/msg_delete"
+msgid "<f(roboto_mono)c(ffffff)>Delete save game: \"%1%\"?"
+msgstr "<f(roboto_mono)c(ffffff)>Spielstand löschen: „%1%“?"
+
+msgctxt "options/keys/actions/toggle_hatch#desc"
+msgid ""
+"Open or close the top hatch of a secondary weapon to whether or not expose the "
+"gunner to enemy fire (in cost of own fire power)."
+msgstr "Öffnen oder schließen Sie die obere Luke einer Sekundärwaffe, um den Schützen vor Feindfeuer zu schützen oder nicht (was sich auf die eigene Feuerkraft auswirkt)."
+
+msgctxt "options/keys/control_manual/modify#desc"
+msgid "Activate \"Direct Control\" mode while the key is being pressed."
+msgstr "Aktivieren Sie den Modus \"Direktsteuerungsmodus\", während Sie eine Taste drücken."
+
+msgctxt "main_menu2/market/rarity/0"
+msgid "Simple"
+msgstr "Einfach"
+
+msgctxt "main_menu2/market/use_error/401"
+msgid "This is not an usable item."
+msgstr "Dieser Gegenstand kann nicht benutzt werden."
+
+msgctxt "options/keys/keymap/mouse6"
+msgid "MOUSE 7"
+msgstr "MAUS 7"
+
+msgctxt "user_statistics/ranked/row/total_gameswon"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "options/keys/control_manual/backward#desc"
+msgid "Move the selected unit backward."
+msgstr "Bewegen Sie die gewählte Einheit zurück."
+
+msgctxt "options/keys/actions/toggle_position#desc"
+msgid "Toggle between \"Hold position\" and \"Move at will\" modes."
+msgstr "Wählen Sie zwischen \"Stellung halten\" und \"Situationsbedingt bewegen\"."
+
+msgctxt "main_menu2/breadcrumbs/page_store_item"
+msgid "DETAILS"
+msgstr "DETAILS"
+
+msgctxt "options/keys/control_manual/left#desc"
+msgid "Strafe left (soldiers) or turn left (vehicles)."
+msgstr "Gehen (Soldaten) oder fahren (Fahrzeuge) Sie nach links."
+
+msgctxt "user_statistics/faction/stat/kdveh"
+msgid "K/D ratio"
+msgstr "K/D Verhältnis"
+
+msgctxt "options/keys/control_manual/toggle_prone#desc"
+msgid "Go into prone else stand position with a soldier."
+msgstr "Einen Soldaten hinlegen oder ihn aufstehen lassen."
+
+msgctxt "app_news/more"
+msgid "»"
+msgstr "»"
+
+msgctxt "options/keys/control_manual/next_ammo"
+msgid "Switch ammo"
+msgstr "Munition wechseln"
+
+msgctxt "options/keys/control_manual/toggle_crouch#desc"
+msgid "Go into crouch else stand position with a soldier."
+msgstr "Mit einem Soldaten in die Hocke gehen oder ihn aufstehen lassen."
+
+msgctxt "main_menu2/market/exchange_error"
+msgid ""
+"Item exchange failed.\n"
+"\n"
+"Please try again later."
+msgstr "Gegenstandtausch fehlgeschlagen.\n\nBitte versuchen Sie es später erneut."
+
+msgctxt "options/keys/control_manual/fire"
+msgid "Fire"
+msgstr "Feuern"
+
+msgctxt "main_menu2/market/filter/cash"
+msgid "Cash"
+msgstr "Bargeld"
+
+msgctxt "options/keys/control_camera/increase_view#desc"
+msgid "Pitch the camera up."
+msgstr "Heben Sie die Kamera."
+
+msgctxt "options/keys/actions/rotate#desc"
+msgid "Turn the unit towards the indicated direction."
+msgstr "Drehen Sie die Einheit in die angegebene Richtung."
+
+msgctxt "user_profile/nick"
+msgid "<c(255 255 255)e(shadow)>%1%"
+msgstr "<c(255 255 255)e(shadow)>%1%"
+
+msgctxt "options/keys/control_manual/fire#desc"
+msgid "Fire weapon / throw grenade."
+msgstr "Waffe abfeuern / Granate werfen."
+
+msgctxt "main_menu2/skirmish/online_game"
+msgid "ONLINE SKIRMISH"
+msgstr "ONLINE-EINZELGEFECHT"
+
+msgctxt "options/keys/keymap/key_f15"
+msgid "F15"
+msgstr "F15"
+
+msgctxt "options/keys/control_manual/quick_aim#desc"
+msgid "Go into maximum 1st person zoom else back to 3rd person."
+msgstr "In 1. Person zoomen oder zur 3. Person zurückkehren."
+
+msgctxt "main_menu2/library/weapons/damage_per_second"
+msgid "DPS#%.f HP"
+msgstr "Schaden pro Sekunde#%.f TP"
+
+msgctxt "options/keys/control_manual/weapon_reload"
+msgid "Reload weapon"
+msgstr "Waffe nachladen"
+
+msgctxt "options/keys/control_manual/special_action#desc"
+msgid "Switch to available throwing weapons and back."
+msgstr "Zu verfügbaren Wurfgeschossen und zurück wechseln."
+
+msgctxt "options/keys/control_manual/next_ammo#desc"
+msgid "Switch between available ammo types."
+msgstr "Zwischen verfügbaren Munitionstypen wechseln."
+
+msgctxt "options/keys/multiplayer/chat_team"
+msgid "Team chat"
+msgstr "Team-Chat"
+
+msgctxt "options/keys/control_manual/next_weapon"
+msgid "Switch weapon"
+msgstr "Waffe wechseln"
+
+msgctxt "options/keys/keymap/key_end"
+msgid "END"
+msgstr "ENDE"
+
+msgctxt "tutorials/title"
+msgid "<f(impact)s(28)c(255 255 255)>Tutorials"
+msgstr "<f(impact)s(28)c(255 255 255)>Tutorials"
+
+msgctxt "main_menu2/singleplayer/up"
+msgid "UP"
+msgstr "HOCH"
+
+msgctxt "main_menu2/singleplayer/save_load_replay/btn_results"
+msgid "RESULTS"
+msgstr "ERGEBNISSE"
+
+msgctxt "options/keys/control_manual/weapon1#desc"
+msgid "Weapon 1"
+msgstr "Waffe 1"
+
+msgctxt "options/keys/control_manual/weapon2#desc"
+msgid "Weapon 2"
+msgstr "Waffe 2"
+
+msgctxt "options/keys/control_manual/weapon4#desc"
+msgid "Weapon 4"
+msgstr "Waffe 4"
+
+msgctxt "options/keys/control_manual/weapon5#desc"
+msgid "Weapon 5"
+msgstr "Waffe 5"
+
+msgctxt "main_menu2/singleplayer/save_load_replay/title_load"
+msgid "LOAD REPLAY"
+msgstr "WIEDERHOLUNG LADEN"
+
+msgctxt "options/keys/control_manual/weapon7#desc"
+msgid "Weapon 7"
+msgstr "Waffe 7"
+
+msgctxt "options/keys/control_manual/weapon8"
+msgid "Weapon 8"
+msgstr "Waffe 8"
+
+msgctxt "options/keys/control_manual/visionmode"
+msgid "Vision mode"
+msgstr "Sichtmodus"
+
+msgctxt "options/workshop/property/updated"
+msgid "Last updated:"
+msgstr "Letzes Update:"
+
+msgctxt "options/keys/keymap/key_f3"
+msgid "F3"
+msgstr "F3"
+
+msgctxt "options/keys/control_manual/visionmode#desc"
+msgid "Activate vision mode"
+msgstr "Sichtmodus aktivieren"
+
+msgctxt "options/keys/control_manual/squadmember2"
+msgid "Select squad member 2"
+msgstr "Truppmitglied 2 auswählen"
+
+msgctxt "options/keys/control_manual/squadmember5"
+msgid "Select squad member 5"
+msgstr "Truppmitglied 5 auswählen"
+
+msgctxt "options/keys/control_camera/increase_view"
+msgid "Pitch up"
+msgstr "Heben"
+
+msgctxt "version_string"
+msgid "<c(204 204 204)>%1% <c(20a601)>version - %2%"
+msgstr "<c(204 204 204)>%1% <c(20a601)>Version – %2%"
+
+msgctxt "options/keys/actions/throw_sk_grenade#desc"
+msgid ""
+"Order the selected squad or soldier to throw a smoke grenade. (Only available "
+"if smoke grenades are available.)"
+msgstr "Befehlen Sie dem gewählten Trupp oder dem Soldaten, eine Rauchgranate zu werfen. (Nur aktiv, wenn Rauchgranaten verfügbar sind.)"
+
+msgctxt "options/keys/interface/game_menu#desc"
+msgid "Show game menu."
+msgstr "Blenden Sie das Spielmenü ein."
+
+msgctxt "options/keys/control_manual/squadmember6"
+msgid "Select squad member 6"
+msgstr "Truppmitglied 6 auswählen"
+
+msgctxt "user_statistics/ranked/stat/total_kdman"
+msgid "Total K/D ratio"
+msgstr "Gesamtes K/D Verhältnis"
+
+msgctxt "options/keys/interface/toggle_map"
+msgid "Map"
+msgstr "Karte"
+
+msgctxt "options/keys/control_manual/squadmember7"
+msgid "Select squad member 7"
+msgstr "Truppmitglied 7 auswählen"
+
+msgctxt "options/keys/control_camera/zoom_in"
+msgid "Zoom in"
+msgstr "Heranzoomen"
+
+msgctxt "options/keys/control_manual/squadmember8"
+msgid "Select squad member 8"
+msgstr "Truppmitglied 8 auswählen"
+
+msgctxt "options/keys/keymap/key_scroll"
+msgid "SCROLL LOCK"
+msgstr "SCROLL LOCK"
+
+msgctxt "options/keys/control_manual/squadmember11"
+msgid "Select squad member 11"
+msgstr "Truppmitglied 11 auswählen"
+
+msgctxt "options/keys/control_manual/squadmember12"
+msgid "Select squad member 12"
+msgstr "Truppmitglied 12 auswählen"
+
+msgctxt "main_menu2/library/soldiers/perks/mechanic"
+msgid "Mechanic"
+msgstr "Mechaniker"
+
+msgctxt "options/keys/keymap/mouse_right"
+msgid "Right Mouse Button"
+msgstr "Rechte Maustaste"
+
+msgctxt "options/keys/control_camera/rotate_right"
+msgid "Rotate right"
+msgstr "Nach rechts drehen"
+
+msgctxt "options/keys/control_manual#desc"
+msgid "Key assignments for directly controlling a unit."
+msgstr "Wichtige Tastenbelegungen für die Direktsteuerung einer Einheit."
+
+msgctxt "main_menu2/singleplayer/save_load_game/save_info/campaign"
+msgid "Campaign"
+msgstr "Kampagne"
+
+msgctxt "main_menu2/singleplayer/save_load_game/save_info/army"
+msgid "Army"
+msgstr "Armee"
+
+msgctxt "main_menu2/singleplayer/save_load_game/save_info/day"
+msgid "Day of conflict"
+msgstr "Tag des Konflikts"
+
+msgctxt "options/keys/actions/cycle_pose#desc"
+msgid "Switch from stand to crouch to prone stance and up again."
+msgstr "Zwischen stehen, hocken und liegen wechseln."
+
+msgctxt "options/keys/actions/throw_ap_grenade"
+msgid "Throw frag grenade"
+msgstr "Splittergranate werfen"
+
+msgctxt "editor_name"
+msgid "Editor"
+msgstr "Editor"
+
+msgctxt "button/stop"
+msgid "Stop"
+msgstr "Stop"
+
+msgctxt "options/keys/actions/throw_ap_grenade#desc"
+msgid ""
+"Order the selected squad or soldier to throw a fragmentation grenade. (Only "
+"active if frag grenades are available.)"
+msgstr "Befehlen Sie dem gewählten Trupp oder dem Soldaten, eine Splittergranate zu werfen. (Nur aktiv, wenn Splittergranaten verfügbar sind.)"
+
+msgctxt "options/keys/keymap/key_numlock"
+msgid "NUM LOCK"
+msgstr "NUM LOCK"
+
+msgctxt "options/keys/control_camera/rotate_left"
+msgid "Rotate left"
+msgstr "Nach links drehen"
+
+msgctxt "options/keys/actions/bazooka_shot"
+msgid "Use rocket launcher"
+msgstr "Raketenwerfer benutzen"
+
+msgctxt "options/keys/actions/bazooka_shot#desc"
+msgid ""
+"Order the selected squad or soldier to perform a rocket launcher shot if "
+"possible."
+msgstr "Befehlen Sie dem Trupp oder dem Soldaten, bei Gelegenheit einen Raketenwerfer-Schuss abzugeben."
+
+msgctxt "options/keys/actions/attack_melee#desc"
+msgid ""
+"Order one of your soldiers to perform a melee attack against the selected "
+"target."
+msgstr "Befehlen Sie einem Ihrer Soldaten, einen Nahangriff auf das ausgewählte Ziel durchzuführen."
+
+msgctxt "options/keys/groups/select_8"
+msgid "Select squad 8"
+msgstr "Trupp 8 auswählen"
+
+msgctxt "options/keys/actions/attach"
+msgid "Attach"
+msgstr "Montieren"
+
+msgctxt "user_statistics/faction/stat/rank"
+msgid "Place in leaderboard"
+msgstr "Platz in Rangliste"
+
+msgctxt "options/keys/actions/heal"
+msgid "Heal"
+msgstr "Heilen"
+
+msgctxt "main_menu2/library/soldiers/stamina"
+msgid "Stamina#%.f (%.1f)"
+msgstr "Ausdauer#%.f (%.1f)"
+
+msgctxt "options/keys/actions/attach#desc"
+msgid "Attach a cannon to a vehicle."
+msgstr "Hängen Sie ein Geschütz an ein Fahrzeug an."
+
+msgctxt "button/info"
+msgid "Information"
+msgstr "Informationen"
+
+msgctxt "options/keys/interface/pause"
+msgid "Pause"
+msgstr "Pause"
+
+msgctxt "options/workshop/status/removing"
+msgid "Removing..."
+msgstr "Entferne ..."
+
+#| msgctxt "options/keys/actions/smoke_decoy"
+#| msgid "Smoke decoy"
+msgctxt "options/keys/actions/smoke_decoy"
+msgid "Smoke screen"
+msgstr "Nebelwand"
+
+#| msgctxt "options/keys/actions/smoke_decoy#desc"
+#| msgid "Launch a smoke decoy of a selected vehicle with this ability."
+msgctxt "options/keys/actions/smoke_decoy#desc"
+msgid "Launch a smoke screen of a selected vehicle with this ability."
+msgstr "Lösen Sie eine Nebelwand mit einem dazu fähigen Fahrzeug aus."
+
+msgctxt "options/keys/keymap/key_5"
+msgid "5"
+msgstr "5"
+
+msgctxt "options/keys/actions/repair"
+msgid "Repair"
+msgstr "Reparieren"
+
+msgctxt "main_menu2/news"
+msgid "NEWS"
+msgstr "NEUIGKEITEN"
+
+msgctxt "options/keys/actions/cancel"
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgctxt "options/keys/actions/cancel#desc"
+msgid "Cancel all current orders for the selected squad."
+msgstr "Widerrufen Sie sämtliche Befehle des gewählten Trupps."
+
+msgctxt "options/keys/actions/emit#desc"
+msgid "Order crew to exit a vehicle."
+msgstr "Befehlen Sie einem Besatzungsmitglied, ein Fahrzeug zu verlassen."
+
+msgctxt "user_statistics/faction/stat/winratio"
+msgid "Win ratio"
+msgstr "Siegquote"
+
+msgctxt "options/keys/actions/examine"
+msgid "Examine"
+msgstr "Untersuchen"
+
+msgctxt "options/keys/actions/drop"
+msgid "Drop/put item"
+msgstr "Gegenstand ablegen/deponieren"
+
+msgctxt "options/keys/actions/drop#desc"
+msgid ""
+"Drop the currently selected item on a specified place on the ground, or put it "
+"into the specified container."
+msgstr "Legen Sie den aktuellen Gegenstand an der gewünschten Position ab oder deponieren Sie ihn im angegebenen Behälter."
+
+msgctxt "options/keys/keymap/key_shift"
+msgid "SHIFT"
+msgstr "SHIFT"
+
+msgctxt "user_statistics/ranked/row/total_winratio"
+msgid "%1%%"
+msgstr "%1%%"
+
+msgctxt "options/keys/actions/heal#desc"
+msgid "Use medical kits to patch wounds."
+msgstr "Versorgen Sie Verletzungen mit Verbandskästen."
+
+msgctxt "options/keys/actions/toggle_hatch"
+msgid "Toggle hatch state"
+msgstr "Luke öffnen/schließen"
+
+msgctxt "main_menu2/library/vehicles/fuel/range"
+msgid "Max Range#%.1f km"
+msgstr "Max. Reichweite#%.1f km"
+
+msgctxt "main_menu2/breadcrumbs/page_launcher_multiplayer"
+msgid "Launcher (Multiplayer)"
+msgstr "Start (Multiplayer)"
+
+msgctxt "options/keys/control_camera"
+msgid "CAMERA  CONTROLS"
+msgstr "KAMERA-STEUERUNG"
+
+msgctxt "main_menu2/market/item_content_label2"
+msgid "One of them contains:"
+msgstr "Enthält:"
+
+msgctxt "options/keys/control_camera/center_active"
+msgid "Centre on active unit"
+msgstr "Auf aktive Einheit zentrieren"
+
+msgctxt "options/keys/control_camera/mouse_rotate"
+msgid "Camera rotation"
+msgstr "Kameradrehung"
+
+msgctxt "options/keys/interface/videocapture#desc"
+msgid ""
+"Toggle video capture on/off. Captured video files are saved in the videos "
+"subfolder of your profile folder."
+msgstr "Stellen Sie die Videoaufnahme an oder aus. Aufgenommene Videodateien werden in Ihrem Profilordner unter „Videos\" gespeichert."
+
+msgctxt "main_menu2/market/inspect"
+msgid "Inspect"
+msgstr "Ansehen"
+
+msgctxt "main_menu2/library/soldiers/perks/personage"
+msgid "Personage"
+msgstr "Persönlichkeit"
+
+msgctxt "main_menu2/breadcrumbs/page_launcher_editor"
+msgid "Launcher (Editor)"
+msgstr "Launcher (Editor)"
+
+msgctxt "options/keys/keymap/key_s"
+msgid "S"
+msgstr "S"
+
+msgctxt "options/keys/control_camera/mouse_rotate#desc"
+msgid "Enable camera rotation."
+msgstr "Aktivieren Sie die Kameradrehung."
+
+msgctxt "options/keys/control_camera/zoom_in#desc"
+msgid "Move camera closer to the ground."
+msgstr "Bewegen Sie die Kamera näher zum Boden."
+
+msgctxt "options/keys/control_camera/zoom_out"
+msgid "Zoom out"
+msgstr "Herauszoomen"
+
+msgctxt "options/keys/keymap/key_semicolon"
+msgid ";"
+msgstr "ö"
+
+msgctxt "button/normal"
+msgid "Normal"
+msgstr "Normal"
+
+msgctxt "options/keys/control_camera/zoom_out#desc"
+msgid "Move camera away from the ground."
+msgstr "Bewegen Sie die Kamera vom Boden weg."
+
+msgctxt "options/keys/control_camera/rotate_left#desc"
+msgid "Rotate camera anti-clockwise."
+msgstr "Drehen Sie die Kamera gegen den Uhrzeigersinn."
+
+msgctxt "options/keys/keymap/key_f4"
+msgid "F4"
+msgstr "F4"
+
+msgctxt "options/keys/control_camera/rotate_right#desc"
+msgid "Rotate camera clockwise."
+msgstr "Drehen Sie die Kamera im Uhrzeigersinn."
+
+msgctxt "options/keys/keymap/key_a"
+msgid "A"
+msgstr "A"
+
+msgctxt "main_menu2/multiplayer/local_game_desc"
+msgid "Play in LAN or with DirectIP"
+msgstr "Via LAN oder DirectIP spielen"
+
+msgctxt "options/keys/control_camera/decrease_view"
+msgid "Pitch down"
+msgstr "Senken"
+
+msgctxt "options/keys/interface/toggle_equipment#desc"
+msgid "Show the selected unit's inventory."
+msgstr "Blenden Sie das Inventar der gewählten Einheit ein."
+
+msgctxt "options/keys/interface/toggle_objectives#desc"
+msgid "Show mission objectives."
+msgstr "Werfen Sie einen Blick auf Ihre Missionsziele."
+
+msgctxt "user_statistics/profile/hud"
+msgid "HUD"
+msgstr "HUD"
+
+msgctxt "options/keys/interface/toggle_message_history"
+msgid "Message history"
+msgstr "Nachrichtenliste"
+
+msgctxt "options/keys/interface/toggle_message_history#desc"
+msgid "Show message history."
+msgstr "Zeigen Sie die Nachrichtenliste an."
+
+msgctxt "options/keys/keymap/key_numpadminus"
+msgid "NUM -"
+msgstr "ZIFF -"
+
+msgctxt "options/keys/keymap/key_h"
+msgid "H"
+msgstr "H"
+
+#| msgctxt "statusbar/back"
+#| msgid "<f(impact)s(21)>Back"
+msgctxt "button/cancel"
+msgid "<f(pobeda)s(27)b>Cancel"
+msgstr "<f(pobeda)s(27)b>Abbrechen"
+
+msgctxt "options/workshop/property/state"
+msgid "State:"
+msgstr "Status:"
+
+msgctxt "options/keys/interface/corpses_highlight"
+msgid "Highlight corpses"
+msgstr "Gefallene hervorheben"
+
+msgctxt "fail_minimum_memory"
+msgid ""
+"Cannot allocate required video memory.\n"
+"This may cause memory errors during the game.\n"
+"If your video card meets the minimum requirements listed in the User Guide,\n"
+"another application may be preventing the game from allocating enough video "
+"memory.\n"
+"Do you want to run the game anyway?"
+msgstr "Zuweisung des benötigten Grafikspeichers gescheitert.\nDies kann während des Spiels zu Speicherproblemen führen.\nWenn Ihre Grafikkarte die im Handbuch beschriebenen Mindestvoraussetzungen erfüllt,\nverhindert möglicherweise eine andere Anwendung die Zuweisung von ausreichendem Grafikspeicher.\nMöchten Sie das Spiel trotzdem ausführen?"
+
+msgctxt "user_statistics/ranked/stat/killveh_bot"
+msgid "Bot vehicle kills"
+msgstr "Anzahl der zerstörten Bot-Fahrzeuge"
+
+msgctxt "options/keys/interface/videocapture"
+msgid "Capture video"
+msgstr "Video aufnehmen"
+
+msgctxt "options/keys/interface/game_menu"
+msgid "Game menu"
+msgstr "Spielmenü"
+
+msgctxt "main_menu2/singleplayer/save_load_replay/hint/rename"
+msgid "Rename replay"
+msgstr "Wiederholung umbenennen"
+
+msgctxt "options/keys/interface#desc"
+msgid "Key assignments for the interface and unit selection."
+msgstr "Wichtige Tastenbelegungen für Oberfläche und Einheitenauswahl."
+
+msgctxt "options/keys/keymap/key_c"
+msgid "C"
+msgstr "C"
+
+msgctxt "options/keys/multiplayer/leave_unit"
+msgid "Abandon vehicle"
+msgstr "Fahrzeug aufgeben"
+
+msgctxt "options/keys/multiplayer/leave_unit#desc"
+msgid ""
+"Unload the crew and self-destruct the selected vehicle with timed explosives. "
+"Vehicle can be recovered if recrewed before explosives detonate"
+msgstr "Lassen Sie die Besatzung aussteigen und sorgen Sie mit Zeitzündesprengladungen für die Zerstörung des Fahrzeuges. Das Fahrzeug kann gerettet werden, wenn Sie es bemannen, bevor die Sprengladung detoniert."
+
+msgctxt "button/credits"
+msgid "Credits"
+msgstr "Mitwirkende"
+
+msgctxt "options/keys/multiplayer/push_to_talk"
+msgid "Push to talk"
+msgstr "Zum Reden drücken"
+
+msgctxt "options/keys/multiplayer#desc"
+msgid "Key assignments for multiplayer games"
+msgstr "Wichtige Tastenbelegungen für Multiplayer-Spiele"
+
+msgctxt "main_menu2/singleplayer/save_load_game/title_save"
+msgid "SAVE GAME"
+msgstr "SPIEL SPEICHERN"
+
+msgctxt "user_statistics/faction/row/level"
+msgid "level %1%"
+msgstr "Level: %1%"
+
+msgctxt "main_menu2/singleplayer/save_load_replay/title_save"
+msgid "SAVE REPLAY"
+msgstr "WIEDERHOLUNG SPEICHERN"
+
+msgctxt "options/keys/groups/assign_1"
+msgid "Assign squad 1"
+msgstr "Trupp 1 zuweisen"
+
+msgctxt "options/keys/groups/assign_3"
+msgid "Assign squad 3"
+msgstr "Trupp 3 zuweisen"
+
+msgctxt "options/keys/groups/assign_4"
+msgid "Assign squad 4"
+msgstr "Trupp 4 zuweisen"
+
+msgctxt "options/keys/groups/assign_6"
+msgid "Assign squad 6"
+msgstr "Trupp 6 zuweisen"
+
+msgctxt "main_menu2/market/filter/boxes"
+msgid "Boxes"
+msgstr "Boxen"
+
+msgctxt "options/keys/groups/assign_7"
+msgid "Assign squad 7"
+msgstr "Trupp 7 zuweisen"
+
+msgctxt "user_statistics/profile/color"
+msgid "COLOR"
+msgstr "FARBE"
+
+msgctxt "options/keys/groups/select_2"
+msgid "Select squad 2"
+msgstr "Trupp 2 auswählen"
+
+msgctxt "campaigns/name_style"
+msgid ""
+msgstr ""
+
+msgctxt "options/keys/groups/select_3"
+msgid "Select squad 3"
+msgstr "Trupp 3 auswählen"
+
+msgctxt "options/keys/keymap/key_u"
+msgid "U"
+msgstr "U"
+
+msgctxt "save_load_game/load_invalid_version_failed"
+msgid ""
+"This save game was created in a different game version. It cannot be loaded."
+msgstr "Dieser Spielstand wurde mit einer anderen Spielversion erstellt. Laden nicht möglich."
+
+msgctxt "options/keys/groups/select_4"
+msgid "Select squad 4"
+msgstr "Trupp 4 auswählen"
+
+msgctxt "options/keys/groups#desc"
+msgid "Key assignments for squads"
+msgstr "Wichtige Tastenbelegungen für Trupps"
+
+msgctxt "options/keys/keymap/key_equals"
+msgid "="
+msgstr "´"
+
+msgctxt "options/keys/groups/select_6"
+msgid "Select squad 6"
+msgstr "Trupp 6 auswählen"
+
+msgctxt "options/keys/groups/select_7"
+msgid "Select squad 7"
+msgstr "Trupp 7 auswählen"
+
+msgctxt "options/workshop/status/subscribed"
+msgid "Subscribed"
+msgstr "Bestellt"
+
+msgctxt "options/keys/keymap/key_control"
+msgid "CTRL"
+msgstr "STRG"
+
+msgctxt "options/keys/groups/select_9"
+msgid "Select squad 9"
+msgstr "Trupp 9 auswählen"
+
+msgctxt "options/keys/keymap/key_1"
+msgid "1"
+msgstr "1"
+
+msgctxt "options/keys/keymap/key_2"
+msgid "2"
+msgstr "2"
+
+msgctxt "options/keys/keymap/key_3"
+msgid "3"
+msgstr "3"
+
+msgctxt "options/keys/keymap/key_4"
+msgid "4"
+msgstr "4"
+
+msgctxt "options/keys/keymap/key_6"
+msgid "6"
+msgstr "6"
+
+msgctxt "options/keys/keymap/key_tab"
+msgid "TAB"
+msgstr "TAB"
+
+msgctxt "options/keys/keymap/key_7"
+msgid "7"
+msgstr "7"
+
+msgctxt "options/keys/keymap/key_8"
+msgid "8"
+msgstr "8"
+
+msgctxt "main_menu2/breadcrumbs/page_main"
+msgid "HOME"
+msgstr "POS 1"
+
+msgctxt "options/keys/keymap/key_9"
+msgid "9"
+msgstr "9"
+
+msgctxt "save_load_game/game_progress_lost"
+msgid ""
+"Your current progress will be lost. Are you sure you want to load the game?"
+msgstr "Ihre aktuellen Fortschritte gehen verloren. Möchten Sie das Spiel wirklich laden?"
+
+msgctxt "options/keys/keymap/key_0"
+msgid "0"
+msgstr "0"
+
+msgctxt "options/keys/keymap/key_minus"
+msgid "-"
+msgstr "ß"
+
+msgctxt "main_menu2/multiplayer/skirmish_game_desc"
+msgid "Fight against AI and prepare yourself for online battles"
+msgstr "Kämpfen Sie gegen KI-Gegner und bereiten Sie sich auf Online-Gefechte vor"
+
+msgctxt "options/keys/keymap/key_back"
+msgid "BACK"
+msgstr "ZURÜCK"
+
+msgctxt "main_menu2/singleplayer/hardcore"
+msgid "HARDCORE REALISM"
+msgstr "HARDCORE REALISMUS"
+
+msgctxt "main_menu2/singleplayer/fog_of_war"
+msgid "<x(+5)f(anka)s(15)e(shadow)>Enable Fog of war"
+msgstr "<x(+5)f(anka)s(15)e(shadow)>Nebel des Krieges aktivieren"
+
+msgctxt "options/keys/keymap/key_w"
+msgid "W"
+msgstr "W"
+
+msgctxt "main_menu2/multiplayer/ranked_game"
+msgid "RANKED GAME"
+msgstr "RANGLISTENSPIEL"
+
+msgctxt "user_statistics/leaderboards/column/score/score"
+msgid "<x.>%1%"
+msgstr "<x.>%1%"
+
+msgctxt "options/keys/keymap/key_r"
+msgid "R"
+msgstr "R"
+
+msgctxt "options/workshop/mod_prefix_active"
+msgid "<s(21)b+c(dda15e)>"
+msgstr "<s(21)b+c(dda15e)>"
+
+msgctxt "options/workshop/size"
+msgid "%0.1f"
+msgstr "%0.1f"
+
+msgctxt "options/keys/keymap/key_t"
+msgid "T"
+msgstr "T"
+
+msgctxt "options/keys/keymap/key_y"
+msgid "Y"
+msgstr "Z"
+
+msgctxt "options/keys/keymap/key_i"
+msgid "I"
+msgstr "I"
+
+msgctxt "options/keys/keymap/key_o"
+msgid "O"
+msgstr "O"
+
+msgctxt "options/keys/keymap/key_p"
+msgid "P"
+msgstr "P"
+
+msgctxt "options/keys/keymap/key_rbracket"
+msgid "}"
+msgstr "+"
+
+msgctxt "user_profile/online"
+msgid "<c(25 25 25)>In-Game: %1%"
+msgstr "<c(25 25 25)>Im Spiel: %1%"
+
+msgctxt "options/keys/keymap/key_return"
+msgid "ENTER"
+msgstr "ENTER"
+
+msgctxt "options/keys/keymap/key_d"
+msgid "D"
+msgstr "D"
+
+msgctxt "main_menu2/breadcrumbs/page_launcher_singleplayer"
+msgid "Launcher (Singleplayer)"
+msgstr "Start (Einzelspieler)"
+
+msgctxt "options/keys/keymap/key_f"
+msgid "F"
+msgstr "F"
+
+msgctxt "options/keys/keymap/key_unlabeled"
+msgid "UNLABELLED"
+msgstr "UNBENANNT"
+
+msgctxt "options/keys/keymap/key_g"
+msgid "G"
+msgstr "G"
+
+msgctxt "user_statistics/faction/row/lostman"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "options/keys/keymap/key_j"
+msgid "J"
+msgstr "J"
+
+msgctxt "options/keys/keymap/key_l"
+msgid "L"
+msgstr "L"
+
+msgctxt "options/keys/keymap/key_apostrophe"
+msgid "'"
+msgstr "ä"
+
+msgctxt "options/keys/keymap/key_grave"
+msgid "`"
+msgstr "ZIRKUMFLEX"
+
+msgctxt "main_menu2/singleplayer/back"
+msgid "BACK"
+msgstr "ZURÜCK"
+
+msgctxt "user_statistics/ranked/row/max_score_bot"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "options/keys/keymap/key_backslash"
+msgid "\\"
+msgstr "#"
+
+msgctxt "main_menu2/library/weapons/range_accuracy/spread"
+msgid "Spread#<x(%i)>%.2f m"
+msgstr "Streuung#<x(%i)>%.2f m"
+
+msgctxt "options/keys/keymap/key_z"
+msgid "Z"
+msgstr "Y"
+
+msgctxt "options/keys/keymap/key_n"
+msgid "N"
+msgstr "N"
+
+msgctxt "main_menu2/library/weapons/range_accuracy/distance"
+msgid "Distance#<x(%i)>%i m"
+msgstr "Entfernung#<x(%i)>%i m"
+
+msgctxt "options/keys/keymap/key_m"
+msgid "M"
+msgstr "M"
+
+#| msgctxt "missions/select_difficulty"
+#| msgid "<f(arial_narrow)s(18)c(0 0 0)>Choose difficulty level"
+msgctxt "missions/current_difficulty"
+msgid "<f(roboto_mono)s(15)c(200 200 200)>Difficulty"
+msgstr "<f(roboto_mono)s(15)c(200 200 200)>Schwierigkeit wählen"
+
+msgctxt "options/keys/keymap/key_rshift"
+msgid "Right SHIFT"
+msgstr "SHIFT rechts"
+
+msgctxt "options/keys/keymap/key_lalt"
+msgid "Left ALT"
+msgstr "ALT links"
+
+msgctxt "options/keys/keymap/key_space"
+msgid "SPACE"
+msgstr "LEERTASTE"
+
+msgctxt "options/keys/keymap/key_f1"
+msgid "F1"
+msgstr "F1"
+
+msgctxt "options/keys/keymap/key_f2"
+msgid "F2"
+msgstr "F2"
+
+msgctxt "options/keys/keymap/key_f9"
+msgid "F9"
+msgstr "F9"
+
+msgctxt "options/keys/keymap/key_f10"
+msgid "F10"
+msgstr "F10"
+
+msgctxt "options/keys/keymap/mouse5"
+msgid "MOUSE 6"
+msgstr "MAUS 6"
+
+msgctxt "options/keys/keymap/key_numpad8"
+msgid "NUM 8"
+msgstr "ZIFF 8"
+
+msgctxt "user_statistics/faction/stat/lostveh"
+msgid "Vehicles lost"
+msgstr "Verlorene Fahrzeuge"
+
+msgctxt "options/keys/keymap/key_subtract"
+msgid "-"
+msgstr "-"
+
+#, boost-format
+msgctxt "main_menu2/market/item_quantity2"
+msgid "<s(24)>%1%x"
+msgstr "<s(24)>%1%x"
+
+msgctxt "main_menu2/singleplayer/save_load_game/btn_back"
+msgid "BACK"
+msgstr "ZURÜCK"
+
+msgctxt "options/keys/keymap/key_numpad5"
+msgid "NUM 5"
+msgstr "ZIFF 5"
+
+msgctxt "options/keys/keymap/key_numpad6"
+msgid "NUM 6"
+msgstr "ZIFF 6"
+
+msgctxt "options/keys/keymap/key_add"
+msgid "+"
+msgstr "+"
+
+msgctxt "options/keys/keymap/key_numpad1"
+msgid "NUM 1"
+msgstr "ZIFF 1"
+
+msgctxt "user_profile2/xp_to_next_level"
+msgid "%1% XP to next level."
+msgstr "%1% EP bis zum nächsten Level."
+
+msgctxt "options/keys/keymap/key_numpad2"
+msgid "NUM 2"
+msgstr "ZIFF 2"
+
+msgctxt "options/keys/keymap/key_numpad3"
+msgid "NUM 3"
+msgstr "ZIFF 3"
+
+msgctxt "options/keys/keymap/key_numpadequals"
+msgid "NOCONVERT"
+msgstr "NOCONVERT"
+
+msgctxt "options/keys/keymap/key_f13"
+msgid "F13"
+msgstr "F13"
+
+msgctxt "options/keys/keymap/key_f14"
+msgid "F14"
+msgstr "F14"
+
+msgctxt "options/keys/keymap/alt"
+msgid "ALT"
+msgstr "ALT"
+
+msgctxt "options/keys/keymap/key_kana"
+msgid "KANA"
+msgstr "KANA"
+
+msgctxt "options/keys/keymap/key_convert"
+msgid "CONVERT"
+msgstr "CONVERT"
+
+msgctxt "statusbar/replay"
+msgid "Replay"
+msgstr "Wiederholung"
+
+msgctxt "user_statistics/ranked/row/trust_rating/bad"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "options/keys/keymap/key_colon"
+msgid "COLON"
+msgstr "DOPPELPUNKT"
+
+msgctxt "options/keys/keymap/key_underline"
+msgid "UNDERLINE"
+msgstr "UNTERSTRICH"
+
+msgctxt "options/keys/keymap/key_kanji"
+msgid "KANJI"
+msgstr "KANJI"
+
+msgctxt "options/keys/keymap/key_ax"
+msgid "AX"
+msgstr "AX"
+
+msgctxt "options/keys/keymap/key_numpadenter"
+msgid "NUM ENTER"
+msgstr "ZIFF ENTER"
+
+msgctxt "options/keys/keymap/key_numpadcomma"
+msgid "NUM ,"
+msgstr "ZIFF ,"
+
+msgctxt "main_menu2/breadcrumbs/page_replays"
+msgid "REPLAYS"
+msgstr "WIEDERHOLUNGEN"
+
+msgctxt "main_menu2/tutorials"
+msgid "TUTORIALS"
+msgstr "TUTORIALS"
+
+msgctxt "options/keys/keymap/key_ralt"
+msgid "Right ALT"
+msgstr "ALT rechts"
+
+msgctxt "options/keys/keymap/key_pause"
+msgid "PAUSE"
+msgstr "PAUSE"
+
+msgctxt "main_menu2/multiplayer/skirmish_game"
+msgid "SKIRMISH"
+msgstr "EINZELGEFECHT"
+
+msgctxt "options/keys/keymap/key_home"
+msgid "HOME"
+msgstr "POS 1"
+
+msgctxt "main_menu2/singleplayer/save_load_replay/hint/load"
+msgid "Load replay"
+msgstr "Wiederholung laden"
+
+msgctxt "options/keys/keymap/key_prior"
+msgid "PRIOR"
+msgstr "ZURÜCK"
+
+msgctxt "options/keys/keymap/key_right"
+msgid "RIGHT"
+msgstr "RECHTS"
+
+msgctxt "options/keys/keymap/key_down"
+msgid "DOWN"
+msgstr "RUNTER"
+
+msgctxt "options/keys/keymap/key_next"
+msgid "PAGE DOWN"
+msgstr "BILD RUNTER"
+
+msgctxt "options/keys/keymap/key_insert"
+msgid "INSERT"
+msgstr "EINFG"
+
+msgctxt "options/keys/keymap/key_delete"
+msgid "DELETE"
+msgstr "ENTF"
+
+msgctxt "user_statistics/faction/stat/gameswon"
+msgid "Games won"
+msgstr "Gewonnene Spiele"
+
+msgctxt "main_menu2/market/rarity/common"
+msgid "Common"
+msgstr "Häufig"
+
+msgctxt "options/keys/keymap/key_apps"
+msgid "APPS"
+msgstr "APPS"
+
+msgctxt "options/keys/keymap/key_esc"
+msgid "ESC"
+msgstr "ESC"
+
+msgctxt "options/keys/keymap/key_enter"
+msgid "ENTER"
+msgstr "ENTER"
+
+msgctxt "options/workshop/mod_delete"
+msgid "Delete this mod?"
+msgstr "Diesen Mod löschen?"
+
+msgctxt "options/keys/keymap/key_numpadplus"
+msgid "NUM +"
+msgstr "ZIFF +"
+
+msgctxt "main_menu2/singleplayer/save_load_game/save_info/time"
+msgid "Time"
+msgstr "Zeit"
+
+msgctxt "options/keys/keymap/key_numpadperiod"
+msgid "NUM ."
+msgstr "ZIFF ."
+
+msgctxt "dialog_box/title_warning"
+msgid "<f(pobeda)s(27)b+c(faeacb)e(shadow)x.y.>Warning"
+msgstr "<f(pobeda)s(27)b+c(faeacb)e(shadow)x.y.>Warnung"
+
+msgctxt "options/keys/keymap/key_uparrow"
+msgid "UP"
+msgstr "HOCH"
+
+msgctxt "replay/record"
+msgid "Record"
+msgstr "Aufzeichnen"
+
+msgctxt "options/keys/keymap/key_leftarrow"
+msgid "LEFT"
+msgstr "LINKS"
+
+msgctxt "options/keys/keymap/key_downarrow"
+msgid "DOWN"
+msgstr "RUNTER"
+
+msgctxt "user_statistics/profile/clan_tag"
+msgid "CLAN TAG"
+msgstr "CLAN-TAG"
+
+msgctxt "options/keys/keymap/mouse0"
+msgid "LMB"
+msgstr "LMT"
+
+msgctxt "options/keys/keymap/mouse1"
+msgid "RMB"
+msgstr "RMT"
+
+msgctxt "main_menu2/library/vehicles/crew_size"
+msgid "Crew#%s"
+msgstr "Besatzung#%s"
+
+msgctxt "options/mods/dependency_warning"
+msgid "Mod '%1%' requires '%2%': Missing dependency."
+msgstr "Mod „%1%\" benötigt „%2%\": Benötigte Komponente fehlt."
+
+msgctxt "options/keys/keymap/mouse2"
+msgid "MMB"
+msgstr "MMT"
+
+msgctxt "user_statistics/ranked/row/bot_gamesplayed"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "options/keys/keymap/mouse3"
+msgid "MOUSE 4"
+msgstr "MAUS 4"
+
+msgctxt "options/keys/keymap/mouse7"
+msgid "MOUSE 8"
+msgstr "MAUS 8"
+
+msgctxt "options/keys/keymap/mouse_left"
+msgid "Left Mouse Button"
+msgstr "Linke Maustaste"
+
+msgctxt "options/keys/keymap/shift"
+msgid "SHIFT"
+msgstr "SHIFT"
+
+msgctxt "options/keys/keymap/~alt"
+msgid "~ALT"
+msgstr "~ALT"
+
+msgctxt "options/keys/keymap/~ctrl"
+msgid "~CTRL"
+msgstr "~STRG"
+
+msgctxt "main_menu2/library/vehicles/multiple_mguns"
+msgid "Machine Gun %i#%s"
+msgstr "Maschinengewehr %i#%s"
+
+msgctxt "user_statistics/ranked/stat/max_score_bot"
+msgid "Highest score in a bot game"
+msgstr "Höchste Punktzahl in einem Bot-Spiel"
+
+msgctxt "main_menu2/library/weapons/damage_table/projectile"
+msgid "Penetration#<x(%i)>%.f mm"
+msgstr "Durchschlagskraft#<x(%i)>%.f mm"
+
+msgctxt "main_menu2/breadcrumbs/tab_inventory"
+msgid "INVENTORY"
+msgstr "INVENTAR"
+
+msgctxt "options/keys/keymap/~shift"
+msgid "~SHIFT"
+msgstr "~SHIFT"
+
+msgctxt "options/keys/keymap/~double"
+msgid "~Double"
+msgstr "~Doppel"
+
+msgctxt "options/keys/reset_confirm"
+msgid "Do you really want to reset your controls settings to default?"
+msgstr "Wollen Sie Ihre Steuerungseinstellungen wirklich zurücksetzen?"
+
+msgctxt "options/mods/dialog_title"
+msgid "Mod Manager"
+msgstr "Mod-Verwaltung"
+
+msgctxt "options/mods/selected"
+msgid "Activated:"
+msgstr "Aktiviert:"
+
+msgctxt "options/mods/info"
+msgid "Mod info:"
+msgstr "Modinfo:"
+
+msgctxt "options/mods/btn_delete"
+msgid "Delete"
+msgstr "Löschen"
+
+msgctxt "main_menu2/library/weapons/burst_accuracy"
+msgid "Burst Accuracy"
+msgstr "Salvengenauigkeit"
+
+msgctxt "button/complete"
+msgid "Complete"
+msgstr "Fertigstellen"
+
+msgctxt "user_profile2/rank_na"
+msgid "RANK N/A"
+msgstr "RANG N/A"
+
+msgctxt "options/mods/txt_delete"
+msgid "Delete selected mod?"
+msgstr "Ausgewählte Mod löschen?"
+
+msgctxt "options/mods/disabled_warning"
+msgid "Mod '%1%' was disabled: Unsupported game version."
+msgstr "Mod „%1%\" wurde deaktiviert: Spielversion wird nicht unterstützt."
+
+msgctxt "main_menu2/breadcrumbs/tab_store"
+msgid "STORE"
+msgstr "SHOP"
+
+msgctxt "options/mods/dependency_warning_caption"
+msgid "Mod '%1%' is not installed: Missing dependency."
+msgstr "Mod „%1%\" ist nicht installiert: Benötigte Komponente fehlt."
+
+msgctxt "missions/side_color"
+msgid "<c(255 255 255)>"
+msgstr "<c(255 255 255)>"
+
+#| msgctxt "options/mods/dependency_warning_caption_install"
+#| msgid "<c(red)>Mod '%1%' is not installed."
+msgctxt "options/mods/dependency_warning_caption_install"
+msgid "<c(219 44 29)>Mod '%1%' is not installed."
+msgstr "<c(219 44 29)>Mod „%1%“ ist nicht installiert."
+
+msgctxt "options/workshop/title"
+msgid "WORKSHOP"
+msgstr "WORKSHOP"
+
+msgctxt "welcome_text"
+msgid "Welcome message text here"
+msgstr "Text für Willkommensnachricht hier"
+
+msgctxt "options/workshop/btn_workshop"
+msgid "Workshop"
+msgstr "Workshop"
+
+msgctxt "main_menu2/market/item_content_label"
+msgid "Contains one of the following items:"
+msgstr "Enthält eines der folgenden Gegenstände:"
+
+msgctxt "options/workshop/btn_refresh"
+msgid "Refresh"
+msgstr "Aktualis."
+
+msgctxt "options/workshop/btn_preview"
+msgid "Open workshop page"
+msgstr "Workshop-Seite öffnen"
+
+msgctxt "options/workshop/btn_subscribe"
+msgid "<s(20)>SUBSCRIBE"
+msgstr "<s(20)>ABONNIEREN"
+
+#| msgctxt "options/workshop/btn_activate"
+#| msgid "<s(20)>ACTIVATE"
+msgctxt "options/workshop/btn_activate"
+msgid "<f(pobeda)>ACTIVATE"
+msgstr "<f(pobeda)>AKTIVIEREN"
+
+msgctxt "main_menu2/market/rarity/simple"
+msgid "Simple"
+msgstr "Einfach"
+
+msgctxt "user_statistics/ranked/stat/bot_gamesplayed"
+msgid "Bot Games played"
+msgstr "Gespielte Bot-Spiele"
+
+msgctxt "options/workshop/btn_delete"
+msgid "<s(20)>DELETE"
+msgstr "<s(20)>LÖSCHEN"
+
+msgctxt "options/workshop/mod_apply"
+msgid "Apply"
+msgstr "Anwenden"
+
+msgctxt "options/workshop/mod_prefix_normal"
+msgid "<f(pobeda)>"
+msgstr "<f(pobeda)>"
+
+msgctxt "options/workshop/header"
+msgid "#Title#Updated#Size#Status#"
+msgstr "#Titel#Aktualisiert#Größe#Status#"
+
+msgctxt "options/workshop/unknown"
+msgid "unknown"
+msgstr "unbekannt"
+
+msgctxt "options/workshop/status/downloading"
+msgid "Downloading"
+msgstr "Wird heruntergeladen"
+
+msgctxt "options/workshop/status/downloading_with_progress"
+msgid "Downloading (%.0f%)"
+msgstr "Wird heruntergeladen (%.0f%)"
+
+msgctxt "options/workshop/property/size"
+msgid "Size on disk:"
+msgstr "Größe auf Festplatte:"
+
+msgctxt "options/workshop/tag/map"
+msgid "Map"
+msgstr "Karte"
+
+msgctxt "main_menu2/library/weapons/magazin_size"
+msgid "Magazine Size#%i"
+msgstr "Magazingröße#%i"
+
+msgctxt "options/workshop/tag/legacy"
+msgid "Legacy"
+msgstr "Vermächtnis"
+
+msgctxt "button/back"
+msgid "Back"
+msgstr "Zurück"
+
+msgctxt "options/workshop/confirm_show_workshop"
+msgid "Open workshop page?"
+msgstr "Workshop-Seite öffnen?"
+
+msgctxt "options/workshop/confirm_show_item_page"
+msgid "Open page for '%1%'?"
+msgstr "Seite „%1%“ öffnen?"
+
+msgctxt "options/workshop/confirm_mod_activate"
+msgid "Activate outdated mod '%1%'?"
+msgstr "Veraltete Mod '%1%' aktivieren?"
+
+msgctxt "options/workshop/confirm_mod_apply"
+msgid "Apply mod changes?"
+msgstr "Mod-Änderungen übernehmen?"
+
+msgctxt "options/workshop/confirm_mod_reset"
+msgid "Reset mod changes?"
+msgstr "Mod-Änderungen zurücksetzen?"
+
+msgctxt "options/workshop/confirm_subscribe"
+msgid "Subscribe to selected mod?"
+msgstr "Ausgewählte Mod abonnieren?"
+
+msgctxt "button/replay"
+msgid "Replays"
+msgstr "Wiederholungen"
+
+msgctxt "options/workshop/download_progress2"
+msgid "Downloading... %1% of %2% (%3%)"
+msgstr "Wird heruntergeladen ... %1% von %2% (%3%)"
+
+msgctxt "options/workshop/no_workshop_items"
+msgid "No subscribed mods found."
+msgstr "Keine abonnierten Mods gefunden."
+
+msgctxt "options/workshop/activated_mod_delete"
+msgid "Can not delete an activated mod."
+msgstr "Aktivierte Mods können nicht gelöscht werden."
+
+msgctxt "main_menu2/market/open"
+msgid "Open"
+msgstr "Öffnen"
+
+msgctxt "main_menu2/market/market"
+msgid "Community Market"
+msgstr "Community-Markt"
+
+msgctxt "options/workshop/mod_reset"
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+msgctxt "options/workshop/mod_title"
+msgid "MODS"
+msgstr "MODS"
+
+msgctxt "main_menu2/singleplayer/save_load_game/btn_save"
+msgid "SAVE"
+msgstr "SPEICHERN"
+
+msgctxt "user_profile2/xp_modifier"
+msgid "(+%1% % XP Boost for %2% Hours)"
+msgstr "(+%1% % EP-Schub für %2% Stunden)"
+
+msgctxt "main_menu/restart_confirm"
+msgid "Restart mission?"
+msgstr "Mission neu starten?"
+
+msgctxt "user_profile/score"
+msgid "<c(25 25 25)>%1%"
+msgstr "<c(25 25 25)>%1%"
+
+msgctxt "user_profile/rank_txt"
+msgid "<c(25 25 25)>Rank:"
+msgstr "<c(25 25 25)>Rang:"
+
+#| msgctxt "user_profile/level"
+#| msgid "<c(25 25 25)>level %1%"
+msgctxt "user_profile/level"
+msgid "<f(roboto_mono)<c(25 25 25)>level %1%"
+msgstr "<f(roboto_mono)<c(25 25 25)>Level %1%"
+
+msgctxt "user_profile2/score"
+msgid "SCORE %1%"
+msgstr "PUNKTZAHL %1%"
+
+msgctxt "user_profile2/level"
+msgid "<f(roboto_mono)c(200 200 200)>Level %1%"
+msgstr "<f(roboto_mono)c(200 200 200)>Level %1%"
+
+msgctxt "main_menu2/market/filter/all"
+msgid "All"
+msgstr "Alle"
+
+msgctxt "user_profile2/na"
+msgid "N/A"
+msgstr "N/A"
+
+msgctxt "user_profile2/army#no_dlc"
+msgid "You need to buy DLC with this army."
+msgstr "Für diese Armee müssen Sie\neinen DLC kaufen."
+
+msgctxt "main_menu2/workshop"
+msgid "WORKSHOP"
+msgstr "WORKSHOP"
+
+msgctxt "user_statistics/faction/stat/killveh"
+msgid "Vehicles killed"
+msgstr "Zerstörte Fahrzeuge"
+
+msgctxt "user_statistics/faction/title"
+msgid "FACTIONS"
+msgstr "FRAKTIONEN"
+
+msgctxt "main_menu2/leaderboard"
+msgid "LEADERBOARD"
+msgstr "RANGLISTE"
+
+msgctxt "main_menu2/inventory"
+msgid "INVENTORY"
+msgstr "INVENTAR"
+
+msgctxt "main_menu2/replays"
+msgid "REPLAYS"
+msgstr "WIEDERHOLUNGEN"
+
+msgctxt "main_menu2/market/filter/items"
+msgid "Items"
+msgstr "Gegenstände"
+
+msgctxt "main_menu2/market/filter/box"
+msgid "Box"
+msgstr "Box"
+
+msgctxt "main_menu2/market/filter/key"
+msgid "Key"
+msgstr "Schlüssel"
+
+msgctxt "main_menu2/market/filter/keys"
+msgid "Keys"
+msgstr "Schlüssel"
+
+msgctxt "main_menu2/market/filter/pack"
+msgid "Pack"
+msgstr "Bündel"
+
+msgctxt "main_menu2/market/filter/cash_case"
+msgid "Case"
+msgstr "Koffer"
+
+msgctxt "main_menu2/market/filter/value"
+msgid "XP Bonus"
+msgstr "EP-Bonus"
+
+msgctxt "main_menu2/market/filter/squad_logo"
+msgid "Squad Logo"
+msgstr "Truppsymbol"
+
+msgctxt "main_menu2/singleplayer/continue_game"
+msgid "CONTINUE GAME"
+msgstr "SPIEL FORTSETZEN"
+
+msgctxt "main_menu2/singleplayer/page_campaign_desc"
+msgid "Singleplayer missions"
+msgstr "Einzelspieler Missionen"
+
+msgctxt "main_menu2/singleplayer/page_dynamic_campaign_desc"
+msgid "Conquer enemy territories in randomized skirmish battles"
+msgstr "Erobern Sie feindliche Gebiete in zufälligen Einzelgefecht-Kämpfen"
+
+#| msgctxt "main_menu2/singleplayer/save_load_game/save_info/campaign"
+#| msgid "Campaign"
+msgctxt "main_menu2/singleplayer/continue_dynamic_campaign"
+msgid "CONTINUE Campaign"
+msgstr "Kampagne FORTSETZEN"
+
+#| msgctxt "main_menu2/singleplayer/continue_dynamic_campaign_desc"
+#| msgid "Your latest conquest progress will be loaded"
+msgctxt "main_menu2/singleplayer/continue_dynamic_campaign_desc"
+msgid "Your latest Conquest progress will be loaded"
+msgstr "Ihr letzter Eroberungsfortschritt wird geladen"
+
+msgctxt "main_menu2/singleplayer/create_dynamic_campaign"
+msgid "CREATE CONQUEST"
+msgstr "EROBERUNG ERSTELLEN"
+
+#| msgctxt "main_menu2/singleplayer/create_dynamic_campaign_desc"
+#| msgid "Create a new conquest"
+msgctxt "main_menu2/singleplayer/create_dynamic_campaign_desc"
+msgid "Create a new Conquest"
+msgstr "Erstellen Sie eine neue Eroberung"
+
+msgctxt "main_menu2/singleplayer/load_dynamic_campaign"
+msgid "LOAD CONQUEST"
+msgstr "EROBERUNG LADEN"
+
+#| msgctxt "main_menu2/singleplayer/load_dynamic_campaign_desc"
+#| msgid "Load your conquest progress"
+msgctxt "main_menu2/singleplayer/load_dynamic_campaign_desc"
+msgid "Load your Conquest progress"
+msgstr "Laden Sie Ihren Eroberungsfortschritt"
+
+msgctxt "main_menu2/library/weapons/burst_accuracy/spread"
+msgid "Spread#<x(%i)>%.f%"
+msgstr "Streuung#<x(%i)>%.f%"
+
+msgctxt "main_menu2/market/filter/background"
+msgid "Background"
+msgstr "Hintergrund"
+
+#| msgctxt "missions/continue"
+#| msgid "<f(impact)s(40)c(0 0 0)>Continue"
+msgctxt "missions/continue"
+msgid "<f(pobeda)s(40)c(0 0 0)>Continue"
+msgstr "<f(pobeda)s(40)c(0 0 0)>Weiter"
+
+msgctxt "main_menu2/market/filter/color"
+msgid "Color"
+msgstr "Farbe"
+
+msgctxt "main_menu2/market/filter/dlc"
+msgid "DLC"
+msgstr "DLC"
+
+msgctxt "main_menu2/market/rarity/-1"
+msgid "-"
+msgstr "-"
+
+msgctxt "main_menu2/market/rarity/1"
+msgid "Common"
+msgstr "Häufig"
+
+msgctxt "main_menu2/market/rarity/4"
+msgid "Epic"
+msgstr "Episch"
+
+msgctxt "main_menu2/market/rarity/all"
+msgid "Any"
+msgstr "Alle"
+
+msgctxt "main_menu2/market/rarity/epic"
+msgid "Epic"
+msgstr "Episch"
+
+msgctxt "user_statistics/faction/row/gamesplayed"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "main_menu2/market/override_modifier_confirmation"
+msgid ""
+"%1% % XP Boost is still active for %2% Hours! Override with %3% % XP Boost?"
+msgstr "%1% % EP-Schub ist noch für %2% Stunden aktiv! Mit %3% % EP-Schub überschreiben?"
+
+msgctxt "main_menu2/singleplayer/save_load_game/save_info/difficulty"
+msgid "Difficulty"
+msgstr "Schwierigkeit"
+
+msgctxt "main_menu2/library/soldiers/perks/required_veterancy"
+msgid " (Vet. %i)"
+msgstr " (Kampferf. %i)"
+
+msgctxt "main_menu2/market/exchange"
+msgid "Exchange"
+msgstr "Tauschen"
+
+msgctxt "main_menu2/market/exchange_confirmation"
+msgid ""
+"Do you really want to exchange this?\n"
+"\n"
+"Changes cannot be undone!"
+msgstr "Möchten Sie den Tausch wirklich vornehmen?\n\nDer Tausch kann nicht rückgängig gemacht werden!"
+
+msgctxt "main_menu2/market/remove_confirmation"
+msgid "Do you really want to remove '%1%'? Changes cannot be undone!"
+msgstr "Möchten Sie '%1%' wirklich löschen? Dies kann nicht rückgängig gemacht werden!"
+
+msgctxt "main_menu2/market/remove_error"
+msgid "Remove item failed!"
+msgstr "Objektentfernung fehlgeschlagen!"
+
+msgctxt "main_menu2/market/item_rarity"
+msgid "Rarity: <c(%1%)>%2%"
+msgstr "Seltenheit: <c(%1%)>%2%"
+
+msgctxt "main_menu2/party"
+msgid "PARTY"
+msgstr "GRUPPE"
+
+msgctxt "main_menu2/market/bundle_content_label"
+msgid "Contains the following items:"
+msgstr "Enthält folgende Gegenstände:"
+
+msgctxt "main_menu2/market/use_error/-1"
+msgid "Item functionality not yet implemented."
+msgstr "Objektfunktionalität wurde noch nicht implementiert."
+
+msgctxt "main_menu2/market/use_error/100"
+msgid "Inventory service or other steam services are offline."
+msgstr "Der Inventardienst oder andere Steam-Dienste sind offline."
+
+msgctxt "main_menu2/market/use_error/404"
+msgid "Error 404 - item not found in inventory."
+msgstr "Fehler 404 – Objekt konnte im Inventar nicht gefunden werden."
+
+msgctxt "main_menu2/market/get_key"
+msgid "Get Key"
+msgstr "Schlüssel erwerben"
+
+msgctxt "main_menu2/market/select_army"
+msgid "Select Army"
+msgstr "Armee auswählen"
+
+#| msgctxt "main_menu2/library"
+#| msgid "LIBRARY"
+msgctxt "main_menu2/library"
+msgid "UNITS LIBRARY"
+msgstr "EINHEITENBIBLIOTHEK"
+
+msgctxt "main_menu2/library/weapons/rounds_per_minute"
+msgid "Rate of Fire#%.f RPM"
+msgstr "Kadenz#%.f SPM"
+
+#| msgctxt "missions/select_difficulty"
+#| msgid "<f(arial_narrow)s(18)c(0 0 0)>Choose difficulty level"
+msgctxt "missions/select_difficulty"
+msgid "<f(roboto_mono)s(18)c(0 0 0)>Choose difficulty level"
+msgstr "<f(roboto_mono)s(18)c(0 0 0)>Schwierigkeitsgrad wählen"
+
+msgctxt "replay_game/txt_map"
+msgid "Map"
+msgstr "Karte"
+
+msgctxt "main_menu2/library/weapons/damage_table/distance"
+msgid "Distance#<x(%i)>%i m"
+msgstr "Entfernung#<x(%i)>%i m"
+
+msgctxt "main_menu2/library/weapons/damage_table/health"
+msgid "Health Damage#<x(%i)>%.f HP"
+msgstr "Gesundheitsschaden#<x(%i)>%.f TP"
+
+msgctxt "main_menu2/library/soldiers/single_weapon"
+msgid "Weapon#%s"
+msgstr "Waffe#%s"
+
+msgctxt "main_menu2/library/weapons/max_range"
+msgid "Maximum Range#%.f m"
+msgstr "Maximale Reichweite#%.f m"
+
+msgctxt "main_menu2/library/weapons/range_accuracy"
+msgid "Range Accuracy"
+msgstr "Entfernungsgenauigkeit"
+
+msgctxt "main_menu2/library/weapons/weight"
+msgid "Weight#%.1f kg"
+msgstr "Gewicht#%.1f kg"
+
+msgctxt "user_statistics/ranked/row/max_vehicles_bot"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "main_menu2/library/vehicles"
+msgid "Vehicles"
+msgstr "Fahrzeuge"
+
+msgctxt "main_menu2/library/vehicles/max_speed"
+msgid "Max Speed#%.f km/h"
+msgstr "Max. Geschwindigkeit#%.f km/h"
+
+msgctxt "main_menu2/library/vehicles/fuel"
+msgid "Fuel#%.f Liter"
+msgstr "Treibstoff#%.f Liter"
+
+msgctxt "main_menu2/library/vehicles/fuel/consumption"
+msgid "Consumption#%.f Liter/100km"
+msgstr "Verbrauch#%.f Liter/100km"
+
+msgctxt "main_menu2/library/vehicles/armor"
+msgid "Armor#%s"
+msgstr "Panzerung#%s"
+
+msgctxt "main_menu2/library/vehicles/gun/main_gun"
+msgid "Main Gun#%s"
+msgstr "Hauptgeschütz#%s"
+
+msgctxt "main_menu2/library/vehicles/gun/additional_guns"
+msgid "Gun %i#%s"
+msgstr "Geschütz %i#%s"
+
+msgctxt "main_menu2/library/vehicles/gun/penetration"
+msgid "Penetration#<x(%i)>%.f mm"
+msgstr "Durchschlagskraft#<x(%i)>%.f mm"
+
+msgctxt "user_statistics/ranked/row/score"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "main_menu2/library/vehicles/single_mgun"
+msgid "Machine Gun#%s"
+msgstr "Maschinengewehr#%s"
+
+msgctxt "button/tutorials"
+msgid "Tutorials"
+msgstr "Tutorials"
+
+msgctxt "user_statistics/ranked/row/total_killveh"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "main_menu2/library/soldiers"
+msgid "Soldiers"
+msgstr "Soldaten"
+
+msgctxt "main_menu2/library/soldiers/run_speed"
+msgid "Speed#%.1f"
+msgstr "Geschwindigkeit#%.1f"
+
+msgctxt "main_menu2/library/soldiers/multiple_weapons"
+msgid "Weapon %i#%s"
+msgstr "Waffe %i#%s"
+
+msgctxt "main_menu2/library/soldiers/perks/speed_factor"
+msgid " (%.2f)"
+msgstr " (%.2f)"
+
+msgctxt "main_menu2/library/soldiers/perks/medic"
+msgid "Medic"
+msgstr "Sanitäter"
+
+msgctxt "prepare_resources"
+msgid "<c(cec7c3)f(roboto_mono)>Loading..."
+msgstr "<c(cec7c3)f(roboto_mono)>Lädt ..."
+
+msgctxt "main_menu2/library/soldiers/perks/aimedshot"
+msgid "Aimed Shot"
+msgstr "Gezielter Schuss"
+
+msgctxt "main_menu2/library/soldiers/weapon_skills"
+msgid "Weapon Skills#Level<x(%i)>Accuracy"
+msgstr "Waffenkenntnisse#Level<x(%i)>Genauigkeit"
+
+msgctxt "main_menu2/library/items/stuff"
+msgid "Misc"
+msgstr "Verschiedenes"
+
+msgctxt "main_menu2/library/items/throwable"
+msgid "Throwables"
+msgstr "Wurfgegenstände"
+
+msgctxt "main_menu2/multiplayer/session/join_game"
+msgid "JOIN"
+msgstr "BEITRETEN"
+
+msgctxt "main_menu2/library/tex_mods"
+msgid "Season"
+msgstr "Saison"
+
+msgctxt "main_menu2/library/level_of_detail"
+msgid "LOD"
+msgstr "Detaillevel"
+
+msgctxt "main_menu2/friends"
+msgid "FRIENDS"
+msgstr "FREUNDE"
+
+msgctxt "main_menu2/last_played"
+msgid "LAST PLAYED"
+msgstr "ZULETZT GESPIELT"
+
+msgctxt "main_menu2/mods"
+msgid "WORKSHOP"
+msgstr "WORKSHOP"
+
+msgctxt "main_menu2/header_buttons/home"
+msgid "HOME"
+msgstr "START"
+
+#| msgctxt "main_menu2/breadcrumbs/page_singleplayer"
+#| msgid "SINGLEPLAYER"
+msgctxt "main_menu2/header_buttons/single"
+msgid "SINGLEPLAYER"
+msgstr "EINZELSPIELER"
+
+#| msgctxt "options/mp/title"
+#| msgid "MULTIPLAYER"
+msgctxt "main_menu2/header_buttons/online"
+msgid "MULTIPLAYER"
+msgstr "MULTIPLAYER"
+
+msgctxt "main_menu2/header_buttons/replays"
+msgid "EXTRAS"
+msgstr "EXTRAS"
+
+msgctxt "main_menu2/header_buttons/credits"
+msgid "CREDITS"
+msgstr "CREDITS"
+
+msgctxt "main_menu2/breadcrumbs/page_inventory_item"
+msgid "DETAILS"
+msgstr "DETAILS"
+
+msgctxt "main_menu2/breadcrumbs/tab_library"
+msgid "LIBRARY"
+msgstr "BIBLIOTHEK"
+
+msgctxt "main_menu2/breadcrumbs/page_campaign"
+msgid "CAMPAIGN"
+msgstr "KAMPAGNE"
+
+msgctxt "main_menu2/breadcrumbs/page_multiplayer_local"
+msgid "LOCAL"
+msgstr "LOKAL"
+
+msgctxt "user_statistics/faction/header"
+msgid ""
+msgstr ""
+
+msgctxt "main_menu2/breadcrumbs/page_session_create"
+msgid "HOST GAME"
+msgstr "SPIEL HOSTEN"
+
+msgctxt "main_menu2/breadcrumbs/page_session_create_training"
+msgid "HOST GAME (TRAINING)"
+msgstr "SPIEL HOSTEN (TRAINING)"
+
+msgctxt "main_menu2/breadcrumbs/page_session_create_skirmish"
+msgid "HOST GAME (SKIRMISH)"
+msgstr "SPIEL HOSTEN (EINZELGEFECHT)"
+
+msgctxt "main_menu2/breadcrumbs/page_session"
+msgid "SESSION"
+msgstr "SITZUNG"
+
+msgctxt "main_menu2/breadcrumbs/page_session_skirmish"
+msgid "SESSION (SKIRMISH)"
+msgstr "SITZUNG (EINZELGEFECHT)"
+
+msgctxt "main_menu2/breadcrumbs/page_launcher_replay"
+msgid "Launcher (Replay)"
+msgstr "Launcher (Wiederholung)"
+
+msgctxt "main_menu2/singleplayer/continue_game_desc"
+msgid "Your latest singleplayer progress will be loaded"
+msgstr "Ihr letzter Einzelspieler-Fortschritt wird geladen"
+
+
+msgctxt "main_menu2/singleplayer/select_mission"
+msgid "SELECT CAMPAIGN"
+msgstr "KAMPAGNE AUSWÄHLEN"
+
+msgctxt "fail_minimum_reqirements"
+msgid ""
+"Your video card does not meet the minimum system requirements.\n"
+"For more details, see the User manual."
+msgstr "Ihre Grafikkarte erfüllt nicht die Mindestvoraussetzungen.\nWeitere Informationen dazu finden Sie im Handbuch."
+
+msgctxt "save_load_game/txt_campaign"
+msgid "Campaign"
+msgstr "Kampagne"
+
+#| msgctxt "main_menu2/singleplayer/select_mission_desc"
+#| msgid "Play through the singleplayer campaign"
+msgctxt "main_menu2/singleplayer/select_mission_desc"
+msgid "Play through the singleplayer campaigns"
+msgstr "Spielen Sie die Einzelspieler-Kampagnen durch"
+
+msgctxt "main_menu2/singleplayer/load_game_desc"
+msgid "Load your game progress"
+msgstr "Laden Sie Ihren Spielfortschritt"
+
+msgctxt "main_menu2/singleplayer/save_load_game/btn_delete"
+msgid "DELETE"
+msgstr "LÖSCHEN"
+
+msgctxt "main_menu2/singleplayer/save_load_game/lbl_info"
+msgid "GAME INFO"
+msgstr "SPIELINFO"
+
+#| msgctxt "main_menu2/multiplayer/session/ip_list"
+#| msgid "IP LIST"
+msgctxt "main_menu2/singleplayer/save_load_game/lbl_list"
+msgid "LIST"
+msgstr "LISTE"
+
+#| msgctxt "main_menu2/singleplayer/save_load_game/lbl_save_name"
+#| msgid "SAVE NAME"
+msgctxt "main_menu2/singleplayer/save_load_game/lbl_save_name"
+msgid "ENTER SAVE NAME"
+msgstr "SPEICHERDATEI BENENNEN"
+
+msgctxt "main_menu2/singleplayer/save_load_game/save_info/mission"
+msgid "Mission"
+msgstr "Mission"
+
+msgctxt "main_menu2/singleplayer/save_load_game/save_info/version"
+msgid "Version"
+msgstr "Version"
+
+msgctxt "button/ugc"
+msgid "User Generated Content"
+msgstr "Nutzergenerierte Inhalte"
+
+msgctxt "main_menu2/singleplayer/save_load_replay/btn_delete"
+msgid "DELETE"
+msgstr "LÖSCHEN"
+
+msgctxt "main_menu2/singleplayer/save_load_replay/btn_upload"
+msgid "UPLOAD"
+msgstr "UPLOAD"
+
+msgctxt "main_menu2/singleplayer/save_load_replay/lbl_info"
+msgid "<s(27)f(pobeda)b>GAME INFO"
+msgstr "<s(27)f(pobeda)b>SPIELINFO"
+
+msgctxt "main_menu2/singleplayer/save_load_replay/lbl_repaly_name"
+msgid "REPLAY NAME"
+msgstr "NAME DER WIEDERHOLUNG"
+
+msgctxt "replay/continue_record"
+msgid "Continue recording"
+msgstr "Aufzeichnung fortsetzen"
+
+msgctxt "main_menu2/singleplayer/save_load_replay/hint/delete"
+msgid "Delete replay"
+msgstr "Wiederholung löschen"
+
+msgctxt "main_menu2/multiplayer/custom_game"
+msgid "ONLINE GAME"
+msgstr "ONLINE-SPIEL"
+
+msgctxt "main_menu2/multiplayer/custom_game_desc"
+msgid "Manipulate game settings and play modded games"
+msgstr "Manipulieren Sie Spieleinstellungen und spielen Sie mit Mods"
+
+msgctxt "replay/restart"
+msgid "Restart demo"
+msgstr "Demo neu starten"
+
+msgctxt "main_menu2/multiplayer/session/ip_list"
+msgid "IP LIST"
+msgstr "IP-LISTE"
+
+msgctxt "main_menu2/multiplayer/state/ranked_rookie"
+msgid "You must have at least %1% unranked games played to unlock this mode. "
+msgstr "Sie müssen mindestens %1% Nicht-Ranglistenspiele gespielt haben, um diesen Modus freizuschalten. "
+
+msgctxt "main_menu2/skirmish/training_game"
+msgid "TRAINING"
+msgstr "TRAINING"
+
+msgctxt "main_menu2/skirmish/online_game_desc"
+msgid "Play online with friends and strangers against AI"
+msgstr "Spielen Sie online mit Freunden und Fremden gegen KI-Gegner"
+
+msgctxt "main_menu2/skirmish/local_game"
+msgid "LOCAL SKIRMISH"
+msgstr "LOKALES EINZELGEFECHT"
+
+msgctxt "user_statistics/ranked/stat/max_infantry"
+msgid "Highest infantry kills"
+msgstr "Höchste Anzahl an getöteter Infanterie"
+
+msgctxt "user_statistics/title"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "user_statistics/faction/stat/level"
+msgid "Level"
+msgstr "Level"
+
+msgctxt "user_statistics/faction/stat/gamesplayed"
+msgid "Games played"
+msgstr "Gespielte Spiele"
+
+msgctxt "user_statistics/faction/stat/killman"
+msgid "Infantry killed"
+msgstr "Getötete Infanterie"
+
+msgctxt "user_statistics/faction/stat/lostman"
+msgid "Infantry lost"
+msgstr "Infanterie verloren"
+
+msgctxt "user_statistics/faction/stat/kdman"
+msgid "K/D ratio"
+msgstr "K/D Verhältnis"
+
+msgctxt "user_statistics/faction/row/experience"
+msgid "%1% XP"
+msgstr "%1% EP"
+
+msgctxt "entity_info/human/skills"
+msgid "Skills :"
+msgstr "Fähigkeiten:"
+
+msgctxt "button/guides"
+msgid "Guides"
+msgstr "Leitfäden"
+
+msgctxt "user_statistics/faction/row/rank"
+msgid "#%1%"
+msgstr "#%1%"
+
+msgctxt "save_load_game/title_save"
+msgid "Save game"
+msgstr "Spiel speichern"
+
+msgctxt "user_statistics/ranked/row/max_vehicles"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "user_statistics/faction/row/gameswon"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "user_statistics/faction/row/winratio"
+msgid "%1%%"
+msgstr "%1%%"
+
+msgctxt "dialog_box/title_searching"
+msgid "<f(pobeda)s(27)b+c(faeacb)e(shadow)x.y.>Searching..."
+msgstr "<f(pobeda)s(27)b+c(faeacb)e(shadow)x.y.>Suche ..."
+
+msgctxt "user_statistics/faction/row/killman"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "user_statistics/faction/row/kdman"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "user_statistics/faction/row/lostveh"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "user_statistics/profile/title"
+msgid "PROFILE"
+msgstr "PROFIL"
+
+msgctxt "user_statistics/profile/hud_color"
+msgid "HUD COLOR"
+msgstr "HUD-FARBE"
+
+msgctxt "user_statistics/ranked/title"
+msgid "RANKED"
+msgstr "RANGLISTENSPIEL"
+
+msgctxt "user_statistics/ranked/achievement/unlocked"
+msgid "<s(16)>You have %1% out of %2% (%3%%) achievements unlocked."
+msgstr "<s(16)>Sie haben %1% von %2% (%3%%) der Erfolge freigeschaltet."
+
+msgctxt "user_statistics/ranked/stat/trust_rating"
+msgid "Ranked trust rating"
+msgstr "Vertrauenswert für Ranglisten-Spiel"
+
+msgctxt "user_statistics/ranked/stat/score"
+msgid "Ranked score (ELO)"
+msgstr "Ranglisten-Punktzahl (ELO)"
+
+msgctxt "missions/campaign_name_style"
+msgid "<f(impact)s(40)c(0 0 0)>"
+msgstr "<f(impact)s(40)c(0 0 0)>"
+
+msgctxt "user_statistics/ranked/stat/globalrank"
+msgid "Global rank"
+msgstr "Weltweiter Rang"
+
+msgctxt "user_statistics/ranked/stat/total_winratio"
+msgid "Total Win ratio"
+msgstr "Gesamte Siegquote"
+
+msgctxt "user_statistics/ranked/stat/total_lostman"
+msgid "Total Infantry lost"
+msgstr "Gesamt verlorene Infanterie"
+
+msgctxt "user_statistics/ranked/stat/total_killveh"
+msgid "Total Vehicles killed"
+msgstr "Gesamt zerstörte Fahrzeuge"
+
+msgctxt "user_statistics/ranked/stat/total_kdveh"
+msgid "Total K/D ratio"
+msgstr "Gesamtes K/D Verhältnis"
+
+msgctxt "user_statistics/ranked/stat/max_score"
+msgid "Highest score"
+msgstr "Höchste Punktzahl"
+
+msgctxt "user_statistics/ranked/stat/max_single_infantry"
+msgid "Highest infantry kills with one unit"
+msgstr "Höchste Anzahl an getöteter Infanterie mit einer Einheit"
+
+msgctxt "user_statistics/ranked/stat/max_single_vehicles"
+msgid "Highest vehicle kills with one unit"
+msgstr "Höchste Anzahl an zerstörten Fahrzeugen mit einer Einheit"
+
+msgctxt "user_statistics/ranked/stat/bot_gameswon"
+msgid "Bot Games won"
+msgstr "Bot-Spiele gewonnen"
+
+msgctxt "user_statistics/ranked/stat/killman_bot"
+msgid "Bot infantry kills"
+msgstr "Bot-Infanteristen getötet"
+
+msgctxt "user_statistics/ranked/stat/max_vehicles_bot"
+msgid "Highest bot vehicle kills"
+msgstr "Höchste Anzahl der zerstörten Bot-Fahrzeuge"
+
+msgctxt "user_statistics/ranked/row/trust_rating/okay"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "user_statistics/ranked/row/trust_rating/abysmal"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "user_statistics/ranked/row/trust_rating/banned"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "user_statistics/ranked/row/trust_rating/perm_banned"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "user_statistics/ranked/row/total_gamesplayed"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "user_statistics/ranked/row/total_killman"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "user_statistics/ranked/row/total_kdman"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "user_statistics/ranked/row/total_lostveh"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "user_statistics/ranked/row/max_score"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "user_statistics/ranked/row/max_infantry"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "user_statistics/ranked/row/max_single_infantry"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "user_statistics/ranked/row/max_single_vehicles"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "user_statistics/ranked/row/killman_bot"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "user_statistics/ranked/row/killveh_bot"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "user_statistics/ranked/row/max_infantry_bot"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "user_statistics/leaderboards/title"
+msgid "LEADERBOARDS"
+msgstr "RANGLISTEN"
+
+msgctxt "user_statistics/leaderboards/header"
+msgid "#Rank#Player#<x.>Games played#<x.>Winrate#<x.>%1%#"
+msgstr "#Rang#Spieler#<x.>Gespielte Spiele#<x.>Siegesrate#<x.>%1%#"
+
+msgctxt "user_statistics/leaderboards/score"
+msgid "Score"
+msgstr "Score"
+
+msgctxt "user_statistics/leaderboards/xp"
+msgid "Experience"
+msgstr "Erfahrung"
+
+msgctxt "user_statistics/leaderboards/leaderboards/best_player"
+msgid "Hall of Fame"
+msgstr "Ruhmeshalle"
+
+msgctxt "user_statistics/leaderboards/leaderboards/xp"
+msgid "Rank - %1%"
+msgstr "Rang - %1%"
+
+msgctxt "user_statistics/leaderboards/friends"
+msgid "Friends"
+msgstr "Freunde"
+
+msgctxt "user_statistics/leaderboards/column/rank"
+msgid "#%1%"
+msgstr "#%1%"
+
+msgctxt "user_statistics/leaderboards/column/gamesplayed"
+msgid "<x.>%1% (%2%)"
+msgstr "<x.>%1% (%2%)"
+
+msgctxt "user_statistics/leaderboards/column/score/xp"
+msgid "<x.>%1% XP"
+msgstr "<x.>%1% EP"
+
+msgctxt "entity_info/vehicle/crew_plus"
+msgid "Crew<x(55)>: %1% + %2%"
+msgstr "Besatzung<x(55)>: %1% + %2%"
+
+msgctxt "user_statistics/leaderboards2/column/player"
+msgid "Player"
+msgstr "Spieler"
+
+msgctxt "user_statistics/leaderboards2/column/games_played"
+msgid "<x.>Games played"
+msgstr "<x.>Gespielte Spiele"
+
+msgctxt "button/single_campaigns"
+msgid "Select mission"
+msgstr "Mission wählen"
+
+msgctxt "user_statistics/leaderboards2/column/winrate"
+msgid "<x.>Winrate"
+msgstr "<x.>Gewinnrate"
+
+msgctxt "user_statistics/leaderboards2/column/experience"
+msgid "<x.>Experience"
+msgstr "<x.>Erfahrung"
+
+msgctxt "user_statistics/leaderboards2/column/score"
+msgid "<x.>Score"
+msgstr "<x.>Punktzahl"
+
+msgctxt "user_statistics/compare/stats/ranked"
+msgid "Ranked"
+msgstr "Ranglistenspiel"
+
+msgctxt "user_statistics/compare/green"
+msgid "<c(9ded90)>%1%"
+msgstr "<c(9ded90)>%1%"
+
+msgctxt "user_statistics/dlc/title"
+msgid "DLC"
+msgstr "DLC"
+
+msgctxt "user_statistics/rank"
+msgid "#%1%"
+msgstr "#%1%"
+
+msgctxt "replay/freeview_mode"
+msgid ""
+"<f(bookman_hq)s(13)x(80)>Free view mode\n"
+"\n"
+"<f(arial)s(8)>To play the game, press ESC and select \"Stop demo and play\"."
+msgstr "<f(bookman_hq)s(13)x(80)>Freeview-Modus\n\n<f(arial)s(8)>Um das Spiel zu spielen, drücken Sie ESC und wählen Sie \"Demo anhalten und spielen\"."
+
+msgctxt "user_statistics/na"
+msgid "n/a"
+msgstr "n/a"
+
+msgctxt "user_statistics/private"
+msgid "private"
+msgstr "privat"
+
+msgctxt "user_statistics/wait"
+msgid "<f(roboto_mono)s(15)c(eeeeee)>loading..."
+msgstr "<f(roboto_mono)s(15)c(eeeeee)>lädt ..."
+
+msgctxt "tutorials/category1"
+msgid "<s(25)y(+9)>Beginner"
+msgstr "<s(25)y(+9)>Anfänger"
+
+msgctxt "tutorials/category3"
+msgid "<s(25)y(+9)>Veteran"
+msgstr "<s(25)y(+9)>Veteran"
+
+msgctxt "tutorials/tips"
+msgid "<s(25)y(+9)>Tips"
+msgstr "<s(25)y(+9)>Tipps"
+
+msgctxt "open_dialogs/msg_apply"
+msgid "'%1%' will be overwritten!"
+msgstr "'%1%' wird überschrieben!"
+
+msgctxt "open_dialogs/msg_invalid_name"
+msgid "Invalid name."
+msgstr "Ungültiger Name."
+
+msgctxt "dialog_box/title_confirm"
+msgid "<f(pobeda)s(27)b+c(faeacb)e(shadow)>Confirm"
+msgstr "<f(pobeda)s(27)b+c(faeacb)e(shadow)>Bestätigen"
+
+msgctxt "dialog_box/title_wait"
+msgid "<f(pobeda)s(27)b+c(faeacb)e(shadow)>Please wait"
+msgstr "<f(pobeda)s(27)b+c(faeacb)e(shadow)>Bitte warten"
+
+msgctxt "dialog_box/title_status"
+msgid "<f(pobeda)s(27)b+c(faeacb)e(shadow)>Info"
+msgstr "<f(pobeda)s(27)b+c(faeacb)e(shadow)>Info"
+
+msgctxt "save_load_game/title_load"
+msgid "Load game"
+msgstr "Spiel laden"
+
+msgctxt "save_load_game/lbl_load_list"
+msgid "Choose a game to load:"
+msgstr "Spiel zum Laden wählen:"
+
+msgctxt "save_load_game/lbl_save_name"
+msgid "Enter save game name:"
+msgstr "Namen des Spielstands eingeben:"
+
+msgctxt "save_load_game/lbl_save_list"
+msgid "Choose a game to save:"
+msgstr "Spiel zum Speichern wählen:"
+
+msgctxt "save_load_game/lbl_game_info"
+msgid "<s(27)f(pobeda)b>Game info:"
+msgstr "<s(27)f(pobeda)b>Spielinfo:"
+
+msgctxt "save_load_game/txt_time"
+msgid "Time"
+msgstr "Zeit"
+
+#| msgctxt "briefing/continue"
+#| msgid "<c(96 120 191)>PRESS ANY BUTTON TO CONTINUE"
+msgctxt "briefing/continue"
+msgid "<b+c(209 162 70)e(shadow)f(pobeda)s(40)>PRESS ANY BUTTON TO CONTINUE"
+msgstr "<b+c(209 162 70)e(shadow)f(pobeda)s(40)>ZUM FORTFAHREN EINE BELIEBIGE TASTE DRÜCKEN"
+
+msgctxt "save_load_game/txt_mission"
+msgid "Mission"
+msgstr "Mission"
+
+msgctxt "save_load_game/txt_version"
+msgid "Version"
+msgstr "Version"
+
+msgctxt "save_load_game/show_all_saves"
+msgid "Show all savegames"
+msgstr "Alle Spielstände anzeigen"
+
+msgctxt "save_load_game/load_invalid_version"
+msgid "Save game is from a different game version. Try to load it anyway?"
+msgstr "Spielstand hat eine andere Version. Trotzdem laden?"
+
+msgctxt "save_load_game/load_invalid_mods_failed"
+msgid ""
+"This save file is linked to mod(s) that is not installed. It cannot be loaded."
+msgstr "Dieser Spielstand verwendet momentan nicht installierte Mods und kann nicht geladen werden."
+
+msgctxt "save_load_game/save_overwrite"
+msgid "A save game with the same name already exists. Overwrite?"
+msgstr "Es existiert bereits ein Spielstand mit diesem Namen. Überschreiben?"
+
+msgctxt "save_load_game/save_progress"
+msgid "Saving in progress..."
+msgstr "Speichert ..."
+
+msgctxt "save_load_replay/title_save"
+msgid "Save replay"
+msgstr "Wiederholung speichern"
+
+msgctxt "save_load_replay/lbl_save_name"
+msgid "Enter replay name:"
+msgstr "Name der Wiederholung eingeben:"
+
+msgctxt "save_load_replay/lbl_save_list"
+msgid "List of replays:"
+msgstr "Liste der Wiederholungen:"
+
+msgctxt "save_load_replay/txt_map"
+msgid "Map"
+msgstr "Karte"
+
+msgctxt "save_load_replay/txt_date"
+msgid "Date"
+msgstr "Datum"
+
+msgctxt "save_load_replay/txt_version"
+msgid "Version"
+msgstr "Version"
+
+msgctxt "save_load_replay/txt_players"
+msgid "Players"
+msgstr "Spieler"
+
+msgctxt "save_load_replay/txt_game_type"
+msgid "Game Type"
+msgstr "Spielmodus"
+
+msgctxt "save_load_replay/msg_apply"
+msgid "A replay with the same name already exists. Overwrite?"
+msgstr "Es existiert bereits eine Wiederholung mit diesem Namen. Überschreiben?"
+
+msgctxt "save_load_replay/msg_delete"
+msgid "Delete replay: \"%1%\"?"
+msgstr "Wiederholung löschen: \"%1%\"?"
+
+msgctxt "save_load_replay/save_progress"
+msgid "Saving in progress..."
+msgstr "Speichert ..."
+
+msgctxt "replay_game/title"
+msgid "Replay game"
+msgstr "Spiel erneut spielen"
+
+msgctxt "replay_game/lbl_replay_list"
+msgid "Choose a game to replay:"
+msgstr "Spiel zum erneut Spielen wählen:"
+
+msgctxt "replay_game/lbl_replay_info"
+msgid "Replay info:"
+msgstr "Wiederholungsinfo:"
+
+msgctxt "replay_game/txt_time"
+msgid "Time"
+msgstr "Zeit"
+
+msgctxt "replay_game/txt_difficulty"
+msgid "Difficulty"
+msgstr "Schwierigkeit"
+
+msgctxt "replay_game/txt_version"
+msgid "Version"
+msgstr "Version"
+
+msgctxt "replay_game/replay_invalid_version"
+msgid "Can't replay game from a different version."
+msgstr "Spiele einer anderen Version können nicht wiederholt werden."
+
+msgctxt "replay/presentation_mode"
+msgid "<f(bookman_hq)s(13)>Presentation mode"
+msgstr "<f(bookman_hq)s(13)>Präsentationsmodus"
+
+msgctxt "replay/stop"
+msgid "Stop demo and play"
+msgstr "Demo anhalten und spielen"
+
+msgctxt "replay/next"
+msgid "Next demo"
+msgstr "Nächste Demo"
+
+msgctxt "replay/continue_replay"
+msgid "Back to demo"
+msgstr "Zurück zur Demo"
+
+msgctxt "button/ok"
+msgid "<f(pobeda)s(27)b>OK"
+msgstr "<f(pobeda)s(27)b>OK"
+
+msgctxt "button/yes"
+msgid "<f(pobeda)s(27)b>Yes"
+msgstr "<f(pobeda)s(27)b>Ja"
+
+msgctxt "button/continue"
+msgid "<f(pobeda)s(27)b>Continue"
+msgstr "<f(pobeda)s(27)b>Fortfahren"
+
+msgctxt "button/next"
+msgid "<f(pobeda)s(27)b>Next"
+msgstr "<f(pobeda)s(27)b>Nächste"
+
+msgctxt "button/apply"
+msgid "<f(pobeda)s(27)b>Apply"
+msgstr "<f(pobeda)s(27)b>Anwenden"
+
+msgctxt "button/reset"
+msgid "<f(pobeda)s(27)b>Reset"
+msgstr "<f(pobeda)s(27)b>Zurücksetzen"
+
+msgctxt "button/close"
+msgid "<f(pobeda)s(27)b>Close"
+msgstr "<f(pobeda)s(27)b>Schließen"
+
+msgctxt "button/retreat"
+msgid "Retreat"
+msgstr "Rückzug"
+
+msgctxt "button/surrender"
+msgid "Surrender"
+msgstr "Aufgeben"
+
+msgctxt "button/start"
+msgid "Start"
+msgstr "Starten"
+
+msgctxt "button/delete"
+msgid "Delete"
+msgstr "Löschen"
+
+msgctxt "button/completed"
+msgid "Completed"
+msgstr "Erledigt"
+
+msgctxt "button/failed"
+msgid "Failed"
+msgstr "Gescheitert"
+
+msgctxt "button/login"
+msgid "Login"
+msgstr "Anmelden"
+
+#| msgctxt "missions/fog_of_war"
+#| msgid "<f(impact)s(21)>Fog of War"
+msgctxt "missions/fog_of_war"
+msgid "<f(roboto_mono)s(15)>Fog of War"
+msgstr "<f(roboto_mono)s(15)>Nebel des Krieges"
+
+msgctxt "button/single"
+msgid "Singleplayer"
+msgstr "Einzelspieler"
+
+msgctxt "button/single_continue"
+msgid "Continue game"
+msgstr "Spiel fortsetzen"
+
+msgctxt "button/single_skirmish"
+msgid "Skirmish"
+msgstr "Einzelgefecht"
+
+msgctxt "button/skirmish_txt"
+msgid "Choose your Skirmish mode!"
+msgstr "Wählen Sie Ihren Einzelgefechtsmodus!"
+
+msgctxt "button/skirmish_local"
+msgid "Local"
+msgstr "Lokal"
+
+msgctxt "button/bonus"
+msgid "Bonus Content"
+msgstr "Bonusinhalte"
+
+msgctxt "button/dlc"
+msgid "Downloadable Content"
+msgstr "Herunterladbare Inhalte"
+
+msgctxt "button/workshop"
+msgid "Workshop"
+msgstr "Workshop"
+
+msgctxt "button/mods"
+msgid "Mods"
+msgstr "Mods"
+
+msgctxt "button/profile"
+msgid "Profile"
+msgstr "Profil"
+
+msgctxt "button/exit"
+msgid "Exit"
+msgstr "Beenden"
+
+msgctxt "button/save"
+msgid "Save"
+msgstr "Speichern"
+
+msgctxt "button/load"
+msgid "Load"
+msgstr "Laden"
+
+msgctxt "button/easy"
+msgid "Easy"
+msgstr "Leicht"
+
+msgctxt "button/hard"
+msgid "Hard"
+msgstr "Schwer"
+
+#| msgctxt "main_menu2/singleplayer/save_load_game/save_info/hardcore"
+#| msgid "Hardcore Realism"
+msgctxt "button/heroic"
+msgid "Hardcore"
+msgstr "Hardcore"
+
+msgctxt "button/bonus_missions"
+msgid "Bonus missions"
+msgstr "Bonusmissionen"
+
+msgctxt "button/ignore"
+msgid "Ignore"
+msgstr "Ignorieren"
+
+msgctxt "button/announcement"
+msgid "Announcement"
+msgstr "Mitteilung"
+
+msgctxt "button/store"
+msgid "STORE"
+msgstr "SHOP"
+
+msgctxt "button/link"
+msgid "LINK"
+msgstr "LINK"
+
+msgctxt "time/format"
+msgid "%d, %s %d, %d:%02d:%02d"
+msgstr "%d, %s %d, %d:%02d:%02d"
+
+msgctxt "time/month"
+msgid "Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec"
+msgstr "Jan Feb Mär Apr Mai Jun Jul Aug Sep Okt Nov Dez"
+
+msgctxt "statusbar/single_player"
+msgid "Singleplayer"
+msgstr "Einzelspieler"
+
+msgctxt "statusbar/dlc"
+msgid "Downloadable Content"
+msgstr "Herunterladbare Inhalte"
+
+msgctxt "statusbar/campaign_list"
+msgid "Singleplayer: nations"
+msgstr "Einzelspieler: Nationen"
+
+msgctxt "statusbar/mission_list"
+msgid "Singleplayer: missions"
+msgstr "Einzelspieler: Missionen"
+
+msgctxt "campaigns/title_style"
+msgid ""
+msgstr ""
+
+msgctxt "missions/difficulty_color"
+msgid "<c(0 0 0)>"
+msgstr "<c(0 0 0)>"
+
+msgctxt "missions/desc_style"
+msgid "<c(0 0 0)p(0)>"
+msgstr "<c(0 0 0)p(0)>"
+
+msgctxt "missions/archive"
+msgid "<f(impact)s(21)>Archive"
+msgstr "<f(impact)s(21)>Archiv"
+
+#| msgctxt "missions/campaign_title_style"
+#| msgid "<f(impact)s(21)c(0 0 0)>"
+msgctxt "missions/campaign_title_style"
+msgid "<f(impact)s(38)c(0 0 0)>"
+msgstr "<f(impact)s(38)c(0 0 0)>"
+
+#| msgctxt "missions/difficulty/easy"
+#| msgid "<f(impact)s(21)>Easy"
+msgctxt "missions/difficulty/easy"
+msgid "<f(anka)s(15)>Easy"
+msgstr "<f(anka)s(15)>Leicht"
+
+#| msgctxt "missions/difficulty/normal"
+#| msgid "<f(impact)s(21)>Normal"
+msgctxt "missions/difficulty/normal"
+msgid "<f(anka)s(15)>Normal"
+msgstr "<f(anka)s(15)>Normal"
+
+#| msgctxt "missions/difficulty/hard"
+#| msgid "<f(impact)s(21)>Hard"
+msgctxt "missions/difficulty/hard"
+msgid "<f(anka)s(15)>Hard"
+msgstr "<f(anka)s(15)>Schwer"
+
+#| msgctxt "missions/difficulty/hard"
+#| msgid "<f(impact)s(21)>Hard"
+msgctxt "missions/difficulty/heroic"
+msgid "<f(anka)s(15)>Hardcore"
+msgstr "<f(anka)s(15)>Hardcore"
+
+msgctxt "missions/mission_options"
+msgid "<f(roboto_mono)s(18)>Mission options"
+msgstr "<f(roboto_mono)s(18)>Missionsoptionen"
+
+msgctxt "entity_info/description/moto"
+msgid "Moto : %1%"
+msgstr "Moto: %1%"
+
+msgctxt "entity_info/description/car"
+msgid "Car : %1%"
+msgstr "Auto: %1%"
+
+msgctxt "entity_info/description/cannon"
+msgid "Cannon : %1%"
+msgstr "Geschütz : %1%"
+
+msgctxt "entity_info/description/airborne"
+msgid "Airborne : %1%"
+msgstr "Flugzeug: %1%"
+
+msgctxt "entity_info/description/marine"
+msgid "Boat : %1%"
+msgstr "Boot: %1%"
+
+msgctxt "entity_info/vehicle/weapon_1"
+msgid "Weapon<x(55)>: %1%"
+msgstr "Waffe<x(55)>: %1%"
+
+msgctxt "entity_info/vehicle/speed"
+msgid "Speed<x(55)>: %1%"
+msgstr "Geschw.<x(55)>: %1%"
+
+msgctxt "entity_info/vehicle/crew"
+msgid "Crew<x(55)>: %1%"
+msgstr "Besatzung<x(55)>: %1%"
+
+msgctxt "entity_info/vehicle/armor_tank"
+msgid "%1%<x(50)>%2%<x(90)>%3%<x(125)>%4%<x(160)>%5%<x(190)>%6%"
+msgstr "%1%<x(50)>%2%<x(90)>%3%<x(125)>%4%<x(160)>%5%<x(190)>%6%"
+
+msgctxt "entity_info/vehicle/turret"
+msgid "Turret"
+msgstr "Geschütz"
+
+msgctxt "entity_info/human/skill_format"
+msgid "<x(20)>%1%<x(70)>%2%"
+msgstr "<x(20)>%1%<x(70)>%2%"
+
+msgctxt "promo/upgrade_to_full"
+msgid ""
+"Thank you for playing Call to Arms. We hope you enjoyed the game so far!\n"
+"\n"
+"You can find some great upgrade options below. Enjoy more factions, "
+"singleplayer and cooperative support, Workshop content, custom editor battles "
+"and instant access to all factions!"
+msgstr "Danke, dass Sie Call to Arms spielen. Wir hoffen, dass Ihnen das Spiel bisher gefallen hat!\n\nUnten können Sie ein paar großartige Upgrades sehen. Erleben Sie weitere Fraktionen, Einzelspieler- und Koop-Unterstützung, Workshop-Inhalte, benutzerdefinierte Editor-Gefechte und den sofortigen Zugriff auf alle Fraktionen!"
+
+msgctxt "promo/upgrade_to_deluxe"
+msgid ""
+"Thank you for owning the Basic Edition of Call to Arms!\n"
+"\n"
+"You can upgrade your package to Deluxe Edition or Ultimate Edition and enjoy "
+"the game with even more content and extras!"
+msgstr "Danke, dass Sie die Basic Edition von Call to Arms spielen!\n\nSie können ihr PaKet auf die Deluxe Edition oder Ultimate Edition upgraden und weitere Inhalte und Extras des Spieles kennenlernen!"
+
+msgctxt "promo/upgrade_to_ultimate"
+msgid ""
+"Thank you for owning the Deluxe Edition of Call to Arms!\n"
+"\n"
+"Perhaps you want to upgrade your package with the Season Pass to Ultimate "
+"Edition and enjoy even more cooperative campaigns and early access to new "
+"factions!"
+msgstr "Danke, dass Sie die Deluxe Edition von Call to Arms spielen!\n\nSie können ihr PaKet mit dem Season Pass auf die Ultimate Edition upgraden und noch mehr Koop-Kampagnen spielen sowie Early Access zu neuen Fraktionen genießen!"
+
+msgctxt "announce_sale_text"
+msgid ""
+"Call to Arms is currently on Sale!\n"
+"\n"
+"Today you can upgrade your package at a great price.\n"
+"Enjoy instant unit unlock, Singleplayer and Cooperative content, Workshop "
+"support and much more!"
+msgstr "Call to Arms ist momentan im Angebot!\nHeute können Sie Ihr PaKet zu einem einmaligen Preis upgraden.\nGenießen Sie neue Einheiten, Einzelspieler- und Koop-Inhalte, Workshop-Unterstützung und vieles mehr!"
+
+msgctxt "announce_sale_xmas_text"
+msgid ""
+"Happy Holidays!\n"
+"\n"
+"All Call to Arms upgrade packages and in-game items are currently on sale at a "
+"fantastic price. It's a perfect time to make yourself or friends a well "
+"deserved little present.\n"
+"\n"
+"Have fun and enjoy the time with your loved ones!"
+msgstr "Frohe Festtage!\n\nAlle Call to Arms-Upgradepakete und Gegenstände im Spiel sind momentan zu einem großartigen Preis verfügbar. Der optimale Zeitpunkt, Ihren Freunden oder Ihnen selbst ein kleines, wohlverdientes Geschenk zu machen.\n\nViel Spaß und genießen Sie die Zeit an der Seite Ihrer Liebsten!"
+
+msgctxt "announce_discord"
+msgid ""
+"\n"
+"\n"
+"From Barbedwire Studios and Digitalmindsoft, \n"
+"\n"
+"We want to thank all the participants in the CtA - Gates of Hell: Ostfront "
+"beta test\n"
+"\n"
+" for all your feedback and the playtime invested.\n"
+"\n"
+"Join our Discord. Our goal is to build a strong community around our game\n"
+"\n"
+"See you in the battlefield, commanders!"
+msgstr "\n\nVon Barbedwire Studios und Digitalmindsoft,\n\nwir möchten uns bei allen Teilnehmern der Betatests zu CtA – Gates of Hell: Ostfront\n\nfür das umfangreiche Feedback und die investierte Spielzeit bedanken.\n\nTretet unserem Discord-Server bei. Unser Ziel ist der Aufbau einer starken Community für unser Spiel.\n\nWir sehen uns auf dem Schlachtfeld, Kommandanten!"
+
+msgctxt "announce_appeal"
+msgid "DEAR PLAYERS!"
+msgstr "LIEBE SPIELER!"
+
+msgctxt "feedback_text"
+msgid ""
+"Dear Soldier,\n"
+"\n"
+"Thank you for your participation in Call to Arms. As a token of our gratitude "
+"for all of your contributions, we hereby award you the Bronze Star. "
+"Congratulations!\n"
+"\n"
+"As an independent developer studio, your opinion is what matters to us the "
+"most. In case you haven't done so yet, please consider leaving us a nice "
+"review. We want to hear your valuable feedback and thoughts on what you enjoy "
+"most about the game. Keep in mind, the more people who can find out about the "
+"game, the better we can make it for everyone.\n"
+"\n"
+"Thank you, and good luck on the battlefield!\n"
+msgstr "Sehr geehrter Soldat,\n\ndanke für Ihre Teilnahme an Call to Arms. Als Zeichen unserer Dankbarkeit für all Ihre Beiträge verleihen wir Ihnen hiermit den Bronzestern. Glückwunsch!\n\nDa wir ein unabhängiges Entwicklerstudio sind, zählt für uns nichts mehr als Ihre Meinung. Bitte denken Sie daran, uns eine gute Kritik zu hinterlassen, falls Sie es nicht ohnehin schon getan haben. Wir möchten Ihr wertvolles Feedback und Ihre Gedanken zu den für Sie schönsten Momenten des Spiels hören. Vergessen Sie nicht: je mehr Leute das Spiel entdecken, desto besser können wir es für alle machen.\n\nDanke und viel Glück auf dem Schlachtfeld!\n"
+
+msgctxt "feedback_text3"
+msgid ""
+"Dear Soldier,\n"
+"\n"
+"Thank you for your participation in Call to Arms. As a token of our gratitude "
+"for all of your contributions, we hereby award you the Gold Star. "
+"Congratulations!\n"
+"\n"
+"As an independent developer studio, your opinion is what matters to us the "
+"most. In case you haven't done so yet, please consider leaving us a nice "
+"review. We want to hear your valuable feedback and thoughts on what you enjoy "
+"most about the game. Keep in mind, the more people who can find out about the "
+"game, the better we can make it for everyone.\n"
+"\n"
+"Thank you, and good luck on the battlefield!\n"
+msgstr "Sehr geehrter Soldat,\n\ndanke für Ihre Teilnahme an Call to Arms. Als Zeichen unserer Dankbarkeit für all Ihre Beiträge verleihen wir Ihnen hiermit den Goldstern. Glückwunsch!\n\nDa wir ein unabhängiges Entwicklerstudio sind, zählt für uns nichts mehr als Ihre Meinung. Bitte denken Sie daran, uns eine gute Kritik zu hinterlassen, falls Sie es nicht ohnehin schon getan haben. Wir möchten Ihr wertvolles Feedback und Ihre Gedanken zu den für Sie schönsten Momenten des Spiels hören. Vergessen Sie nicht: je mehr Leute das Spiel entdecken, desto besser können wir es für alle machen.\n\nDanke und viel Glück auf dem Schlachtfeld!\n"
+
+#| msgctxt "copyright_string"
+#| msgid "<s(8)c(120 120 120)f(arial_hq)>(C) 2014 Digitalmindsoft"
+msgctxt "copyright_string"
+msgid ""
+"<s(8)c(120 120 120)f(arial_hq)>(C) 2014-2020 Digitalmindsoft e.K & Barbedwire "
+"Studios"
+msgstr "<s(8)c(120 120 120)f(arial_hq)>(C) 2014-2020 Digitalmindsoft e.K & Barbedwire Studios"
+
+msgctxt "profile_string"
+msgid "%1%"
+msgstr "%1%"
+
+#| msgctxt "product_name"
+#| msgid "CALL TO ARMS"
+msgctxt "product_name"
+msgid "CALL TO ARMS - GATES OF HELL"
+msgstr "CALL TO ARMS – GATES OF HELL"
+
+msgctxt "demo_name"
+msgid "Demo version"
+msgstr "Demo-Version"
+
+#| msgctxt "prepare_mods"
+#| msgid "Mounting mod resources from Steam Workshop..."
+msgctxt "prepare_mods"
+msgid "<c(cec7c3)f(roboto_mono)>Mounting mod resources from Steam Workshop..."
+msgstr "<c(cec7c3)f(roboto_mono)>Modressourcen aus dem Steam Workshop werden installiert ..."
+
+#| msgctxt "prepare_multiplayer_resources"
+#| msgid "Loading multiplayer resources..."
+msgctxt "prepare_multiplayer_resources"
+msgid "<c(cec7c3)f(roboto_mono)>Loading multiplayer resources..."
+msgstr "<c(cec7c3)f(roboto_mono)>Multiplayerressourcen werden geladen ..."
+
+msgctxt "difficulty/default"
+msgid "Default"
+msgstr "Standard"
+
+msgctxt "difficulty/easy"
+msgid "Easy"
+msgstr "Leicht"
+
+msgctxt "difficulty/normal"
+msgid "Normal"
+msgstr "Normal"
+
+msgctxt "difficulty/hard"
+msgid "Hard"
+msgstr "Schwer"
+
+#| msgctxt "main_menu2/singleplayer/save_load_game/save_info/hardcore"
+#| msgid "Hardcore Realism"
+msgctxt "difficulty/heroic"
+msgid "Hardcore"
+msgstr "Hardcore"
+
+msgctxt "game/full"
+msgid "<c(5d7e80)e(shadow)>Basic Edition</c>"
+msgstr "<c(5d7e80)e(shadow)>Basic Edition</c>"
+
+msgctxt "game/deluxe"
+msgid "<c(c04415)e(shadow)>Deluxe Edition</c>"
+msgstr "<c(c04415)e(shadow)>Deluxe Edition</c>"
+
+msgctxt "game/ultimate"
+msgid "<c(d69e42)e(shadow)>Ultimate Edition</c>"
+msgstr "<c(d69e42)e(shadow)>Ultimate Edition</c>"
+
+msgctxt "game/full_required_hint"
+msgid "At least Basic Edition is required to access this menu"
+msgstr "Sie brauchen mindestens die Basic Edition, um auf dieses Menü zugreifen zu können"
+
+msgctxt "duration/short"
+msgid "Small"
+msgstr "Kurz"
+
+#| msgctxt "options/video/preset#/medium"
+#| msgid "Medium"
+msgctxt "duration/normal"
+msgid "Medium"
+msgstr "Mittel"
+
+msgctxt "duration/long"
+msgid "Large"
+msgstr "Lang"
+
+#| msgctxt "duration/very_long"
+#| msgid "Very long"
+msgctxt "duration/very_long"
+msgid "Very Large"
+msgstr "Sehr lang"
+
+msgctxt "duration/unlimited"
+msgid "Unlimited"
+msgstr "Endlos"
+
+msgctxt "resources/low"
+msgid "Low"
+msgstr "Wenig"
+
+msgctxt "resources/standard"
+msgid "Medium"
+msgstr "Mittel"
+
+msgctxt "resources/high"
+msgid "High"
+msgstr "Viel"
+
+msgctxt "steam_overlay_warning"
+msgid "Steam Overlay is enabled. It may cause game freeze on your system."
+msgstr "Steam-Overlay ist aktiv. Dies könnte das Spiel auf Ihrem System beeinträchtigen."
+
+msgctxt "steam_overlay_operation_warning"
+msgid "This action require Steam Overlay enabled."
+msgstr "Für diese Aktion muss das Steam-Overlay aktiviert sein."
+
+msgctxt "options/game/language"
+msgid "Language"
+msgstr "Sprache"
+
+msgctxt "options/game/language_auto"
+msgid "Autodetect"
+msgstr "Automatisch erkennen"
+
+msgctxt "options/game/language_change_confirm"
+msgid ""
+"This operation requires a game restart. Do you want to close the game now?"
+msgstr "Diese Aktion erfordert einen Neustart des Spiels. Möchten Sie das Spiel jetzt beenden?"
+
+msgctxt "options/keys/mouse_left"
+msgid "Left mouse button"
+msgstr "Linke Maustaste"
+
+msgctxt "options/keys/mouse_right"
+msgid "Right mouse button"
+msgstr "Rechte Maustaste"
+
+msgctxt "main_menu2/breadcrumbs/page_dynamic_campaign"
+msgid "Conquest (Dynamic Campaign)"
+msgstr "Eroberung (Dynamische Kampagne)"
+
+msgctxt "main_menu2/dynamic_campaign/create_dynamic_campaign"
+msgid "CREATE CONQUEST"
+msgstr "ERSTELLE EROBERUNG"
+
+msgctxt "main_menu2/dynamic_campaign/choose_name"
+msgid "name"
+msgstr "name"
+
+msgctxt "main_menu2/dynamic_campaign/select_army"
+msgid "faction"
+msgstr "fraktion"
+
+msgctxt "main_menu2/dynamic_campaign/select_region"
+msgid "region"
+msgstr "region"
+
+msgctxt "main_menu2/dynamic_campaign/region_hint_ostfront"
+msgid "Eastern Europe - (Ostfront Maps)"
+msgstr "Osteuropa - (Ostfront Karten)"
+
+msgctxt "main_menu2/dynamic_campaign/region_hint_talvisota"
+msgid "Finland + Eastern Europe - (Ostfront + Talvisota Maps)"
+msgstr "Finnland + Osteuropa - (Ostfront + Talvisota Karten)"
+
+msgctxt "main_menu2/dynamic_campaign/select_difficulty"
+msgid "difficulty"
+msgstr "schwierigkeit"
+
+#| msgctxt "main_menu2/dynamic_campaign/hint_difficulty"
+#| msgid ""
+#| "Defines the resource income of enemy players and toughness of enemy units,\n"
+#| "also affects game duration."
+msgctxt "main_menu2/dynamic_campaign/hint_difficulty"
+msgid "Difficulty adjusts the following: \n• Player and Allied AI infantry health \n• Enemy infantry health \n• Enemy weapon accuracy for all units"
+msgstr "Der Schwierigkeitsgrad stellt Folgendes ein: \n• Gesundheit der Infanterie des Spielers und der verbündeten KI \n• Gesundheit der feindlichen Infanterie \n• Genauigkeit der feindlichen Waffen für alle Einheiten"
+
+msgctxt "main_menu2/dynamic_campaign/hint_difficulty_easy"
+msgid "Easy Difficulty: \n• Greatly reduces enemy infantry health \n• Greatly reduces enemy weapon accuracy for all units \n• Reduces enemy rate of throwing grenades \n• Greatly increases player infantry health \n• Increases friendly AI infantry health"
+msgstr "Leichter Schwierigkeitsgrad: \n• Verringert die Gesundheit der gegnerischen Infanterie stark \n• Verringert die Genauigkeit der gegnerischen Waffen für alle Einheiten \n• Verringert die Wahrscheinlichkeit, dass der Gegner Granaten wirft \n• Erhöht die Gesundheit der Spieler-Infanterie \n• Erhöht die Gesundheit der verbündeten KI-Infanterie"
+
+msgctxt "main_menu2/dynamic_campaign/hint_difficulty_normal"
+msgid "Normal Difficulty: \n• Reduces enemy infantry health \n• Reduces enemy weapon accuracy for all units \n• All other stats are at standard values"
+msgstr "Normaler Schwierigkeitsgrad: \n• Verringert die Gesundheit der gegnerischen Infanterie \n• Verringert die Genauigkeit der gegnerischen Waffen für alle Einheiten \n- Alle anderen Werte entsprechen den Standardwerten"
+
+msgctxt "main_menu2/dynamic_campaign/hint_difficulty_hard"
+msgid "Hard Difficulty: \n• Reduces enemy infantry health \n• Slightly reduces enemy weapon accuracy for all units \n• All other stats are at standard values"
+msgstr "Schwere Schwierigkeit: \n• Verringert die Gesundheit der gegnerischen Infanterie \n• Verringert die Genauigkeit der gegnerischen Waffen für alle Einheiten leicht \n• Alle anderen Werte entsprechen den Standardwerten"
+
+msgctxt "main_menu2/dynamic_campaign/hint_difficulty_heroic"
+msgid "Hardcore Difficulty: \n• Slightly reduces enemy infantry health \n• All other stats are at standard values"
+msgstr "Hardcore Schwierigkeitsgrad: \n• Verringert leicht die Gesundheit der gegnerischen Infanterie \n• Alle anderen Werte entsprechen den Standardwerten"
+
+#| msgctxt "main_menu2/singleplayer/save_load_game/save_info/campaign"
+#| msgid "Campaign"
+msgctxt "main_menu2/dynamic_campaign/select_duration"
+msgid "campaign size"
+msgstr "Dauer der Kampagne"
+
+msgctxt "main_menu2/dynamic_campaign/hint_duration"
+msgid ""
+"Defines the size of campaign and how maps are needed to control in order to "
+"win the campaign."
+msgstr "Definiert das Ausmaß der Kampagne und die zu erreichende Kartenkontrolle für den Sieg in dieser Kampagne."
+
+msgctxt "main_menu2/dynamic_campaign/select_resources"
+msgid "economy"
+msgstr "Wirtschaft"
+
+msgctxt "main_menu2/dynamic_campaign/hint_resources"
+msgid "Economy adjusts the following: \n• Starting resources \n• Resources gained after each battle \n• Cost to repair and resupply units \n• Resources gained from selling units \n• Enemy resources in battle, which is a \n  percentage of player's total army value"
+msgstr "Die Wirtschaft passt Folgendes an: \n• Anfangsressourcen \n• Ressourcen, die nach jeder Schlacht gewonnen werden \n• Kosten für die Reparatur und den Nachschub von Einheiten \n• Ressourcen, die durch den Verkauf von Einheiten gewonnen werden \n• Feindliche Ressourcen in der Schlacht, die einen Prozentsatz des Gesamtwertes der Armee des Spielers darstellen"
+
+msgctxt "main_menu2/dynamic_campaign/advanced"
+msgid "advanced"
+msgstr "erweitert"
+
+msgctxt "main_menu2/dynamic_campaign/battles_played"
+msgid "Operation Day: %1% "
+msgstr "Einsatztag: %1% "
+
+msgctxt "main_menu2/dynamic_campaign/battles_played_unlimited"
+msgid "OPERATION DAY: %1%.(Unlimited)"
+msgstr "EINSATZTAG: %1%.(Unlimitiert)"
+
+#| msgctxt "main_menu2/dynamic_campaign/battles_won"
+#| msgid "<s(20)>Battles Won: %1%"
+msgctxt "main_menu2/dynamic_campaign/battles_won"
+msgid "Battles Won: %1%"
+msgstr "Gewonnene Kämpfe: %1%"
+
+#| msgctxt "main_menu2/dynamic_campaign/battles_lost"
+#| msgid "<s(20)>Battles Lost: %1%"
+msgctxt "main_menu2/dynamic_campaign/battles_lost"
+msgid "Battles Lost: %1%"
+msgstr "Verlorene Kämpfe: %1%"
+
+msgctxt "main_menu2/dynamic_campaign/battle_location"
+msgid "Battle Location:"
+msgstr "Schlachtfeld:"
+
+msgctxt "main_menu2/dynamic_campaign/available_mp"
+msgid "%1.0f"
+msgstr "%1.0f"
+
+msgctxt "main_menu2/dynamic_campaign/available_sp"
+msgid "%1.0f"
+msgstr "%1.0f"
+
+#| msgctxt "main_menu2/dynamic_campaign/army_score"
+#| msgid "<s(26)>ARMY STRENGTH: %.f"
+msgctxt "main_menu2/dynamic_campaign/army_score"
+msgid "ARMY STRENGTH: %.f"
+msgstr "ARMEESTÄRKE: %.f"
+
+#| msgctxt "main_menu2/breadcrumbs/progress_title"
+#| msgid "CONQUEST PROGRESS"
+msgctxt "main_menu2/breadcrumbs/progress_title"
+msgid "CAMPAIGN PROGRESS"
+msgstr "KAMPAGNENFORTSCHRITT"
+
+msgctxt "main_menu2/dynamic_campaign/reinforcements"
+msgid "Reinforcements"
+msgstr "Verstärkungen"
+
+msgctxt "main_menu2/dynamic_campaign/is_locked_hint"
+msgid "Unlocks at round %1%"
+msgstr "Wird in Runde %1% freigeschaltet."
+
+msgctxt "main_menu2/dynamic_campaign/airstrikes"
+msgid "Support"
+msgstr "Unterstützungen"
+
+msgctxt "main_menu2/dynamic_campaign/emplacements"
+msgid "Emplacements"
+msgstr "Gefechtsstellungen"
+
+msgctxt "main_menu2/dynamic_campaign/veterans"
+msgid "Veterans"
+msgstr "Veteranen"
+
+msgctxt "main_menu2/dynamic_campaign/available_cp"
+msgid "%1%/%2%"
+msgstr "%1%/%2%"
+
+msgctxt "main_menu2/dynamic_campaign/hint_veterans"
+msgid "Place units here to recruit them as a reserve"
+msgstr "Platzieren Sie Einheiten hier, um sie als Reserve zu rekrutieren"
+
+msgctxt "main_menu2/dynamic_campaign/stage_number"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "main_menu2/dynamic_campaign/stage_minute"
+msgid "%1%"
+msgstr "%1%"
+
+msgctxt "main_menu2/dynamic_campaign/hint_stage"
+msgid "Place recruited units in this stage to call them in during combat"
+msgstr "Platzieren Sie rekrutierte Einheiten in dieser Stufe, um sie im Spiel als Verstärkungen hereinzurufen"
+
+msgctxt "main_menu2/dynamic_campaign/hint_stage_airstrike"
+msgid "Place support call-ins in this stage to use them any time during combat"
+msgstr "Platzieren Sie Unterstützungen in dieser Stufe, um sie jederzeit während des Kampfes anzufordern"
+
+msgctxt "main_menu2/dynamic_campaign/hint_stage_emplacement"
+msgid ""
+"Place emplacements in this stage to build them with engineers (required to "
+"recruit seperately)"
+msgstr "Platzieren Sie Gefechtsstellungen in dieser Stufe, um sie mit Pionieren errichten zu können (sie müssen zusätzlich rekrutiert werden)"
+
+msgctxt "main_menu2/dynamic_campaign/start_mission"
+msgid "START MISSION"
+msgstr "STARTE MISSION"
+
+#| msgctxt "main_menu2/dynamic_campaign/buy"
+#| msgid "RECRUIT"
+msgctxt "main_menu2/dynamic_campaign/buy"
+msgid "<y(+1)>RECRUIT"
+msgstr "<y(+1)>REKRUTIEREN"
+
+#| msgctxt "main_menu2/dynamic_campaign/resupply_all"
+#| msgid "RESUPPLY ALL"
+msgctxt "main_menu2/dynamic_campaign/resupply_all"
+msgid "<y(+1)>RESUPPLY ALL"
+msgstr "<y(+1)>ALLE VERSORGEN"
+
+#| msgctxt "main_menu2/dynamic_campaign/stage"
+#| msgid "DEPLOY"
+msgctxt "main_menu2/dynamic_campaign/stage"
+msgid "<y(+1)>DEPLOY"
+msgstr "<y(+1)>EINSETZEN"
+
+#| msgctxt "main_menu2/dynamic_campaign/resupply"
+#| msgid "RESUPPLY"
+msgctxt "main_menu2/dynamic_campaign/resupply"
+msgid "<y(+1)>RESUPPLY"
+msgstr "<y(+1)>VERSORGEN"
+
+#| msgctxt "main_menu2/dynamic_campaign/sell"
+#| msgid "DISMISS"
+msgctxt "main_menu2/dynamic_campaign/sell"
+msgid "<y(+1)>DISMISS"
+msgstr "<y(+1)>ENTLASSEN"
+
+#| msgctxt "main_menu2/dynamic_campaign/unstage_all"
+#| msgid "UNDEPLOY ALL"
+msgctxt "main_menu2/dynamic_campaign/unstage_all"
+msgid "<y(+1)>UNDEPLOY ALL"
+msgstr "<y(+1)>ALLE ENTFERNEN"
+
+#| msgctxt "main_menu2/dynamic_campaign/unstage"
+#| msgid "UNDEPLOY"
+msgctxt "main_menu2/dynamic_campaign/unstage"
+msgid "<y(+1)>UNDEPLOY"
+msgstr "<y(+1)>ENTFERNEN"
+
+msgctxt "main_menu2/dynamic_campaign/save_campaign_changes"
+msgid "Do you want to save your changes?"
+msgstr "Möchten Sie Ihre Änderungen speichern?"
+
+#| msgctxt "main_menu2/dynamic_campaign/exit_campaign_screen"
+#| msgid "Do you want to exit the conquest?"
+msgctxt "main_menu2/dynamic_campaign/exit_campaign_screen"
+msgid "Do you want to exit conquest?"
+msgstr "Möchten Sie die Eroberung verlassen?"
+
+#| msgctxt "main_menu2/dynamic_campaign/next_map"
+#| msgid "<y.s(24)>Next Map: %1% %2%"
+msgctxt "main_menu2/dynamic_campaign/next_map"
+msgid "<y.s(24)>Next Location: %1% %2%"
+msgstr "<y.s(24)>Nächster Zielort: %1% %2%"
+
+msgctxt "main_menu2/dynamic_campaign/singleplayer"
+msgid "<y.s(24)>Singleplayer"
+msgstr "<y.s(24)>Einzelspieler"
+
+msgctxt "main_menu2/dynamic_campaign/cooperative"
+msgid "<y.s(24)>Cooperative"
+msgstr "<y.s(24)>Koop"
+
+msgctxt "main_menu2/dynamic_campaign/victory_title"
+msgid "VICTORY!"
+msgstr "SIEG!"
+
+msgctxt "main_menu2/dynamic_campaign/victory_text"
+msgid "Congratulations, you have captured the enemy base!"
+msgstr "Herzlichen Glückwunsch, Sie haben die feindliche Basis erobert!"
+
+msgctxt "main_menu2/dynamic_campaign/defeat_title"
+msgid "DEFEAT!"
+msgstr "NIEDERLAGE!"
+
+msgctxt "main_menu2/dynamic_campaign/defeat_text"
+msgid ""
+"The enemy has captured your base.\n"
+"Better luck next time!"
+msgstr "Der Gegner hat Ihre Basis eingenommen.\nViel Erfolg beim nächsten Mal!"
+
+#| msgctxt "main_menu2/singleplayer/save_load_game/save_info/campaign"
+#| msgid "Campaign"
+msgctxt "main_menu2/dynamic_campaign/campaign_lost"
+msgid "Campaign lost!"
+msgstr "Kampagne verloren!"
+
+msgctxt "main_menu2/dynamic_campaign/nothing_deployed"
+msgid "Nothing deployed"
+msgstr "Keine Einheiten eingesetzt"
+
+msgctxt "main_menu2/dynamic_campaign/nothing_deployed_in_stage"
+msgid "Nothing deployed in stage %1%"
+msgstr "Keine Einheiten in Stufe %1% eingesetzt"
+
+#| msgctxt "main_menu2/dynamic_campaign/conflict_duration"
+#| msgid "END OF CONFLICT: DAY %1%"
+msgctxt "main_menu2/dynamic_campaign/conflict_duration"
+msgid "END OF OPERATION: DAY %1%"
+msgstr "ENDE DES EINSATZES: TAG %1%"
+
+msgctxt "main_menu2/dynamic_campaign/continue_campaign"
+msgid "Continue as Unlimited Conquest"
+msgstr "Als endlose Eroberung weiterspielen"
+
+msgctxt "main_menu2/dynamic_campaign/campaign_name_suggestion"
+msgid "Conquest"
+msgstr "Eroberung"
+
+msgctxt "options/keys/control_manual/order_squad"
+msgid "Order squad"
+msgstr "Trupp befehligen"
+
+msgctxt "options/keys/control_manual/order_squad#desc"
+msgid ""
+"When in first/third person, click to send your squad to the aimed at position. "
+"Hold key to display cover and send units on release."
+msgstr "Klicken Sie in 1. und 3. Person eines Soldaten, um Ihre Truppmitglieder an die bezielte Position zu schicken. Halten Sie die Taste gedrückt, um Deckungspositionen anzuzeigen und den Trupp bei Loslassen der Taste in die gewählte Deckung zu schicken."
+
+msgctxt "main_menu2/user_profile/save_changes"
+msgid "Do you want to save profile changes?"
+msgstr "Wollen Sie die Änderungen an Ihrem Profil speichern?"
+
+#| msgctxt "main_menu2/dynamic_campaign/researchTree"
+#| msgid "RESEARCH TREE"
+msgctxt "main_menu2/dynamic_campaign/researchTree"
+msgid "<y(+1)>RESEARCH TREE"
+msgstr "<y(+1)>FORSCHUNGSBAUM"
+
+msgctxt "main_menu2/dynamic_campaign/unresearched_hint"
+msgid "Research unit prior to purchase!"
+msgstr "Erforschen Sie die Einheit, um die Kaufoption freizuschalten!"
+
+msgctxt "main_menu2/dynamic_campaign/clearResearch"
+msgid "Unselect All"
+msgstr "Alle abwählen"
+
+msgctxt "main_menu2/dynamic_campaign/researchCheckout"
+msgid "Cost: %.f/%.f"
+msgstr "Kosten: %.f/%.f"
+
+msgctxt "main_menu2/dynamic_campaign/researchAll"
+msgid "Research Selected"
+msgstr "Auswahl erforschen"
+
+msgctxt "main_menu2/dynamic_campaign/map_title"
+msgid "<f(pobeda)s(27)x(+500)b+c(eeeeee)>STRATEGIC MAP"
+msgstr "<f(pobeda)s(27)x(+500)b+c(eeeeee)>STRATEGIEKARTE"
+
+msgctxt "main_menu2/dynamic_campaign/map_title_attacking"
+msgid "<f(pobeda)s(27)b>ATTACKING"
+msgstr "<f(pobeda)s(27)b>ANGRIFF"
+
+msgctxt "main_menu2/dynamic_campaign/map_title_defending"
+msgid "<f(pobeda)s(27)b>DEFENDING"
+msgstr "<f(pobeda)s(27)b>VERTEIDIGUNG"
+
+msgctxt "main_menu2/game/head_single"
+msgid "<f(pobeda)y.s(60)b+c(cca55c)e(shadow)>Singleplayer"
+msgstr "<f(pobeda)y.s(60)b+c(cca55c)e(shadow)>Einzelspieler"
+
+msgctxt "main_menu2/game/main_menu_single"
+msgid "<f(pobeda)y.s(27)b+c(b5a993)e(shadow)>Back"
+msgstr "<f(pobeda)y.s(27)b+c(b5a993)e(shadow)>Zurück"
+
+msgctxt "main_menu2/game/pause_menu"
+msgid "<f(pobeda)y.s(60)b+c(dfbe6e)>GAME MENU"
+msgstr "<f(pobeda)y.s(60)b+c(dfbe6e)>SPIELMENÜ"
+
+msgctxt "main_menu2/dynamic_campaign/tutorial_research_button"
+msgid "Visit the <c(30bf3c)>RESEARCH TREE</c> to unlock more units."
+msgstr "Besuchen Sie den <c(30bf3c)>FORSCHUNGSBAUM</c>, um mehr Einheiten freizuschalten."
+
+#| msgctxt "main_menu2/dynamic_campaign/tutorial_progress_map"
+#| msgid ""
+#| "Visit the <c(30bf3c)>STRATEGY MAP</c> to get some information about the "
+#| "next battle and choose a battlefield."
+msgctxt "main_menu2/dynamic_campaign/tutorial_progress_map"
+msgid ""
+"Visit the <c(30bf3c)>STRATEGIC MAP</c> to get some information about the next "
+"battle and choose a battlefield."
+msgstr "Besuchen Sie die <c(30bf3c)>STRATEGIEKARTE</c>, um Informationen über das nächste Gefecht zu erhalten und ein Schlachtfeld auszuwählen."
+
+msgctxt "main_menu2/dynamic_campaign/tutorial_portraits"
+msgid ""
+"Drag the portraits to recruit, dismiss and enlist them for the next battle."
+msgstr "Ziehen Sie Porträts zum Rekrutieren, Entlassen und Zuweisen für das nächste Gefecht."
+
+msgctxt "main_menu2/dynamic_campaign/tutorial_attacking"
+msgid "Choose a frontline location that you want to attack."
+msgstr "Wählen Sie einen Ort an der Front, den Sie angreifen möchten."
+
+msgctxt "main_menu2/dynamic_campaign/tutorial_defending"
+msgid ""
+"The enemy attacks one of your controlled territories. Prepare your defense!"
+msgstr "Der Feind greift einen Ihrer kontrollierten Gebiete an. Bereiten Sie sich auf die Verteidigung vor!"
+
+msgctxt "main_menu2/dynamic_campaign/tutorial_research"
+msgid ""
+"Research units to unlock them for recruiting. You gain research points with "
+"every battle fought."
+msgstr "Erforschen Sie Einheiten, um sie für die Rekrutierung freizuschalten. Sie erhalten Forschungspunkte mit jedem geschlagenen Gefecht."
+
+msgctxt "main_menu2/dynamic_campaign/defense_level_1"
+msgid "Small Defenses"
+msgstr "Einfache Befestigungen"
+
+msgctxt "main_menu2/dynamic_campaign/defense_level_2"
+msgid "Medium Defenses"
+msgstr "Mittlere Befestigungen"
+
+msgctxt "main_menu2/dynamic_campaign/defense_level_3"
+msgid "Large Defenses"
+msgstr "Starke Befestigungen"
+
+msgctxt "main_menu2/dynamic_campaign/reinforcement_stage_1"
+msgid "Call-in Stage 1"
+msgstr "Stufe 1 Anforderung"
+
+msgctxt "main_menu2/dynamic_campaign/reinforcement_stage_2"
+msgid "Call-in Stage 2"
+msgstr "1940 und 1941"
+
+msgctxt "main_menu2/dynamic_campaign/reinforcement_stage_3"
+msgid "Call-in Stage 3"
+msgstr "1942 und 1943"
+
+msgctxt "main_menu2/dynamic_campaign/reinforcement_stage_4"
+msgid "Call-in Stage 4"
+msgstr "1944 und 1945"
+
+msgctxt "main_menu2/dynamic_campaign/test"
+msgid "testtest"
+msgstr "Test ignore"
+
+msgctxt "main_menu2/dynamic_campaign/reinforcement_stage_5"
+msgid "Call-in Stage 5"
+msgstr "Bonusgruppe"
+
+msgctxt "main_menu2/dynamic_campaign/exit"
+msgid "EXIT"
+msgstr "VERLASSEN"
+
+
+
+msgctxt "main_menu2/dynamic_campaign/map/enemy"
+msgid "Enemy:"
+msgstr "Feind:"
+
+msgctxt "main_menu2/dynamic_campaign/map/risk"
+msgid "Risk:"
+msgstr "Risiko:"
+
+msgctxt "main_menu2/dynamic_campaign/map/season"
+msgid "Season"
+msgstr "Jahreszeit"
+
+msgctxt "main_menu2/dynamic_campaign/map/reward"
+msgid "Reward:" 
+msgstr "Belohnung:"
+
+msgctxt "main_menu2/steam_startup_cta"
+msgid "Your steam account does not have a paid edition of Call to Arms, which is necessary to to run Call to Arms - Gates of Hell.\nUninstall any existing Call to Arms versions on Steam to eliminate any legacy free products and purchase the basic edition or higher.\nYou will need to remove the legacy free version to be able to make the purchase."
+msgstr "Ihr Steam-Konto enthält eine gratis Edition von Call to Arms, die nicht reicht zum Ausführen von Call to Arms - Gates of Hell. \nDeinstallieren Sie alle bestehenden Call to Arms-Versionen auf Steam, um alle älteren kostenlosen Produkte zu entfernen und die Basisversion zu kaufen, oder höher.\nSie müssen zuerst die alte kostenlose Version entfernen, um den Kauf tätigen zu können."
+
+msgctxt "options/workshop/tag/fx"
+msgid "FX"
+msgstr "FX"
+
+msgctxt "options/workshop/tag/gamemode"
+msgid "Gamemode"
+msgstr "Spielmodus"
+
+msgctxt "options/workshop/tag/interface"
+msgid "Interface"
+msgstr "Interface"
+
+msgctxt "options/workshop/tag/sound"
+msgid "Sound"
+msgstr "Sound"
+
+msgctxt "options/workshop/tag/mp map"
+msgid "MP Map"
+msgstr "MP-Karte"
+
+msgctxt "options/workshop/tag/sp map"
+msgid "SP Map"
+msgstr "SP-Karte"
+
+msgctxt "options/workshop/tag/unit set"
+msgid "Unit Set"
+msgstr "Einheiten"
+
+msgctxt "options/workshop/tag/mp compatible"
+msgid "MP Compatible"
+msgstr "MP-Kompatibel"
+
+msgctxt "options/workshop/tag/total conversion"
+msgid "Total Conversion"
+msgstr "Total Conversion"
+
+msgctxt "main_menu2/singleplayer/select_campaign_army"
+msgid "Browse singleplayer campaigns by faction"
+msgstr "Einzelspielerkampagnen nach Fraktion sortieren"

@@ -1,0 +1,7 @@
+{mod
+	{name "Another research tree <c(FF4500)>v0.9</c>"}
+	{tags "campaign"}
+	{desc "A reworked German research tree with a new structure"}
+	{minGameVersion "any"}
+	{maxGameVersion "any"}
+}
